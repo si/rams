@@ -31,6 +31,13 @@ This isn't the polished PR of the official club site. This is fan-first: real vo
 
 It's non-profit, it's powered by you, and any surplus goes back into local charities.
 
+## Relaunch Strategy
+
+This repo also serves as the knowledge base for the 2026/27 season relaunch —
+pulling the SuperRams community together around a Patreon hub, with match day
+analysis content generated from structured stats. See
+[docs/strategy.md](docs/strategy.md) for the full context and plan.
+
 ## Technology
 
 - HTML5
