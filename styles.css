@@ -189,6 +189,17 @@ body {
     font-size: 1rem;
 }
 
+.social-count {
+    font-size: 0.8rem;
+    color: #999;
+    margin-top: 0.3rem;
+    text-align: center;
+}
+
+.social-link:hover .social-count {
+    color: rgba(255, 255, 255, 0.85);
+}
+
 .bluesky:hover {
     background: #0085ff;
     color: white;
@@ -285,6 +296,25 @@ body {
 
 .report-section.terrace {
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.community-cta {
+    background: #000;
+    color: white;
+    text-align: center;
+}
+
+.community-cta h2 {
+    color: white;
+}
+
+.community-cta p {
+    color: #ccc;
+    margin: 0 auto 2rem;
+}
+
+.community-cta .social-links {
+    margin-bottom: 0;
 }
 
 .section-intro {
