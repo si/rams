@@ -87,6 +87,12 @@ body {
     opacity: 0.9;
 }
 
+/* Latest Section */
+.latest {
+    padding: 2.5rem 0 0;
+    background: white;
+}
+
 /* About Section */
 .about {
     padding: 5rem 0;
@@ -218,6 +224,187 @@ body {
     opacity: 0.8;
 }
 
+/* Match Report Pages */
+.report-hero {
+    background: linear-gradient(135deg, #000000 0%, #333333 100%);
+    color: white;
+    padding: 5rem 0 4rem;
+    text-align: center;
+}
+
+.score-badge {
+    display: inline-block;
+    background: #ffd700;
+    color: #000;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+    margin-bottom: 1.5rem;
+}
+
+.report-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.report-subtitle {
+    font-size: 1.2rem;
+    max-width: 700px;
+    margin: 0 auto 1.5rem;
+    opacity: 0.9;
+}
+
+.report-meta {
+    font-size: 0.95rem;
+    opacity: 0.7;
+}
+
+.report-section {
+    padding: 3.5rem 0;
+    background: white;
+    border-top: 1px solid #eee;
+}
+
+.report-section h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 1.2rem;
+}
+
+.report-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 1rem;
+    max-width: 800px;
+}
+
+.report-section.terrace {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.section-intro {
+    font-style: italic;
+    color: #555 !important;
+}
+
+.quote-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.quote-card {
+    background: white;
+    border-left: 4px solid #ffd700;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+}
+
+.quote-card p {
+    font-size: 1rem;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 0.75rem;
+}
+
+.quote-card cite {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #999;
+    font-style: normal;
+}
+
+.listen-cta {
+    background: #000;
+    color: white;
+    border-radius: 16px;
+    padding: 2.5rem;
+    margin-top: 2rem;
+}
+
+.listen-cta h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
+    color: #ffd700;
+}
+
+.listen-cta p {
+    color: #ddd;
+    max-width: 700px;
+}
+
+.listen-links {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+}
+
+.listen-links .social-link {
+    box-shadow: none;
+}
+
+.facts-box {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 1.75rem;
+    max-width: 800px;
+}
+
+.facts-box p {
+    font-size: 1rem;
+    margin-bottom: 0.6rem;
+    color: #555;
+}
+
+.facts-source {
+    font-size: 0.85rem !important;
+    color: #999 !important;
+    margin-top: 1rem !important;
+}
+
+.report-teaser {
+    display: block;
+    background: #000;
+    color: white;
+    border-radius: 16px;
+    padding: 2rem;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-left: 4px solid #ffd700;
+}
+
+.report-teaser:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.report-teaser .teaser-tag {
+    display: inline-block;
+    color: #ffd700;
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+}
+
+.report-teaser h3 {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.report-teaser p {
+    color: #ccc;
+    font-size: 1rem;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-container {
@@ -253,6 +440,18 @@ body {
     
     .community-content h2 {
         font-size: 2rem;
+    }
+
+    .report-title {
+        font-size: 2.2rem;
+    }
+
+    .report-subtitle {
+        font-size: 1.05rem;
+    }
+
+    .listen-links {
+        flex-direction: column;
     }
 }
 
