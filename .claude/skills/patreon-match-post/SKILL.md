@@ -104,8 +104,15 @@ re-discovering it each week.
   create-post action — Patreon's public API doesn't expose post creation to
   third parties. Draft here, then copy-paste manually into Patreon's editor.
 - Patreon's editor drops markdown tables and often strips emoji on paste —
-  use bullet lists instead of tables, and retype the handful of emoji that
-  matter (⚽, 🔄) directly in the editor rather than relying on paste.
+  use bullet lists instead of tables. The Rotherham post shipped with
+  "very minimal emoji" surviving, despite the draft using ⚪ (once per
+  lineup entry — this is the shirt-colour icon the whole "STARTING XI"
+  format depends on), plus 📍 🗓️ 👇 🗣️ elsewhere. **⚪ is the highest-risk
+  one to lose** since a stripped icon silently degrades the lineup back to
+  an unlabeled list with no visual indication anything went wrong. After
+  pasting, always verify the lineup icons actually rendered before
+  publishing — don't assume paste preserved them, and retype by hand in the
+  editor if it didn't.
 - Bold the section headers manually after pasting; plain-text paste won't
   carry formatting.
 - Canva MCP image generation has been unreliable in this environment

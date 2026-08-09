@@ -107,6 +107,12 @@ IN THEIR WORDS 🗣️
 [Drop in the 2-3 fan quotes from Bluesky/Facebook here once gathered]
 ```
 
+> ⚠️ **Don't copy this last section as-is.** The bracketed placeholder above
+> is exactly what shipped to the live post, unfixed — it's the mistake
+> documented below, not a template to reuse. Future drafts should apply the
+> fix now: cut the section entirely if there's nothing to pull, or replace it
+> with a specific comment-seeding question (see below).
+
 ---
 
 ## What changed after publishing (lessons folded into the skill)
