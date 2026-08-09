@@ -9,8 +9,8 @@ This skill documents the exact structure and rules for a SuperRams matchday Patr
 post, established while drafting the Rotherham United 1-1 Derby County post
 (4 August 2026, published at
 https://www.patreon.com/derbycounty/posts/rotherham-1-1-165840685). Treat that
-post — archived in full at `examples/2026-08-04-rotherham-1-1-derby.md` — as the
-canonical worked example. When in doubt about tone or structure, match it.
+post — archived in full at `posts/2026-08-04-rotherham-1-1-derby.md` (repo
+root) — as the canonical worked example. When in doubt about tone or structure, match it.
 
 ## Why this format
 
@@ -127,6 +127,8 @@ Before drafting, confirm:
 
 ## Reference material
 
-- Full worked example: `examples/2026-08-04-rotherham-1-1-derby.md`
+- Full worked example: `../../../posts/2026-08-04-rotherham-1-1-derby.md`
+  (i.e. `posts/` at the repo root — every published post gets archived there,
+  one file per post)
 - Wider content strategy: `superrams-fan-voices-launch-plan.md` (Google Drive)
 - Season-long stats: `SuperRams — Player Tracker 2026-27` (Google Sheet)
