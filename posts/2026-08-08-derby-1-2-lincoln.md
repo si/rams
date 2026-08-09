@@ -22,7 +22,7 @@ Derby 1-2 Lincoln: three minutes into the season that counts, and it was already
 ## Public preview (above the paywall)
 
 ```
-So much for easing in. Derby's first competitive fixture of the season lasted three minutes before Lincoln City — newly up from League One, and playing their first-ever game at Pride Park — were ahead. A second followed before the half-hour and Eustace's Rams were out of the Carabao Cup before most of the ground had settled into their seats. Sam Szmodics dragged us back into it right on the whistle with a finish worth pausing on, and there's a Matt Clarke injury update patrons will want ahead of Charlton next week. Full breakdown for patrons below 👇
+So much for easing in. Derby's first competitive fixture of the season lasted three minutes before Lincoln City — League One opposition, a division below us, playing their first-ever game at Pride Park — were ahead. A second followed before the half-hour and Eustace's Rams were out of the Carabao Cup before most of the ground had settled into their seats. Sam Szmodics dragged us back into it right on the whistle with a finish worth pausing on, and there's a Matt Clarke injury update patrons will want ahead of Charlton next week. Full breakdown for patrons below 👇
 ```
 
 ## Patrons-only body (below the paywall)
@@ -86,7 +86,7 @@ Attendance: 11,095 (Pride Park Stadium; split by home/away fans not published)
 
 THE READ
 
-No hiding behind "lower league opposition" on this one — Lincoln are up in the Championship alongside us now, and this was their first-ever win at Pride Park to prove it. Two soft goals conceded inside the first 25 minutes against a team we'll be measuring ourselves against all season is the real story here, cup exit or not. Szmodics gives you something to build on; the back four conceding twice before half the ground had found their seats is the bit that needs sorting fast, because Charlton won't be as forgiving as a home comfort cup tie.
+No dressing this one up as a fair fight gone wrong — Lincoln are a League One side, a full division below us, and this was their first-ever win at Pride Park to prove it. Conceding twice inside the first 25 minutes to lower-league opposition is the real story here, cup exit or not. Szmodics gives you something to build on; the back four needs sorting fast, because Charlton next week is Championship opposition, and they won't be as forgiving as whatever let a League One side walk into Pride Park and do that.
 
 
 WHAT'S NEXT
