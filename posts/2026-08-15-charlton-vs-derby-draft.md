@@ -99,7 +99,7 @@ to watch.]
 STATS SNAPSHOT
 
 Goals: 23' Szmodics (Derby); 61' L. Jones (Charlton); 80' T. Campbell (Charlton)
-Bookings: 60' Langås (Derby, yellow)
+Bookings: 60' Langås (Derby, yellow); 90' Mowatt (Derby, yellow); 90+8' Brewster (Charlton, yellow)
 Attendance: 21,531 (The Valley); Derby's away allocation of 3,065 sold out
 ahead of kick-off
 Distance travelled: ~130 miles (Pride Park → The Valley)
@@ -162,11 +162,12 @@ Mowat 👍
   keeping that distinction if THE READ or preview quotes his line directly.
 - THE PEOPLE section is still light on Sanderson and Clark — both played
   the full 90 without a card, but "stayed on the pitch" isn't a real read on
-  how they performed. Worth a proper pass once there's highlights to watch,
-  same as Mowatt (his full first name is still unconfirmed — Kev's post
-  spells it "Mowat", BBC's graphic "Mowatt" — worth checking before he
-  gets a mention of his own, since he came on for the goalscorer at 54'
-  and got a specific shout-out in the fan reaction).
+  how they performed. Worth a proper pass once there's highlights to watch.
+  Same goes for Mowatt, now doubly worth a mention of his own: came on for
+  the goalscorer at 54', got a specific shout-out from Kev Woods, and picked
+  up a 90th-minute yellow on top. Spelling confirmed as "Mowatt" (BBC's
+  subs list, second screenshot) — full first name still just "A." per the
+  same source, worth nailing down before he gets a proper writeup.
 - Rename this file to `2026-08-15-charlton-2-1-derby.md` once finalised, per
   the archive convention.
 - Same known constraints as every prior post: paywall divider inserted
