@@ -99,7 +99,7 @@ to watch.]
 STATS SNAPSHOT
 
 Goals: 23' Szmodics (Derby); 61' L. Jones (Charlton); 80' T. Campbell (Charlton)
-Bookings: 60' Langås (Derby, yellow); 90' Mowatt (Derby, yellow); 90+8' Brewster (Charlton, yellow)
+Bookings: 60' Langås (Derby, yellow); 90' Mowatt (Derby, yellow); 90+8' Brewster (Derby, yellow)
 Attendance: 21,531 (The Valley); Derby's away allocation of 3,065 sold out
 ahead of kick-off
 Distance travelled: ~130 miles (Pride Park → The Valley)
@@ -114,6 +114,9 @@ now a lead thrown away against a newly promoted-feeling Charlton side on the
 literal opening day of the campaign that counts. Szmodics is doing his job
 at the other end. Somebody needs to start doing theirs at the back before
 this stops being a talking point and starts being the whole season's story.
+Doesn't help the discipline picture either — all three bookings on the
+afternoon went to Derby players (Langås, Mowatt, Brewster), none to
+Charlton. Concede the lead, concede the goals, concede the cards.
 
 
 WHAT'S NEXT
@@ -155,6 +158,12 @@ Mowat 👍
   (Clark as #8, Szmodics as #11) — same discrepancy as the matchday graphic
   and the Lincoln post before it. Sticking with the club/Transfermarkt
   numbers throughout, as before.
+- Correction made post-draft: R. Brewster's 90'+8 booking was initially
+  attributed to Charlton — wrong. He's on Derby's bench in the BBC
+  screenshot (the substitutes list runs straight on from Morris, Derby's
+  own last starter), consistent with him coming on for Forsyth at 83' in
+  the subs list above. All three bookings on the day were Derby's own
+  (Langås, Mowatt, Brewster) — worked into THE READ.
 - Kev Woods' "JE not making subs until 84th min" checks out only partly:
   three of the five subs did land at 83'/84', but the first (Szmodics off,
   Mowatt on) was at 54' — almost certainly the thigh-strain change rather
