@@ -5,17 +5,18 @@
   filled** — subs, bookings, full attendance, and Kev's quote text are still
   missing (see "Status" below for why).
 - **Fixture:** Championship, Matchday 1, The Valley, Saturday 15 August 2026
-- **Status:** Final score and goalscorers are confirmed (see note on sourcing
-  below). Subs, bookings, and the official attendance figure could **not**
-  be reliably confirmed this session — most sports sites (ESPN, Sky Sports,
-  BBC, FotMob, Yahoo, Flashscore) were blocked by the network egress proxy in
-  this environment, and search-engine summaries used to work around that
-  started contradicting each other and surfacing players from unrelated
-  matches once asked for that level of detail. Rather than invent
-  minute-by-minute detail, those fields are left `[PENDING]` for manual
-  confirmation from Sky/BBC/the matchday program before this goes live.
-  Kev Woods' Bluesky post was supplied by URL but couldn't be fetched
-  (bsky.app is also blocked here) — his quote is still needed verbatim.
+- **Status:** Final score, goalscorers, and attendance are confirmed (see
+  note on sourcing below). Subs and bookings could **not** be reliably
+  confirmed this session — most sports sites (ESPN, Sky Sports, BBC, FotMob,
+  Yahoo, Flashscore) were blocked by the network egress proxy in this
+  environment, and search-engine summaries used to work around that started
+  contradicting each other and surfacing players from unrelated matches once
+  asked for that level of detail. Rather than invent minute-by-minute
+  detail, those fields are left `[PENDING]` for manual confirmation from
+  Sky/BBC/the matchday program before this goes live. Three Bluesky quotes
+  (Kev Woods, worksbyadam.com, Chris Elst) were supplied by URL but couldn't
+  be fetched — bsky.app is blocked here too — the verbatim text for all
+  three is still needed.
 
 ---
 
@@ -96,8 +97,8 @@ STATS SNAPSHOT
 
 Goals: 23' Szmodics (Derby); 61' L. Jones (Charlton); 80' T. Campbell (Charlton)
 Bookings: [PENDING — see Status note above]
-Attendance: Derby's away allocation (3,065) sold out ahead of kick-off;
-full official attendance figure [PENDING]
+Attendance: 21,531 (The Valley); Derby's away allocation of 3,065 sold out
+ahead of kick-off
 Distance travelled: ~130 miles (Pride Park → The Valley)
 
 
