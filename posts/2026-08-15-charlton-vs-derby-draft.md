@@ -120,11 +120,16 @@ WHAT'S NEXT
 
 IN THEIR WORDS 🗣️
 
-[PENDING — Kev Woods (@kev-woods.bsky.social) posted a reaction
-(https://bsky.app/profile/kev-woods.bsky.social/post/3mt53chhpo226) but the
-text couldn't be fetched (bsky.app blocked in this environment). Needs the
-actual quote pasted in before publishing — do not paraphrase or invent it.
-Add 1-2 more if there's anything else worth pulling by the time this ships.]
+"We're at least 4 players off a competitive squad. Defensive shape was all wrong, so much space and easy to move the ball against our right side. Going forwards we don't have enough sustained pressure and we don't make enough use of what we do. We have some talented players, we do not have a team." — Chris Elston (@chriselst.bsky.social)
+
+[PENDING — two more quotes still needed:
+- Kev Woods (@kev-woods.bsky.social) —
+  https://bsky.app/profile/kev-woods.bsky.social/post/3mt53chhpo226
+- worksbyadam.com —
+  https://bsky.app/profile/worksbyadam.com/post/3mt54nh7w3c2t
+Neither could be fetched (bsky.app blocked in this environment) — text
+needs pasting in verbatim. Three total is the target per the skill's 2-3
+range; two more would round it out but isn't a hard requirement.]
 ```
 
 ---
