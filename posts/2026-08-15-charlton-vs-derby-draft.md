@@ -40,10 +40,24 @@ Charlton Athletic v Derby County — Championship, Matchday 1
 
 
 STARTING XI — THE RAMS
+Formation: 3-5-1-1
 
-[PENDING — confirm from the matchday graphic and cross-check squad numbers
-against dcfc.co.uk / Transfermarkt before locking in, per standing rule.
-Flag anything unconfirmed as #TBC rather than guessing.]
+⚪ #1 — Jacob Widell Zetterström
+⚪ #6 — Sondre Langås
+⚪ #28 — Dion Sanderson
+⚪ #18 — Charlie Taylor
+⚪ #3 — Craig Forsyth
+⚪ #29 — Oscar Fraulo
+⚪ #27 — Lewis Travis
+⚪ #42 — Bobby Clark
+⚪ #23 — Jake Ward
+⚪ #19 — Sam Szmodics
+⚪ #9 — Carlton Morris
+
+(The matchday graphic showed Clark as #8 and Szmodics as #11 — same
+discrepancy the Lincoln post already ran into. Going with the club/
+Transfermarkt-verified numbers again, per that precedent. All other numbers
+above cross-checked clean against dcfc.co.uk/Transfermarkt.)
 
 
 SUBS — WHO CAME OFF, WHO CAME ON
@@ -107,9 +121,10 @@ pulling, per the skill's standing fix, rather than leaving a dead placeholder.]
   sanity check against a live routing source if the number matters for the
   final copy, since it was sourced from a general Derby-to-London figure
   rather than stadium-to-stadium.
-- Once full time hits: confirmed XI + squad numbers, subs with minutes,
+- Starting XI is locked in (confirmed team sheet, squad numbers cross-checked
+  against dcfc.co.uk/Transfermarkt). Once full time hits: subs with minutes,
   goals/bookings, attendance, and the write-up sections (PEOPLE, READ,
-  PREVIEW, TITLE) all need doing together — none of them can be honestly
+  PREVIEW, TITLE) still need doing together — none of them can be honestly
   written before the final whistle.
 - Same known constraints apply as every prior post: paywall divider inserted
   manually in Patreon's editor, bold headers by hand after paste, verify ⚪
