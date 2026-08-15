@@ -13,10 +13,9 @@
   contradicting each other and surfacing players from unrelated matches once
   asked for that level of detail. Rather than invent minute-by-minute
   detail, those fields are left `[PENDING]` for manual confirmation from
-  Sky/BBC/the matchday program before this goes live. Three Bluesky quotes
-  (Kev Woods, worksbyadam.com, Chris Elst) were supplied by URL but couldn't
-  be fetched — bsky.app is blocked here too — the verbatim text for all
-  three is still needed.
+  Sky/BBC/the matchday program before this goes live. IN THEIR WORDS is now
+  complete — Chris Elston, Adam Thompson, and Kev Woods' quotes were all
+  supplied directly by Si, since bsky.app itself is blocked here.
 
 ---
 
@@ -122,14 +121,18 @@ IN THEIR WORDS 🗣️
 
 "We're at least 4 players off a competitive squad. Defensive shape was all wrong, so much space and easy to move the ball against our right side. Going forwards we don't have enough sustained pressure and we don't make enough use of what we do. We have some talented players, we do not have a team." — Chris Elston (@chriselst.bsky.social)
 
-[PENDING — two more quotes still needed:
-- Kev Woods (@kev-woods.bsky.social) —
-  https://bsky.app/profile/kev-woods.bsky.social/post/3mt53chhpo226
-- worksbyadam.com —
-  https://bsky.app/profile/worksbyadam.com/post/3mt54nh7w3c2t
-Neither could be fetched (bsky.app blocked in this environment) — text
-needs pasting in verbatim. Three total is the target per the skill's 2-3
-range; two more would round it out but isn't a hard requirement.]
+"Positive moments? YES! But we're missing that cutting edge. One-goal leads are never comfortable and today was just another example why." — Adam Thompson (@worksbyadam.com)
+
+"Yes Szmodics scored but had a thigh strain pre game..
+Travis fading so fast in the 2nd half..
+Murkin hamstring set back..
+Fraulo is not for us..
+JE not making subs until 84th min! at least 10 mins to late..
+Defensive frailties still haunt us..
+breath..
+We need 2 wingers min..
+Mowat 👍
+#dcfc #dcfcfans" — Kev Woods (@kev-woods.bsky.social)
 ```
 
 ---
@@ -149,9 +152,14 @@ range; two more would round it out but isn't a hard requirement.]
 - THE PEOPLE section is intentionally thin on Sanderson and Clark — didn't
   want to invent performance detail neither confirmed nor plausible from a
   scoreline alone. Fill in properly once you've seen highlights or a report.
-- Once subs/bookings/attendance/quote are in: revisit THE READ and preview
-  in case the fuller picture (e.g. who actually got hooked, any red cards)
-  changes the framing.
+- Once subs/bookings are confirmed from a proper source: revisit THE READ
+  and preview in case the fuller picture (who actually got hooked, any red
+  cards) changes the framing. Kev Woods' quote drops a couple of specific
+  leads worth chasing down and verifying properly rather than taking as
+  fact outright, since it's a fan's live impression, not a report: Eustace
+  apparently didn't make a substitution until the 84th minute, and "Mowat"
+  gets a thumbs-up — worth checking whether that's a sub who came on and
+  impressed, and whether he's in the Player Tracker yet.
 - Rename this file to `2026-08-15-charlton-2-1-derby.md` once finalised, per
   the archive convention.
 - Same known constraints as every prior post: paywall divider inserted
