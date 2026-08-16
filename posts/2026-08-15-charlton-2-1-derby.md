@@ -4,14 +4,18 @@
   format. Every result-dependent field is now filled; the last thing before
   this can go up is a proofread pass.
 - **Fixture:** Championship, Matchday 1, The Valley, Saturday 15 August 2026
-- **Status:** Final score, goalscorers, attendance, subs, and one booking
-  are all confirmed. Score/scorers/attendance came from consistent
-  cross-source search results; subs and the Langås booking came from a BBC
-  Sport lineups screenshot Si supplied directly, since Sky Sports, BBC, and
+- **Status:** Every field is filled. Score/scorers/attendance came from
+  consistent cross-source search results; subs and bookings came from BBC
+  Sport lineups screenshots Si supplied directly, since Sky Sports, BBC, and
   every other match-report site were blocked for direct fetching in this
   environment all session. IN THEIR WORDS is complete — Chris Elston, Adam
   Thompson, and Kev Woods' quotes were all supplied directly by Si, since
-  bsky.app itself is blocked here too.
+  bsky.app itself is blocked here too. THE PEOPLE is now fully written —
+  Taylor, Morris, and Mowatt entries and the Sanderson/Clark reads came from
+  cross-checking dcfc.co.uk's match report and reaction piece via search
+  (one clearly false claim, a "58th-minute Bobby Clark goal," was caught and
+  discarded — it directly contradicted the confirmed 2-1 scoreline and was
+  almost certainly bled in from an unrelated report).
 
 ---
 
@@ -72,28 +76,52 @@ SUBS — WHO CAME OFF, WHO CAME ON
 THE PEOPLE, NOT JUST THE SHEET
 
 Sam Szmodics
-Two competitive games, two goals, and this one actually counted. Puts Derby
-ahead inside the first half against Championship opposition on the opening
-day — after the wondergoal against Lincoln, this is no longer a hot streak,
-it's a habit. Hauled off at 54', which lines up with the pre-game thigh
-strain being talked about on the fan channels rather than anything tactical
-— worth keeping an eye on for Cardiff. The Ipswich loan spell is looking
-better value with every passing week regardless.
+Two competitive games, two goals, and this one actually counted. Teed up by
+Carlton Morris, he puts Derby ahead inside the first half against
+Championship opposition on the opening day — after the wondergoal against
+Lincoln, this is no longer a hot streak, it's a habit. Hauled off at 54',
+which lines up with the pre-game thigh strain being talked about on the fan
+channels rather than anything tactical — worth keeping an eye on for
+Cardiff. The Ipswich loan spell is looking better value with every passing
+week regardless.
+
+Carlton Morris
+Quietly does the unglamorous bit — lays on the pass that sends Szmodics
+through for the opener — and then plays the full 90 without a mark either
+side of it. Not the kind of contribution that gets shouted about, but this
+team needed the goal more than it needed a second name on the scoresheet.
+
+Charlie Taylor
+First league start of the season — friendly and cup minutes don't count the
+same, and this is the one that was always going to matter. Repays it with a
+proper last-ditch block, sliding in to deny Danny McNamara from close range
+after a bouncing ball fell to him in the box. Whatever went wrong at the
+back on the day, that wasn't down to Taylor — full marks for at least one
+defensive contribution that actually shows up on a highlights reel.
 
 Dion Sanderson
 Straight in for the injury-doubt Clarke and asked to marshal an unfamiliar
 back three on the opening day of the season, away from home. Played the
-full 90 — no card, no hook — which is either quietly solid or exactly the
-kind of "didn't do anything wrong, didn't do much right" shift that gets
-overlooked when the goals conceded aren't down to one man alone. [PENDING —
-worth a proper eye-test read once there's highlights to actually watch,
-rather than just "he stayed on the pitch."]
+full 90, no card, and — worth saying plainly — neither of the two goals
+Derby conceded gets pinned on him in any account of the match: Jones headed
+in a Grant cross, Campbell finished off a counter-attack. Whatever the story
+of this defence turns out to be this season, the opening chapter isn't
+written at Sanderson's door.
 
 Bobby Clark
-Went the full 90 in midfield without troubling the stats sheet either way.
-[PENDING — the most-watched name in the squad this pre-season deserves more
-than "he played" — needs an actual performance note once there's highlights
-to watch.]
+Went the full 90 in midfield and, like Sanderson, isn't named in connection
+with either goal conceded. That's the most that can honestly be said of it
+right now — no moment of quality to point to, but no error to pin on him
+either, for a player carrying more hype than a quiet opening-day 90 minutes
+usually attracts.
+
+Alex Mowatt
+On his full Derby debut, 36 minutes for the new arrival from West Brom,
+coming on for the man who'd just scored. Picked up a booking deep into
+stoppage time for his trouble, but still walked away with the pick of the
+fan reactions on the day — Kev Woods singled him out with a 👍 in the middle
+of an otherwise grim list of complaints, which is as good a start as a
+debutant gets when the team's losing.
 
 
 STATS SNAPSHOT
@@ -116,7 +144,10 @@ at the other end. Somebody needs to start doing theirs at the back before
 this stops being a talking point and starts being the whole season's story.
 Doesn't help the discipline picture either — all three bookings on the
 afternoon went to Derby players (Langås, Mowatt, Brewster), none to
-Charlton. Concede the lead, concede the goals, concede the cards.
+Charlton. Concede the lead, concede the goals, concede the cards. Even
+Eustace couldn't dress it up much afterwards: "bitterly disappointed," a
+game he "didn't think there was anything in," and an admission there's "a
+lot of hard work ahead." Hard to argue.
 
 
 WHAT'S NEXT
@@ -169,16 +200,17 @@ Mowat 👍
   Mowatt on) was at 54' — almost certainly the thigh-strain change rather
   than a tactical one, given his own quote flags the pre-game strain. Worth
   keeping that distinction if THE READ or preview quotes his line directly.
-- THE PEOPLE section is still light on Sanderson and Clark — both played
-  the full 90 without a card, but "stayed on the pitch" isn't a real read on
-  how they performed. Worth a proper pass once there's highlights to watch.
-  Same goes for Mowatt, now doubly worth a mention of his own: came on for
-  the goalscorer at 54', got a specific shout-out from Kev Woods, and picked
-  up a 90th-minute yellow on top. Spelling confirmed as "Mowatt" (BBC's
-  subs list, second screenshot) — full first name still just "A." per the
-  same source, worth nailing down before he gets a proper writeup.
-- Rename this file to `2026-08-15-charlton-2-1-derby.md` once finalised, per
-  the archive convention.
+- Sanderson and Clark reads are deliberately framed around what's *absent*
+  from every account of the match (neither named in connection with either
+  goal conceded) rather than invented praise or criticism — that's a
+  defensible, sourced way to write "quiet game" without making up detail
+  nobody actually reported. If a proper eye-test read ever becomes available
+  (highlights, a ratings piece), it can replace this framing outright.
+- Mowatt's full first name is still unconfirmed — BBC's graphic only ever
+  gave "A. Mowatt." Worth nailing down if he becomes a regular; the dcfc.co.uk
+  reaction piece confirms his debut and the 36 minutes (54' to full-time)
+  but didn't give a first name either.
+- File already renamed to the archive convention as of this update.
 - Same known constraints as every prior post: paywall divider inserted
   manually in Patreon's editor, bold headers by hand after paste, verify ⚪
   icons survived, Canva image via manual download-and-upload if the MCP path
