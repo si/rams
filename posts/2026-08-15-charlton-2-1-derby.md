@@ -215,3 +215,64 @@ Mowat 👍
   manually in Patreon's editor, bold headers by hand after paste, verify ⚪
   icons survived, Canva image via manual download-and-upload if the MCP path
   fails again.
+
+---
+
+## Descript transcript
+
+Spoken-script version of the report for voiceover/recording — natural
+sentences, no markdown symbols, @handles dropped since they read awkwardly
+aloud. Order per Si's request: THE MATCH (as a sentence), starting XI called
+out individually, THE READ, THE PEOPLE, IN THEIR WORDS, WHAT'S NEXT.
+
+```
+THE MATCH
+
+Charlton Athletic beat Derby County two-one at The Valley in London on Saturday the fifteenth of August, in the opening match of the Championship season.
+
+STARTING ELEVEN
+
+In goal, Jacob Widell Zetterström.
+At the back, Sondre Langås.
+Dion Sanderson.
+Charlie Taylor.
+In midfield, Craig Forsyth.
+Oscar Fraulo.
+Lewis Travis.
+Bobby Clark.
+Jake Ward.
+In the number ten role, Sam Szmodics.
+And leading the line, Carlton Morris.
+
+THE READ
+
+Three competitive-adjacent outings into the season, and the story hasn't changed. Derby can score. Derby cannot hold a lead. There was a one-one draw papered over by pre-season not mattering, a one-two cup exit to League One opposition, and now a lead thrown away against a newly promoted-feeling Charlton side, on the literal opening day of the campaign that counts. Szmodics is doing his job at the other end. Somebody needs to start doing theirs at the back, before this stops being a talking point and starts being the whole season's story. It doesn't help the discipline picture either — all three bookings on the afternoon went to Derby players: Langås, Mowatt, and Brewster. None to Charlton. Concede the lead, concede the goals, concede the cards. Even Eustace couldn't dress it up much afterwards. He was, in his words, "bitterly disappointed" — a game he "didn't think there was anything in" — and he admitted there's "a lot of hard work ahead." Hard to argue.
+
+THE PEOPLE
+
+Sam Szmodics. Two competitive games, two goals, and this one actually counted. Teed up by Carlton Morris, he puts Derby ahead inside the first half against Championship opposition, on the opening day. After the wondergoal against Lincoln, this is no longer a hot streak — it's a habit. He was hauled off at the fifty-fourth minute, which lines up with the pre-game thigh strain being talked about on the fan channels, rather than anything tactical. Worth keeping an eye on for Cardiff. The Ipswich loan spell is looking better value with every passing week regardless.
+
+Carlton Morris. Quietly does the unglamorous bit — lays on the pass that sends Szmodics through for the opener — and then plays the full ninety without a mark either side of it. Not the kind of contribution that gets shouted about, but this team needed the goal more than it needed a second name on the scoresheet.
+
+Charlie Taylor. First league start of the season — friendly and cup minutes don't count the same, and this is the one that was always going to matter. He repays it with a proper last-ditch block, sliding in to deny Danny McNamara from close range after a bouncing ball fell to him in the box. Whatever went wrong at the back on the day, that wasn't down to Taylor. Full marks for at least one defensive contribution that actually shows up on a highlights reel.
+
+Dion Sanderson. Straight in for the injury-doubt Clarke, and asked to marshal an unfamiliar back three on the opening day of the season, away from home. Played the full ninety, no card — and it's worth saying plainly, neither of the two goals Derby conceded gets pinned on him in any account of the match. Jones headed in a Grant cross. Campbell finished off a counter-attack. Whatever the story of this defence turns out to be this season, the opening chapter isn't written at Sanderson's door.
+
+Bobby Clark. Went the full ninety in midfield, and like Sanderson, isn't named in connection with either goal conceded. That's the most that can honestly be said of it right now — no moment of quality to point to, but no error to pin on him either, for a player carrying more hype than a quiet opening-day ninety minutes usually attracts.
+
+Alex Mowatt. On his full Derby debut — thirty-six minutes for the new arrival from West Brom, coming on for the man who'd just scored. Picked up a booking deep into stoppage time for his trouble, but still walked away with the pick of the fan reactions on the day. Kev Woods singled him out with a thumbs-up in the middle of an otherwise grim list of complaints — which is as good a start as a debutant gets, when the team's losing.
+
+IN THEIR WORDS
+
+Three reactions from the fans, straight off Bluesky.
+
+First, from Chris Elston. "We're at least four players off a competitive squad. Defensive shape was all wrong — so much space, and easy to move the ball against our right side. Going forwards, we don't have enough sustained pressure, and we don't make enough use of what we do. We have some talented players. We do not have a team."
+
+Then, Adam Thompson. "Positive moments? Yes! But we're missing that cutting edge. One-goal leads are never comfortable, and today was just another example why."
+
+And finally, Kev Woods, in a longer rundown. "Yes, Szmodics scored, but had a thigh strain pre-game. Travis fading so fast in the second half. Murkin, hamstring setback. Fraulo is not for us. J-E not making subs until the eighty-fourth minute — at least ten minutes too late. Defensive frailties still haunt us. Breathe. We need two wingers, minimum. Mowatt — thumbs up. Hashtag D-C-F-C, hashtag D-C-F-C fans."
+
+WHAT'S NEXT
+
+Derby host Cardiff City at Pride Park on Saturday the twenty-second of August, for matchday two of the Championship season.
+```
