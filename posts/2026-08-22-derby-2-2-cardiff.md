@@ -1,9 +1,16 @@
-# Pre-match: Derby County v Cardiff City
+# Draft: Derby County 2-2 Cardiff City
 
-Gathered ahead of kick-off on matchday itself. Per the `patreon-match-post`
-skill, the actual write-up gets drafted the day after (23 August), once
-score/lineup/subs/stats are confirmed — this file is the head start on the
-parts that don't change between now and full time.
+- **Published:** not yet — this is not drafted into the `patreon-match-post`
+  format yet. Data-gathering only so far; see "Why this isn't ready to
+  draft yet" below for what's blocking it.
+- **Fixture:** EFL Championship, Matchday 2, Pride Park Stadium, Saturday
+  22 August 2026
+- **Status:** Pre-match details (team news, head-to-head) are solid. Final
+  score and referee are confirmed. Goal sequence, bookings' minutes,
+  starting XI/subs and attendance are either missing or contradicted
+  themselves across sources checked — none of that should be trusted into
+  a draft yet. Once resolved, write this up against the Rotherham post
+  (`2026-08-04-rotherham-1-1-derby.md`) as the canonical example.
 
 ## Confirmed
 
@@ -11,8 +18,6 @@ parts that don't change between now and full time.
 - **Venue:** Pride Park Stadium, Derby (Derby's first home league game of
   the season)
 - **Date/kick-off:** Saturday 22 August 2026, KO 15:00
-- **Referee:** not confirmed by any source checked — chase this post-match
-  or from the matchday programme
 - **Context:** Derby lost 2-1 away at Charlton on the opening weekend (after
   going out of the Carabao Cup to Lincoln in midweek); Cardiff opened with a
   1-1 draw at home to Wrexham. Both sides looking for their first win.
