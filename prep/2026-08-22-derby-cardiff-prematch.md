@@ -32,17 +32,49 @@ Szmodics being out is a blow worth flagging for the write-up — he was the
 one bright spot in the Lincoln defeat and had just been subbed off in that
 game before this injury news broke.
 
-## Still to gather post-match (per skill checklist)
+## Post-match findings (confidence varies — see notes)
 
-- [ ] Final score
-- [ ] Derby's starting XI with squad numbers (flag any `#TBC`)
-- [ ] Substitutions with minutes
-- [ ] Goalscorers with minutes (pen/OG flags)
-- [ ] Bookings
-- [ ] Attendance — official figure or best available detail
-- [ ] Referee (if findable)
-- [ ] Next fixture
-- [ ] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS"
+- [x] **Final score:** Derby County 2-2 Cardiff City
+- [x] **Referee:** Ruebyn Ricardo. Assistants: Darren Williams, Nigel Lugg.
+      Fourth official: Oliver Langford. (Corroborated across BeSoccer,
+      Sports Mole, WorldFootball, WhoScored, EFL.com — high confidence.)
+- [~] **Goalscorers:** Cardiff opened the scoring — Cian Ashford converting
+      a far-post header from a corner. Carlton Morris then put Derby ahead,
+      Bobby Clark supplying the pass for a Morris solo finish. Bobby Clark
+      himself got Derby's second goal, early in the second half, finishing
+      after Corey Blackett-Taylor cut into the box. **That's 3 goals
+      described for a 2-2 scoreline — one description is wrong or
+      duplicated (Morris's goal and Clark's goal may be the same event
+      described two different ways by different sources).** Needs
+      resolving before publishing — don't guess which.
+- [~] **Bookings:** Rubin/Rubin Colwill (Cardiff) and Oscar Fraulo (Derby)
+      both booked early in the second half. No minutes found.
+- [ ] **Starting XI / subs:** Every source I could search gave contradictory
+      or clearly-impossible lineups (e.g. the same player — Craig Forsyth,
+      Joe Ward — showing up in *both* teams' XIs in one summary). This
+      smells like search results blending pre-match *predicted* lineups
+      with actual ones, or outright bad summarization. **Do not trust any
+      lineup pulled from this session's search results.** Needs a real
+      source: matchday programme, DCFC's own report, or BBC/Sky match
+      centre.
+- [ ] **Attendance:** not found.
+- [ ] **Distance travelled:** N/A — home fixture.
+- [ ] **Next fixture:** not yet checked.
+- [ ] **2-3 fan quotes** from Bluesky/Facebook for "IN THEIR WORDS": not
+      yet gathered.
+
+## Why this isn't ready to draft yet
+
+This session's web access is unusually restricted — `WebFetch` is blocked
+for essentially every match-report domain tried (dcfc.co.uk, espn.com,
+vavel.com), so everything above came from `WebSearch`'s AI-summarized
+snippets rather than a source Claude could read directly and cross-check.
+That's fine for the referee (multiple independent snippets agreed) but not
+good enough for the goal sequence or lineup, where the snippets actively
+contradicted each other. Per the skill's own rule — flag `#TBC` rather than
+guess — this shouldn't go to draft until those are resolved. Best options:
+paste in the DCFC match report text directly, or confirm the goal order and
+XI from something you can see (app, programme, stream).
 
 ## Sources
 
