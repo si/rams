@@ -1,8 +1,8 @@
 # Draft: Derby County 2-2 Cardiff City
 
-- **Published:** not yet — drafted, pending squad-number sign-off, exact
-  booking/second-goal minutes, and fan quotes for "IN THEIR WORDS" before
-  it goes up on Patreon.
+- **Published:** not yet — drafted, pending squad-number sign-off and
+  exact booking/second-goal minutes before it goes up on Patreon. Fan
+  quotes and podcast plug are in.
 - **Fixture:** EFL Championship, Matchday 2, Pride Park Stadium, Saturday
   22 August 2026 — Derby's first home league game of the season.
 - **Status:** Drafted against the `patreon-match-post` skill format, with
@@ -101,7 +101,18 @@ WHAT'S NEXT
 
 IN THEIR WORDS 🗣️
 
-[pending — Si to supply fan quotes from Bluesky/Facebook]
+"Cardiff were a good side. They utilised the whole pitch and always had passing options. Few flashes of promise from Derby. Early days. Glad of a point at the end. Unbelievable number of cards." — @msbailz.bsky.social
+
+"Some positive signs but we need to improve our fitness and our defence. Langas looks way off it, same as Zetterstrom. Just don't rate Sanderson as one of the main CB's. Go and get Cashin on loan. And why not play Bilbija??" — @mimij9.bsky.social
+
+"A mixed bag from #dcfc this afternoon, good in patches going forward, woefully open at the back at times. Dropping points at home is always frustrating but the few boos at the end were ridiculous." — @apancisi.bsky.social
+
+
+LISTEN: RAMS REVIEW PODCAST
+
+The lads broke this one down too — full episode here: https://www.ramsreviewpodcast.com/post/dcfc-2-2-cardiff-22-aug-26
+
+https://open.spotify.com/show/43dVeLKdYVWCjsGzupNvpG?si=jV7fN4HbSsuhYWdyhLaUHQ
 ```
 
 ---
@@ -137,6 +148,19 @@ IN THEIR WORDS 🗣️
   their substitutions aren't listed above even though some detail on them
   turned up in search.
 - No image yet — same Canva-reliability caveat as every prior post.
+- **Fan quotes are handle-only** — Si supplied the three Bluesky posts and
+  handles (@msbailz.bsky.social, @mimij9.bsky.social, @apancisi.bsky.social)
+  but no display names, so that's how they're credited above rather than
+  guessing at real names. Trimmed trailing hashtag noise (e.g. `#dcfcfans`)
+  off the ends of two quotes as pure tag clutter, left everything else
+  verbatim.
+- **Podcast plug is unverified content-wise** — this session's `WebFetch`
+  is blocked for ramsreviewpodcast.com too, so I couldn't confirm what's
+  actually discussed in that episode beyond the title Si gave. The blurb
+  above is deliberately generic rather than guessing at content. Also
+  unconfirmed: whether Patreon auto-embeds a bare Spotify show link pasted
+  on its own line, or whether it just renders as plain text — check on
+  paste and swap for a manual embed/screenshot if it doesn't render.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the Rotherham/Lincoln pattern.
 
