@@ -1,89 +1,154 @@
 # Draft: Derby County 2-2 Cardiff City
 
-- **Published:** not yet — this is not drafted into the `patreon-match-post`
-  format yet. Data-gathering only so far; see "Why this isn't ready to
-  draft yet" below for what's blocking it.
+- **Published:** not yet — drafted, pending squad-number sign-off, exact
+  booking/second-goal minutes, and fan quotes for "IN THEIR WORDS" before
+  it goes up on Patreon.
 - **Fixture:** EFL Championship, Matchday 2, Pride Park Stadium, Saturday
-  22 August 2026
-- **Status:** Pre-match details (team news, head-to-head) are solid. Final
-  score and referee are confirmed. Goal sequence, bookings' minutes,
-  starting XI/subs and attendance are either missing or contradicted
-  themselves across sources checked — none of that should be trusted into
-  a draft yet. Once resolved, write this up against the Rotherham post
-  (`2026-08-04-rotherham-1-1-derby.md`) as the canonical example.
+  22 August 2026 — Derby's first home league game of the season.
+- **Status:** Drafted against the `patreon-match-post` skill format, with
+  the confidence caveats below. This session's `WebFetch` is blocked for
+  every match-report domain tried (dcfc.co.uk, Sky Sports, ESPN, VAVEL),
+  so everything here comes from `WebSearch`'s summarized snippets rather
+  than a page Claude could read and cross-check directly — same
+  limitation as the first pass, but a second round of more targeted
+  searches resolved most of the contradictions from that pass. What's
+  still soft is flagged inline and in "Notes for whoever publishes this."
 
-## Confirmed
+---
 
-- **Fixture:** EFL Championship, Matchday 2
-- **Venue:** Pride Park Stadium, Derby (Derby's first home league game of
-  the season)
-- **Date/kick-off:** Saturday 22 August 2026, KO 15:00
-- **Context:** Derby lost 2-1 away at Charlton on the opening weekend (after
-  going out of the Carabao Cup to Lincoln in midweek); Cardiff opened with a
-  1-1 draw at home to Wrexham. Both sides looking for their first win.
-- **Head-to-head:** Cardiff have the recent edge — 6 wins in the last 12
-  meetings to Derby's 3, with 3 draws.
+## Title field
 
-## Team news
+```
+Derby 2-2 Cardiff: twice behind, twice level, and a first point of the season in front of 28,926
+```
 
-**Derby (out):** Sam Szmodics, Matt Clarke, Derry Murkin, Patrick Agyemang.
-Ryan Hedges has joined long-term after a trial period; Alex Mowatt (signed
-from West Brom on a two-year deal) made his Derby debut at Charlton and
-should be in the frame again.
+## Public preview (above the paywall)
 
-**Cardiff (out):** Calum Chambers, Gabe Osho, William Fish, Dylan Lawlor.
+```
+Derby's first home game of the season and Eustace's Rams needed it twice — Cardiff punished a slow start to lead inside 19 minutes, got pegged back inside five, then went ahead again before half-time. It took a Bobby Clark special right at the start of the second half to drag Derby level for good, in front of the biggest crowd of the campaign so far. Still no win in three, but after Lincoln and Charlton, a point off a promoted side that hasn't lost yet feels like the first sign of life. Full breakdown for patrons below 👇
+```
 
-Szmodics being out is a blow worth flagging for the write-up — he was the
-one bright spot in the Lincoln defeat and had just been subbed off in that
-game before this injury news broke.
+## Patrons-only body (below the paywall)
 
-## Post-match findings (confidence varies — see notes)
+```
+THE MATCH
 
-- [x] **Final score:** Derby County 2-2 Cardiff City
-- [x] **Referee:** Ruebyn Ricardo. Assistants: Darren Williams, Nigel Lugg.
-      Fourth official: Oliver Langford. (Corroborated across BeSoccer,
-      Sports Mole, WorldFootball, WhoScored, EFL.com — high confidence.)
-- [~] **Goalscorers:** Cardiff opened the scoring — Cian Ashford converting
-      a far-post header from a corner. Carlton Morris then put Derby ahead,
-      Bobby Clark supplying the pass for a Morris solo finish. Bobby Clark
-      himself got Derby's second goal, early in the second half, finishing
-      after Corey Blackett-Taylor cut into the box. **That's 3 goals
-      described for a 2-2 scoreline — one description is wrong or
-      duplicated (Morris's goal and Clark's goal may be the same event
-      described two different ways by different sources).** Needs
-      resolving before publishing — don't guess which.
-- [~] **Bookings:** Rubin/Rubin Colwill (Cardiff) and Oscar Fraulo (Derby)
-      both booked early in the second half. No minutes found.
-- [ ] **Starting XI / subs:** Every source I could search gave contradictory
-      or clearly-impossible lineups (e.g. the same player — Craig Forsyth,
-      Joe Ward — showing up in *both* teams' XIs in one summary). This
-      smells like search results blending pre-match *predicted* lineups
-      with actual ones, or outright bad summarization. **Do not trust any
-      lineup pulled from this session's search results.** Needs a real
-      source: matchday programme, DCFC's own report, or BBC/Sky match
-      centre.
-- [ ] **Attendance:** not found.
-- [ ] **Distance travelled:** N/A — home fixture.
-- [ ] **Next fixture:** not yet checked.
-- [ ] **2-3 fan quotes** from Bluesky/Facebook for "IN THEIR WORDS": not
-      yet gathered.
+Derby County 2-2 Cardiff City — EFL Championship, Matchday 2
+📍 Pride Park Stadium, Derby
+🗓️ Saturday 22 August 2026, KO 15:00
 
-## Why this isn't ready to draft yet
 
-This session's web access is unusually restricted — `WebFetch` is blocked
-for essentially every match-report domain tried (dcfc.co.uk, espn.com,
-vavel.com), so everything above came from `WebSearch`'s AI-summarized
-snippets rather than a source Claude could read directly and cross-check.
-That's fine for the referee (multiple independent snippets agreed) but not
-good enough for the goal sequence or lineup, where the snippets actively
-contradicted each other. Per the skill's own rule — flag `#TBC` rather than
-guess — this shouldn't go to draft until those are resolved. Best options:
-paste in the DCFC match report text directly, or confirm the goal order and
-XI from something you can see (app, programme, stream).
+STARTING XI — THE RAMS
+
+⚪ #1 — Jacob Widell Zetterström
+⚪ #6 — Sondre Langås
+⚪ #28 — Dion Sanderson
+⚪ #18 — Charlie Taylor
+⚪ #27 — Lewis Travis (c)
+⚪ #20 — Alex Mowatt
+⚪ #22 — Max Johnston
+⚪ #29 — Oscar Fraulo
+⚪ #33 — Corey Blackett-Taylor
+⚪ #42 — Bobby Clark
+⚪ #9 — Carlton Morris
+
+
+SUBS — WHO CAME OFF, WHO CAME ON
+
+**65'** Fraulo ↓ · ↑ Hedges
+**65'** Blackett-Taylor ↓ · ↑ Brewster
+**85'** Morris ↓ · ↑ Salvesen
+**85'** Johnston ↓ · ↑ Nyambe
+
+
+THE PEOPLE, NOT JUST THE SHEET
+
+Bobby Clark
+Provided the assist for Morris's opener and then went and scored the equalizer himself two minutes into the second half, ghosting into the box off a Blackett-Taylor cutback. Two goal involvements in a game Derby didn't even lead for more than a few minutes — quietly having a monster start to the season.
+
+Carlton Morris
+First goal of the season, and it took him 24 minutes of his home debut in claret and blue to get it. Derby needed an immediate reply after conceding early and he provided exactly that — now do it again against Swansea.
+
+Alex Mowatt
+Home debut, days after signing from West Brom. Thrown straight into a back-and-forth Championship game and didn't look out of place, which is about the best a new arrival can hope for in a game this scrappy.
+
+Corey Blackett-Taylor
+First start of the season after coming off the bench at Charlton, and he's the one who sets up Clark's equalizer. Lasted the full 65 minutes before making way — a proper audition.
+
+Oscar Fraulo
+Booked in the second half and hooked at 65' — his third game running where he hasn't seen out 90 minutes. Worth watching whether that's fitness management or Eustace losing patience.
+
+Charlie Taylor
+The one to flag by omission: after being hooked at half-time against Rotherham and again at 63' against Lincoln, he played the full 90 here. Whatever the issue was, it looks sorted for now.
+
+
+STATS SNAPSHOT
+
+Goals: 19' Ashford (Cardiff), 24' Morris, 39' Salech (Cardiff), 46' Clark
+Bookings: Fraulo (Derby), R. Colwill (Cardiff) — both early second half, exact minutes not confirmed
+Attendance: 28,926 (Pride Park Stadium)
+
+
+THE READ
+
+Two points dropped from winning positions feels wrong to say about a game Derby never actually led for long, but conceding twice from a standing start against a side that hadn't lost all season is the same problem as Charlton and Lincoln in miniature — quick starts by the opposition, Derby playing catch-up. The response is the genuinely encouraging bit: level twice, and level for good within two minutes of the restart the second time. Still searching for a first win, but for the first time this season it looked like a team that knows how to claw one back rather than one that's just there to be beaten.
+
+
+WHAT'S NEXT
+
+**Saturday 29 August, Pride Park: Swansea City (h), Championship.** Back-to-back home games — the first proper chance to get the home crowd something to shout about.
+
+
+IN THEIR WORDS 🗣️
+
+[pending — Si to supply fan quotes from Bluesky/Facebook]
+```
+
+---
+
+## Notes for whoever publishes this
+
+- **Squad numbers for Sanderson (#28), Johnston (#22) and Mowatt (#20)
+  are single-source** — a blended search summary, not independently
+  cross-checked against dcfc.co.uk and Transfermarkt the way the Lincoln
+  post's numbers were, because direct fetches to either site are blocked
+  in this session. Verify before publishing, same as the skill's known
+  constraint around conflicting sources.
+- **Clark's equalizer minute (46') is approximate.** The most reliable
+  source (DCFC's own report, via search summary) says "minutes into the
+  second 45" without a precise minute — 46' is a reasonable placeholder,
+  not a confirmed figure. Fix if a real source gives the exact minute.
+- **Booking minutes weren't found anywhere** — both Fraulo and R. Colwill
+  are described only as "early second half."
+- **Sub pairing at 65' is inferred, not stated outright.** One source lists
+  "Fraulo replaced by Hedges" explicitly; a separate source lists Fraulo
+  and Blackett-Taylor coming off together with Brewster and Hedges coming
+  on, without pairing them. Fraulo→Hedges and Blackett-Taylor→Brewster is
+  the only pairing consistent with both, but it's inference, not a direct
+  statement.
+- **Attendance (28,926) came from one search result**, not independently
+  corroborated the way the referee was — treat as likely correct rather
+  than certain.
+- **Cardiff's own goalscorer is "Yousef Salech"** per the search summaries
+  — spelling not independently verified, flag if it looks off against a
+  source you can see directly.
+- Per the skill: never build out Cardiff's lineup/subs in detail — only
+  their goalscorers and the two cards are in scope here, which is why
+  their substitutions aren't listed above even though some detail on them
+  turned up in search.
+- No image yet — same Canva-reliability caveat as every prior post.
+- Once published, replace this file's front-matter with the real Patreon
+  URL and status, matching the Rotherham/Lincoln pattern.
 
 ## Sources
 
+- [Derby County 2-2 Cardiff City: Bobby Clark earns point for Rams (Sky Sports)](https://www.skysports.com/football/derby-county-vs-cardiff-city/report/560512)
+- [REPORT: Derby County 2-2 Cardiff City (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/08/report-derby-county-vs-cardiff-city)
+- [TEAM NEWS: Derby County vs Cardiff City (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/08/team-news-derby-county-vs-cardiff-city)
+- [HIGHLIGHTS: Derby County 2-2 Cardiff City (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/08/highlights-derby-county-vs-cardiff-city-202627)
+- [POST-MATCH: Carlton Morris — Cardiff City (H) (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/08/post-match-carlton-morris-cardiff-city-h-202627)
+- [Derby vs Cardiff Confirmed Lineups (WhoScored)](https://www.whoscored.com/news/R2PFiwfEGkGTZoOXrDpSiw/show/20260822-derby-vs-cardiff-confirmed-lineup-1787403546)
+- [Derby County vs Cardiff City live score, H2H and lineups (Sofascore)](https://www.sofascore.com/football/match/cardiff-city-derby-county/Cslb)
 - [Derby v Cardiff City: hosts seek first points, visitors build on opening draw (OneFootball)](https://onefootball.com/en/news/derby-v-cardiff-city-hosts-seek-first-points-visitors-build-on-opening-draw-43313818)
 - [Derby County predicted XI, team and injury news vs Cardiff City (derbycounty.news)](https://www.derbycounty.news/opinion/derby-county-predicted-xi-team-and-injury-news-vs-cardiff-city-as-paul-warne-makes-formation-change/)
-- [Preview: Derby County vs Cardiff City (Sports Mole)](https://www.sportsmole.co.uk/football/derby-county/preview/derby-vs-cardiff-prediction-team-news-lineups_603331.html)
-- [Derby County vs Cardiff City: predictions and betting tips (Squawka)](https://www.squawka.com/en/news/derby-county-vs-cardiff-city-predictions-betting-tips/)
+- [2026/27 SEASON: Derby's Championship Fixtures Unveiled! (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/06/202627-season-derbys-championship-fixtures-unveiled)
