@@ -1,13 +1,19 @@
 # Social vanity-metrics tracking
 
-Weekly follower/like counts for SuperRams' Bluesky, Facebook and X accounts,
-logged to `follower-log.md` in this folder.
+Weekly follower/like counts for SuperRams' Bluesky, Facebook, X and Patreon
+accounts, logged to `follower-log.md` in this folder.
 
 ## Accounts tracked
 
 - **Bluesky**: [@derbycounty.bsky.social](https://bsky.app/profile/derbycounty.bsky.social)
 - **Facebook**: [Derby County Rams](https://www.facebook.com/derbycountyrams)
 - **X**: [@derbycounty](https://x.com/derbycounty)
+- **Patreon**: [derbycounty](https://www.patreon.com/derbycounty)
+
+Patreon's public creator page shows both a patron count (paying members) and
+sometimes a separate follower count (free, non-paying). Log whichever
+number(s) are visible and note in the log row which is which — see
+`follower-log.md`'s "Secondary metric" column.
 
 ## Why this is manual for now
 
@@ -40,13 +46,17 @@ So for now: quick manual check, logged by Claude on request.
 
 ## Weekly process
 
-Every Monday, a scheduled check-in message lands in the Claude session
-asking for the three numbers. Reply with whatever you can see (a screenshot
-description or just the numbers) for:
+Every Monday, a scheduled check-in fires. As of the Patreon addition, it
+publishes a small artifact with clickable links to all four accounts — Si
+found the plain-text chat links from the first couple of check-ins slower
+to use than the copy-sheet-style artifacts from the match-post workflow, so
+check-ins follow the same pattern now: a page to click through, not a wall
+of links to read. Reply with whatever's visible on each page for:
 
 - Bluesky: followers
 - Facebook: Page likes and Page followers
 - X: followers
+- Patreon: patron count (and follower count too, if shown separately)
 
 Claude appends a row per platform to `follower-log.md` with the date, and
 commits/pushes the update. Takes about two minutes end to end.
@@ -63,4 +73,7 @@ step — it would need:
 3. A weekly trigger that calls those actions instead of asking Si directly.
 
 X would stay manual regardless, since there's no free API path to its
-follower count.
+follower count. Patreon does have a public API that exposes patron counts
+for a creator's own account, but it wasn't investigated when this was
+written — worth a look if the manual check becomes tedious across four
+platforms instead of three.
