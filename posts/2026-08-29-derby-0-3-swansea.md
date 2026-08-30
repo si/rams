@@ -3,18 +3,15 @@
 - **Published:** not yet — drafted against the `patreon-match-post` skill format,
   pending the gaps below being filled in before it goes up on Patreon.
 - **Fixture:** Championship, Pride Park Stadium, Saturday 29 August 2026, KO 12:30.
-- **Status:** Core result, goals, subs, cards and Eustace's post-match quote are
-  cross-corroborated across independent sources (Sky Sports, VAVEL, search
-  aggregation). Fan quotes now added from real Bluesky/Facebook posts Si
-  supplied. **Three things are still NOT confirmed and need verifying before
-  publishing** — see "Known gaps" below. Do not fill these in by guessing;
-  one lineup pulled during drafting turned out to include Ebou Adams, who
-  left for Portsmouth back in January, so search-engine lineup summaries for
-  this match are not reliable. A fan report (Cynthia Waterson, pre-match)
-  said Carlton Morris was out — this contradicts the pre-match preview that
-  had him starting, so he's been pulled from the reconstructed XI below;
-  confirm his actual involvement (out entirely, or just not starting) before
-  publishing.
+- **Status:** Starting XI and squad numbers now confirmed from a lineup
+  screenshot Si provided (source app's official match-center lineup view) —
+  this replaces the earlier reconstructed/TBC XI, which is good, since it
+  turned out to include Ebou Adams, who'd left for Portsmouth back in
+  January. Core result, goals, subs, cards and Eustace's post-match quote
+  remain cross-corroborated across independent sources (Sky Sports, VAVEL,
+  search aggregation). Fan quotes added from real Bluesky/Facebook posts Si
+  supplied. **Two things are still NOT confirmed and need verifying before
+  publishing** — see "Known gaps" below.
 
 ---
 
@@ -45,29 +42,26 @@ Derby County 0-3 Swansea City — Championship
 🗓️ Saturday 29 August 2026, KO 12:30
 
 
-STARTING XI — THE RAMS
+STARTING XI — THE RAMS (4-2-3-1)
 
-⚪ #TBC — Jacob Widell Zetterström
-⚪ #TBC — Charlie Taylor
-⚪ #TBC — Dion Sanderson
-⚪ #TBC — Sondre Langås
-⚪ #TBC — Max Johnston
-⚪ #TBC — Lewis Travis
-⚪ #TBC — Alex Mowatt
-⚪ #TBC — Corey Blackett-Taylor
-⚪ #TBC — Lars-Jørgen Salvesen
-⚪ #TBC — Bobby Clark
-⚪ #TBC — TBC (Morris's replacement up front)
+⚪ #1 — Jacob Widell Zetterström
+⚪ #22 — Max Johnston
+⚪ #28 — Dion Sanderson
+⚪ #6 — Sondre Langås
+⚪ #18 — Charlie Taylor
+⚪ #27 — Lewis Travis
+⚪ #20 — Alex Mowatt
+⚪ #8 — Bobby Clark
+⚪ #26 — R. Hedges
+⚪ #33 — Corey Blackett-Taylor
+⚪ #15 — Lars-Jørgen Salvesen
 
-NOTE: this XI is reconstructed from team-news previews plus who's confirmed
-via subs/bookings — it is NOT an officially confirmed lineup and squad
-numbers are unverified. Cross-check against the matchday programme or
-dcfc.co.uk before publishing (this session's network access to dcfc.co.uk,
-Sky Sports and Sofascore was blocked, so it couldn't be verified directly).
-Carlton Morris, who the pre-match preview had leading the line, is pulled
-from this list — a fan report says he was out; if accurate, that's Szmodics
-AND Morris missing, which changes who was actually leading the line and
-needs confirming.
+Confirmed from a live match-centre lineup screenshot — squad numbers solid.
+Two things this doesn't nail down: Hedges's full first name/spelling (shown
+as "R. Hedges" on the graphic — check dcfc.co.uk before publishing, this
+looks like a fringe/academy player getting a rare start), and Carlton
+Morris's actual status (not in the XI at all, confirming the pre-match fan
+report — but "injured," "rested" and "unused sub" are all still open).
 
 
 SUBS — WHO CAME OFF, WHO CAME ON
@@ -96,20 +90,36 @@ Booked at 69', same theme. Two minutes gone and Derby were already chasing
 the game without Szmodics to bail them out; by the hour mark that chase had
 turned into players picking up cards instead of picking up runners.
 
-Lewis Travis / Alex Mowatt
-Hooked at 78' with the game already gone at 2-0 — a like-for-like swap
-rather than any real tactical rescue plan, which tells you as much about
-the afternoon as the changes themselves.
+Lewis Travis
+Also booked (minute TBC — confirmed via lineup graphic, not yet cross-checked
+against a match report). One Bluesky prediction called a Travis red card
+before kick-off; he only got half of that right, which is still more than
+this defence deserved credit for.
 
 Lars-Jørgen Salvesen
-Withdrawn at 70' for Bilbija, presumably in search of literally anything
-in the final third with Szmodics missing. Didn't find it before making way.
+Started as the makeshift focal point up front with both Szmodics and Morris
+missing — never a fair ask — and was withdrawn at 70' for Bilbija having not
+found anything in the final third. Didn't help himself, but didn't have much
+help either.
+
+Alex Mowatt
+Hooked at 78' with the game already gone at 2-0 — a like-for-like swap for
+Eames rather than any real tactical rescue plan, which tells you as much
+about the afternoon as the change itself.
+
+R. Hedges
+Handed a start in Morris's absence — worth flagging to patrons since this
+isn't a name that's come up in a Derby XI before. If this is a first
+league start, that's a story in itself and deserves a line confirming who
+he is before publishing.
 
 
 STATS SNAPSHOT
 
 Goals: 2' Opoku (Swansea), 44' Eom (Swansea), 90+1' Ronald (Swansea)
-Bookings: 69' Langås (yellow), 79' Sanderson (yellow)
+Bookings: 69' Langås (yellow), 79' Sanderson (yellow), Travis (yellow,
+minute TBC — confirmed via lineup graphic only, add the minute before
+publishing)
 Attendance: not confirmed — official figure wasn't available through this
 session's sources; flag for whoever publishes to add from the matchday
 programme or dcfc.co.uk
@@ -118,12 +128,14 @@ programme or dcfc.co.uk
 THE READ
 
 Losing to an unbeaten side missing your talisman up front is forgivable.
-Losing to them missing your talisman AND your centre-forward — if that fan
-report on Morris holds up — starts to explain a scoreline that otherwise
-looks like a collapse. "Unacceptable" — Eustace's own word — is still what
-you call it when the response to going 1-0 down inside two minutes is
-conceding again before the break and picking up two bookings along the way.
-What it shouldn't expose is body language, which Eustace flagged himself as
+Losing to them missing your talisman AND your centre-forward — confirmed now,
+Morris isn't in the XI at all, with Salvesen shifted up front and a fresh
+face in Hedges drafted into the three behind him — starts to explain a
+scoreline that otherwise looks like a collapse. "Unacceptable" — Eustace's
+own word — is still what you call it when the response to going 1-0 down
+inside two minutes is conceding again before the break and picking up three
+bookings along the way. What it shouldn't expose is body language, which
+Eustace flagged himself as
 the thing that actually disappointed him most. Three league games, still no
 win, and a fanbase already asking "new signings?" in the comments before a
 ball's even kicked. That's not a slow start anymore, that's a pattern — and
@@ -162,18 +174,18 @@ sums up the mood better than any of the text quotes.
 
 ## Known gaps — fill in before publishing
 
-1. **Starting XI is unverified and squad numbers are all TBC.** The XI above
-   is a best-effort reconstruction from pre-match team news plus the two
-   confirmed subs/bookings, not an official lineup. Verify against the
-   matchday programme, dcfc.co.uk, or Transfermarkt.
-2. **Attendance figure missing.** Add once you have it — don't invent one.
-3. **Next fixture missing.** Add the actual next Championship date/opponent
+1. **Attendance figure missing.** Add once you have it — don't invent one.
+2. **Next fixture missing.** Add the actual next Championship date/opponent
    from the confirmed fixture list — search results pulled during drafting
    were inconsistent (implausible kick-off times, mismatched opponents) so
    nothing here should be trusted without checking the official list.
-4. **Morris's front-line replacement is unnamed.** If the fan report that he
-   was out holds up, whoever led the line instead needs identifying and
-   swapping into the XI and "THE PEOPLE" section.
+3. **R. Hedges's full name and Travis's booking minute** — both only came
+   from the lineup screenshot, which gave squad numbers/names/cards but not
+   a full first name for Hedges or a minute for Travis's yellow. Cross-check
+   against dcfc.co.uk or the matchday programme.
+4. **Morris's exact status is still open** — confirmed absent from the XI,
+   but "injured," "rested," or "unused sub" all remain possible; worth a
+   line in the final post if you can pin it down.
 
 Fan quotes (source links, not archived here per platform norms — click
 through to verify before publishing):
@@ -182,8 +194,9 @@ through to verify before publishing):
 - Max Schrecksic, Bluesky: https://bsky.app/profile/maxschrecksic.bsky.social/post/3mu6fcxq4mc2o
 - GIF (email version only): https://bsky.app/profile/derbycountyblog.bsky.social/post/3mu7mupr6ik2o
 
-Everything else (score, goalscorers + minutes, both subs, both bookings,
-Eustace's quote) was cross-corroborated across independent sources and
+Everything else (score, goalscorers + minutes, both subs, the Langås/Sanderson
+bookings, Eustace's quote) was cross-corroborated across independent sources,
+plus the XI/squad numbers now confirmed from Si's lineup screenshot, and
 should be solid, but do a final check against Sky Sports/dcfc.co.uk if you
 have direct access, since this session's fetches to most match-report sites
 (Sky Sports, Sofascore, dcfc.co.uk, FotMob, Flashscore, VAVEL) were blocked
