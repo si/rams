@@ -10,12 +10,28 @@ toward this record.
 
 - **Record:** P3 W0 D1 L2
 - **Points:** 1
-- **League position:** not confirmed — this session couldn't verify it
-  reliably (most live-table sites are blocked by this environment's network
-  proxy, and search results for the current table kept surfacing stale or
-  conflicting season data). Flag this row for Si to confirm/paste each week,
-  same as the lineup screenshots — don't let a future draft guess a number
-  here.
+- **League position:** 21st of 24, confirmed from Si's table screenshot
+  (24-team Championship).
+
+**The three rows that matter for "which way it could go":**
+
+| Pos | Team | P | Pts | GF |
+|-----|------|---|-----|----|
+| 20 | Wrexham | 3 | 2 | 3 |
+| **21** | **Derby County** | **3** | **1** | **3** |
+| 22 | Burnley | 3 | 1 | 4 |
+
+Note: the screenshot's last numeric column is **goals FOR, not goal
+difference** — confirmed by cross-checking Derby's GF=3 against known match
+scores (2 from the Cardiff draw + 0 from Swansea + an inferred 1 from
+Charlton = 3, exactly). True goal difference isn't visible in this crop
+(goals-against/GD looked like it may be a further column cut off-screen) —
+don't substitute this GF column for GD in future posts; get the fuller
+table view if an actual GD figure is needed. One tell that it's GF and not
+GD: Burnley sit below Derby on identical points despite a HIGHER goals-for
+count (4 vs 3), which only makes sense if the tiebreak is goal difference
+and Burnley have conceded even more than Derby — i.e. Derby's shaky defence
+is bad, but at least one rung of the table is worse.
 
 ## Match log
 
@@ -31,10 +47,8 @@ toward this record.
 - Charlton scoreline (MD1) — only known that Derby lost; exact score not
   confirmed.
 - Cardiff fixture date and venue (MD2) — not confirmed, only the 2-2 result.
-- League position — not confirmed for any matchday yet; needs a source Si
-  can vouch for (official league table, not a search-engine summary — those
-  were unreliable this session, at one point mixing up multiple different
-  seasons' Derby-Swansea fixtures).
+- Actual goal difference — the table screenshot only gave GF, not GD/GA;
+  add real figures if a fuller table view turns up.
 
 Goals for/against totals aren't rolled up here yet since MD1's scoreline is
 still open — add once it's confirmed.

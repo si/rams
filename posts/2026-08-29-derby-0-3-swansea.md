@@ -16,9 +16,13 @@
   supplied. Next fixture confirmed by Si: Portsmouth away, Tuesday 1
   September. Attendance (26,576) and full match stats also confirmed by
   Si — the stats corroborate the three bookings (3 Derby yellows total)
-  and add a brutal headline number: 0 shots on target from 8. **A couple
-  of things are still NOT confirmed and need verifying before publishing**
-  — see "Known gaps" below.
+  and add a brutal headline number: 0 shots on target from 8. League
+  position now confirmed too: 21st of 24 — see
+  `posts/season-tracker-2026-27.md` for the full standing and how it was
+  read off the table screenshot (its last column is goals FOR, not goal
+  difference — worth knowing before anyone quotes a GD figure from it).
+  **A couple of things are still NOT confirmed and need verifying before
+  publishing** — see "Known gaps" below.
 
 ---
 
@@ -149,7 +153,11 @@ the thing that actually disappointed him most. Three league games, still no
 win, and a fanbase already asking "new signings?" in the comments before a
 ball's even kicked. That's not a slow start anymore, that's a pattern — and
 apparently a familiar one, going by the "sign some players" energy doing
-the rounds.
+the rounds. It leaves us 21st of 24, one point off Wrexham above us and one
+place above Burnley — who somehow have scored more than us and are still
+below us, which tells you all you need to know about the state of Derby's
+defence right now. Three games in is early, but not so early that Portsmouth
+away on Tuesday stops mattering.
 
 
 WHAT'S NEXT
