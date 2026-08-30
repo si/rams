@@ -13,8 +13,9 @@
   January. Core result, goals, subs, cards and Eustace's post-match quote
   remain cross-corroborated across independent sources (Sky Sports, VAVEL,
   search aggregation). Fan quotes added from real Bluesky/Facebook posts Si
-  supplied. **Two things are still NOT confirmed and need verifying before
-  publishing** — see "Known gaps" below.
+  supplied. Next fixture confirmed by Si: Portsmouth away, Tuesday 1
+  September. **A couple of things are still NOT confirmed and need
+  verifying before publishing** — see "Known gaps" below.
 
 ---
 
@@ -148,9 +149,11 @@ the rounds.
 
 WHAT'S NEXT
 
-Next fixture not confirmed — flag for whoever publishes to add from the
-official 2026/27 fixture list (this session couldn't verify September's
-schedule reliably; search results for it didn't hold together).
+**Tuesday 1 September, Fratton Park: Portsmouth (a), Championship.** Quick
+turnaround, and a reunion of sorts — Ebou Adams left for Portsmouth back in
+January, so this is the first time he faces his old club. Eustace needs a
+response fast; a second defeat in four days would turn "unacceptable" into
+something worse.
 
 
 IN THEIR WORDS 🗣️
@@ -178,15 +181,11 @@ sums up the mood better than any of the text quotes.
 ## Known gaps — fill in before publishing
 
 1. **Attendance figure missing.** Add once you have it — don't invent one.
-2. **Next fixture missing.** Add the actual next Championship date/opponent
-   from the confirmed fixture list — search results pulled during drafting
-   were inconsistent (implausible kick-off times, mismatched opponents) so
-   nothing here should be trusted without checking the official list.
-3. **R. Hedges's full name and Travis's booking minute** — both only came
+2. **R. Hedges's full name and Travis's booking minute** — both only came
    from the lineup screenshot, which gave squad numbers/names/cards but not
    a full first name for Hedges or a minute for Travis's yellow. Cross-check
    against dcfc.co.uk or the matchday programme.
-4. **Morris's exact status is still open** — confirmed absent from the XI,
+3. **Morris's exact status is still open** — confirmed absent from the XI,
    but "injured," "rested," or "unused sub" all remain possible; worth a
    line in the final post if you can pin it down.
 
