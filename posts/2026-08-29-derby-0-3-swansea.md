@@ -5,11 +5,16 @@
 - **Fixture:** Championship, Pride Park Stadium, Saturday 29 August 2026, KO 12:30.
 - **Status:** Core result, goals, subs, cards and Eustace's post-match quote are
   cross-corroborated across independent sources (Sky Sports, VAVEL, search
-  aggregation). **Three things are NOT confirmed and need verifying before
+  aggregation). Fan quotes now added from real Bluesky/Facebook posts Si
+  supplied. **Three things are still NOT confirmed and need verifying before
   publishing** — see "Known gaps" below. Do not fill these in by guessing;
   one lineup pulled during drafting turned out to include Ebou Adams, who
   left for Portsmouth back in January, so search-engine lineup summaries for
-  this match are not reliable.
+  this match are not reliable. A fan report (Cynthia Waterson, pre-match)
+  said Carlton Morris was out — this contradicts the pre-match preview that
+  had him starting, so he's been pulled from the reconstructed XI below;
+  confirm his actual involvement (out entirely, or just not starting) before
+  publishing.
 
 ---
 
@@ -52,13 +57,17 @@ STARTING XI — THE RAMS
 ⚪ #TBC — Corey Blackett-Taylor
 ⚪ #TBC — Lars-Jørgen Salvesen
 ⚪ #TBC — Bobby Clark
-⚪ #TBC — Carlton Morris
+⚪ #TBC — TBC (Morris's replacement up front)
 
 NOTE: this XI is reconstructed from team-news previews plus who's confirmed
 via subs/bookings — it is NOT an officially confirmed lineup and squad
 numbers are unverified. Cross-check against the matchday programme or
 dcfc.co.uk before publishing (this session's network access to dcfc.co.uk,
 Sky Sports and Sofascore was blocked, so it couldn't be verified directly).
+Carlton Morris, who the pre-match preview had leading the line, is pulled
+from this list — a fan report says he was out; if accurate, that's Szmodics
+AND Morris missing, which changes who was actually leading the line and
+needs confirming.
 
 
 SUBS — WHO CAME OFF, WHO CAME ON
@@ -109,14 +118,17 @@ programme or dcfc.co.uk
 THE READ
 
 Losing to an unbeaten side missing your talisman up front is forgivable.
-"Unacceptable" — Eustace's own word — is what you call it when the response
-to going 1-0 down inside two minutes is conceding again before the break
-and picking up two bookings along the way. Szmodics being out for a
-fortnight was always going to expose how thin this squad is without him;
-what it shouldn't expose is body language, which Eustace flagged himself as
+Losing to them missing your talisman AND your centre-forward — if that fan
+report on Morris holds up — starts to explain a scoreline that otherwise
+looks like a collapse. "Unacceptable" — Eustace's own word — is still what
+you call it when the response to going 1-0 down inside two minutes is
+conceding again before the break and picking up two bookings along the way.
+What it shouldn't expose is body language, which Eustace flagged himself as
 the thing that actually disappointed him most. Three league games, still no
-win, and now a manager on record calling his own team's performance
-unacceptable. That's not a slow start anymore, that's a pattern.
+win, and a fanbase already asking "new signings?" in the comments before a
+ball's even kicked. That's not a slow start anymore, that's a pattern — and
+apparently a familiar one, going by the "sign some players" energy doing
+the rounds.
 
 
 WHAT'S NEXT
@@ -128,11 +140,23 @@ schedule reliably; search results for it didn't hold together).
 
 IN THEIR WORDS 🗣️
 
-No fan quotes pulled for this one — this session had no live access to
-Bluesky/Facebook to pull real reactions, so rather than invent any, drop
-your reaction in the comments: was that Szmodics's absence, was it
-Eustace's setup, or is this squad just short? 👇
+"Worried about the team with injuries. Morris out today" — Cynthia
+Waterson, Facebook
+
+"I predict it will rain. Good chance Travis gets a red card for a mistimed
+sliding tackle. Swans will dominate possession. We'll try to hit on the
+break. Think it might suit us - if we can take our chances. #dcfc
+#dcfcfans" — Tim Whitemore (@timwhitemore.bsky.social) — the red card never
+came, but he called the shape of the game better than the scoreline suggests
+
+"New signings?" — Max Schrecksic (@maxschrecksic.bsky.social)
 ```
+
+For the richer email version (not the plain-paste Patreon post), there's
+also a GIF worth pulling in: "sign some players," from a post on
+derbycountyblog.bsky.social —
+https://bsky.app/profile/derbycountyblog.bsky.social/post/3mu7mupr6ik2o —
+sums up the mood better than any of the text quotes.
 
 ---
 
@@ -147,9 +171,16 @@ Eustace's setup, or is this squad just short? 👇
    from the confirmed fixture list — search results pulled during drafting
    were inconsistent (implausible kick-off times, mismatched opponents) so
    nothing here should be trusted without checking the official list.
-4. **No real fan quotes pulled** — a comment-seeding prompt was used instead
-   per the skill's fallback rule. Swap in 2-3 real Bluesky/Facebook quotes
-   if you pull them before publishing.
+4. **Morris's front-line replacement is unnamed.** If the fan report that he
+   was out holds up, whoever led the line instead needs identifying and
+   swapping into the XI and "THE PEOPLE" section.
+
+Fan quotes (source links, not archived here per platform norms — click
+through to verify before publishing):
+- Cynthia Waterson, Facebook: https://www.facebook.com/share/19qRZEGuHv/
+- Tim Whitemore, Bluesky: https://bsky.app/profile/timwhitemore.bsky.social/post/3mu7nf65vqk2s
+- Max Schrecksic, Bluesky: https://bsky.app/profile/maxschrecksic.bsky.social/post/3mu6fcxq4mc2o
+- GIF (email version only): https://bsky.app/profile/derbycountyblog.bsky.social/post/3mu7mupr6ik2o
 
 Everything else (score, goalscorers + minutes, both subs, both bookings,
 Eustace's quote) was cross-corroborated across independent sources and
