@@ -3,6 +3,9 @@
 - **Published:** not yet — drafted against the `patreon-match-post` skill format,
   pending the gaps below being filled in before it goes up on Patreon.
 - **Fixture:** Championship, Pride Park Stadium, Saturday 29 August 2026, KO 12:30.
+- **Lineup graphic:** formation card (4-2-3-1, squad numbers, cards, subs) —
+  https://claude.ai/code/artifact/e3912a05-c9ec-49a0-86c9-fa5f08302a86 —
+  export as PNG from there to attach to the Patreon post.
 - **Status:** Starting XI and squad numbers now confirmed from a lineup
   screenshot Si provided (source app's official match-center lineup view) —
   this replaces the earlier reconstructed/TBC XI, which is good, since it
