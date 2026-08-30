@@ -14,8 +14,11 @@
   remain cross-corroborated across independent sources (Sky Sports, VAVEL,
   search aggregation). Fan quotes added from real Bluesky/Facebook posts Si
   supplied. Next fixture confirmed by Si: Portsmouth away, Tuesday 1
-  September. **A couple of things are still NOT confirmed and need
-  verifying before publishing** — see "Known gaps" below.
+  September. Attendance (26,576) and full match stats also confirmed by
+  Si — the stats corroborate the three bookings (3 Derby yellows total)
+  and add a brutal headline number: 0 shots on target from 8. **A couple
+  of things are still NOT confirmed and need verifying before publishing**
+  — see "Known gaps" below.
 
 ---
 
@@ -122,11 +125,9 @@ STATS SNAPSHOT
 
 Goals: 2' Opoku (Swansea), 44' Eom (Swansea), 90+1' Ronald (Swansea)
 Bookings: 69' Langås (yellow), 79' Sanderson (yellow), Travis (yellow,
-minute TBC — confirmed via lineup graphic only, add the minute before
-publishing)
-Attendance: not confirmed — official figure wasn't available through this
-session's sources; flag for whoever publishes to add from the matchday
-programme or dcfc.co.uk
+minute still TBC — but now stat-confirmed: match stats show 3 Derby
+yellows total, matching these three exactly)
+Attendance: 26,576, Pride Park Stadium
 
 
 THE READ
@@ -138,8 +139,12 @@ face in Hedges drafted into the three behind him — starts to explain a
 scoreline that otherwise looks like a collapse. "Unacceptable" — Eustace's
 own word — is still what you call it when the response to going 1-0 down
 inside two minutes is conceding again before the break and picking up three
-bookings along the way. What it shouldn't expose is body language, which
-Eustace flagged himself as
+bookings along the way. The underlying numbers back up the eye test:
+8 shots to Swansea's 21, and not one of Derby's found the target all
+afternoon — nought from eight. Sixteen fouls to Swansea's seven tells you
+this wasn't a team outplayed calmly, it was a team chasing shadows and
+hacking people down to slow it up. What it shouldn't expose is body
+language, which Eustace flagged himself as
 the thing that actually disappointed him most. Three league games, still no
 win, and a fanbase already asking "new signings?" in the comments before a
 ball's even kicked. That's not a slow start anymore, that's a pattern — and
@@ -180,12 +185,11 @@ sums up the mood better than any of the text quotes.
 
 ## Known gaps — fill in before publishing
 
-1. **Attendance figure missing.** Add once you have it — don't invent one.
-2. **R. Hedges's full name and Travis's booking minute** — both only came
+1. **R. Hedges's full name and Travis's booking minute** — both only came
    from the lineup screenshot, which gave squad numbers/names/cards but not
    a full first name for Hedges or a minute for Travis's yellow. Cross-check
    against dcfc.co.uk or the matchday programme.
-3. **Morris's exact status is still open** — confirmed absent from the XI,
+2. **Morris's exact status is still open** — confirmed absent from the XI,
    but "injured," "rested," or "unused sub" all remain possible; worth a
    line in the final post if you can pin it down.
 
