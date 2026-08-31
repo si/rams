@@ -7,7 +7,10 @@ accounts, logged to `follower-log.md` in this folder.
 
 - **Bluesky**: [@derbycounty.bsky.social](https://bsky.app/profile/derbycounty.bsky.social)
 - **Facebook**: [Derby County Rams](https://www.facebook.com/derbycountyrams)
-- **X**: [@derbycounty](https://x.com/derbycounty)
+- **X**: [@derbycounty](https://x.com/derbycounty) — X paywalls the follower
+  count itself (see below); check via
+  [Plucker](https://plucker.io/tools/twitter-follower-tracker) instead,
+  confirmed working 31 Aug 2026.
 - **Patreon**: [derbycounty](https://www.patreon.com/derbycounty)
 
 Patreon's public creator page shows both a patron count (paying members) and
@@ -56,7 +59,7 @@ where the artifact didn't. Reply with whatever's visible on each page for:
 
 - Bluesky: followers
 - Facebook: Page likes and Page followers
-- X: followers
+- X: followers, via [Plucker](https://plucker.io/tools/twitter-follower-tracker) — x.com itself paywalls this for Si, see below
 - Patreon: patron count (and follower count too, if shown separately)
 
 Claude appends a row per platform to `follower-log.md` with the date, and
@@ -89,14 +92,10 @@ go-to free tracker — dropped Twitter/X support entirely around then.
 
 A handful of newer no-login "X follower checker" sites turned up in a
 search (Plucker, Lessie AI, GetAFollower, Mitwix, livecounts.io,
-nextcounts.com, HypeAuditor's free checker) that apparently work around
-this, likely via X's public embeddable follow-button widget rather than
-the locked-down API — plausible, since that's how tools like these have
-survived similar API lockdowns before, but **none of this was verified**:
-this session's network access can't reach any of them to test (same
-egress restriction noted above), so it's on Si to try one directly and
-confirm it gives a sane number before trusting it week to week. Worth
-double-checking rather than accepting a number that seems close to what
-you'd expect on trust alone. Cheaper first step: check X from a logged-out
-/ private browser session in case the paywall is tied to Si's own account
-rather than the profile page itself.
+nextcounts.com, HypeAuditor's free checker), likely working around the
+locked-down API via X's public embeddable follow-button widget. **Plucker
+is confirmed working** — Si tried it 31 Aug 2026 and got 12,227, a
+plausible small drop from the previous week's 12,230 pulled directly from
+x.com, which is a good sign the number is real rather than noise. That's
+now the go-to for X's weekly check. The others weren't tried and are
+untested — Plucker being the one that panned out doesn't vouch for them.

@@ -16,4 +16,4 @@ number instead. Leave blank where not applicable (Bluesky, X).
 | 2026-08-31 | Bluesky | 663 | | Unchanged from last week. |
 | 2026-08-31 | Facebook | 1,347 | | Unchanged from last week. |
 | 2026-08-31 | Patreon | | 5 | Unchanged from last week. |
-| 2026-08-31 | X | TBC | | X now gates the follower count behind an upgrade prompt for Si directly on the platform — see README's "X follower count now paywalled" note for what was found. |
+| 2026-08-31 | X | 12,227 | | Via Plucker (plucker.io), not x.com directly — X still paywalls the count for Si. Down 3 from last week's 12,230, which is a plausible small natural drift and a good sign Plucker's number is real rather than noise. |
