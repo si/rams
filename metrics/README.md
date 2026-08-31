@@ -78,3 +78,25 @@ follower count. Patreon does have a public API that exposes patron counts
 for a creator's own account, but it wasn't investigated when this was
 written — worth a look if the manual check becomes tedious across four
 platforms instead of three.
+
+## X follower count now paywalled (found 31 Aug 2026)
+
+X itself started showing Si an upgrade prompt instead of the follower count
+on the profile page — it no longer shows for free, at least from his
+account. Some background: X locked its API behind an Enterprise tier
+($42k+/month) in March 2025, which is also why Social Blade — the old
+go-to free tracker — dropped Twitter/X support entirely around then.
+
+A handful of newer no-login "X follower checker" sites turned up in a
+search (Plucker, Lessie AI, GetAFollower, Mitwix, livecounts.io,
+nextcounts.com, HypeAuditor's free checker) that apparently work around
+this, likely via X's public embeddable follow-button widget rather than
+the locked-down API — plausible, since that's how tools like these have
+survived similar API lockdowns before, but **none of this was verified**:
+this session's network access can't reach any of them to test (same
+egress restriction noted above), so it's on Si to try one directly and
+confirm it gives a sane number before trusting it week to week. Worth
+double-checking rather than accepting a number that seems close to what
+you'd expect on trust alone. Cheaper first step: check X from a logged-out
+/ private browser session in case the paywall is tied to Si's own account
+rather than the profile page itself.

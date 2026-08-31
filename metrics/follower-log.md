@@ -13,3 +13,7 @@ number instead. Leave blank where not applicable (Bluesky, X).
 | 2026-08-24 | Facebook | 1,347 | | Screenshot showed the Followers list (1,347); no separate Page Likes figure was visible on that view — may need the page's main profile screen if Likes still exists as a distinct number on this page. |
 | 2026-08-24 | Patreon | | 5 | 5 patrons. Follower count (if shown separately from patrons) not checked this time. |
 | 2026-08-24 | X | 12,230 | | Got in on a retry. Close to the "13K" figure the Bluesky bio quotes for the account's Twitter-era following, so this looks like the same long-running @derbycounty handle rather than a renamed/retired one. |
+| 2026-08-31 | Bluesky | 663 | | Unchanged from last week. |
+| 2026-08-31 | Facebook | 1,347 | | Unchanged from last week. |
+| 2026-08-31 | Patreon | | 5 | Unchanged from last week. |
+| 2026-08-31 | X | TBC | | X now gates the follower count behind an upgrade prompt for Si directly on the platform — see README's "X follower count now paywalled" note for what was found. |
