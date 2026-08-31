@@ -46,12 +46,13 @@ So for now: quick manual check, logged by Claude on request.
 
 ## Weekly process
 
-Every Monday, a scheduled check-in fires. As of the Patreon addition, it
-publishes a small artifact with clickable links to all four accounts — Si
-found the plain-text chat links from the first couple of check-ins slower
-to use than the copy-sheet-style artifacts from the match-post workflow, so
-check-ins follow the same pattern now: a page to click through, not a wall
-of links to read. Reply with whatever's visible on each page for:
+Every Monday, a scheduled check-in fires with the four links posted directly
+in chat. An artifact with clickable link cards was tried for one check-in,
+matching the copy-sheet pattern from the match-post workflow, but on Si's
+iOS client the artifact viewer's sandbox blocks the page's own outbound
+links from opening (a `target="_blank"` link inside the sandboxed preview
+frame doesn't navigate) — plain chat links, which iOS opens natively, work
+where the artifact didn't. Reply with whatever's visible on each page for:
 
 - Bluesky: followers
 - Facebook: Page likes and Page followers
