@@ -1,8 +1,8 @@
 # Draft: Portsmouth 0-2 Derby County
 
-- **Published:** not yet — drafted, pending confirmation of the four
-  substitutions beyond Brewster→Salvesen (who came on for Szmodics, Clark,
-  Hedges and the injured Forsyth, and at what minutes) before this goes up
+- **Published:** not yet — all match facts now confirmed by Si directly
+  (screenshots plus the full sub list with minutes); what's left is the
+  image, the podcast link, and a final read-through before this goes up
   on Patreon.
 - **Fixture:** EFL Championship, Matchday 4, Fratton Park, Tuesday 1
   September 2026 — Derby's first win of the season.
@@ -67,15 +67,11 @@ single-sourced from WebSearch, not shown on the graphic — flag if wrong.)
 
 SUBS — WHO CAME OFF, WHO CAME ON
 
-**~60'** Brewster ↓ · ↑ Salvesen
-**?'** Forsyth ↓ (injury) · ↑ ?
-**?'** Szmodics ↓ · ↑ ?
-**?'** Clark ↓ · ↑ ?
-**?'** Hedges ↓ · ↑ ?
-
-(Five changes in total per the lineup graphic's off-icons, but only the
-Brewster→Salvesen pairing and Forsyth's injury are confirmed. Needs the
-other three pairings and minutes before this goes live — see notes.)
+**59'** Brewster ↓ · ↑ Salvesen
+**80'** Forsyth ↓ (injury) · ↑ Nyambe
+**81'** Clark ↓ · ↑ Ward
+**86'** Szmodics ↓ · ↑ Bilbija
+**86'** Hedges ↓ · ↑ Johnston
 
 
 THE PEOPLE, NOT JUST THE SHEET
@@ -83,8 +79,8 @@ THE PEOPLE, NOT JUST THE SHEET
 Sam Szmodics
 First goal of the season, and it's the one that mattered most — Derby's
 first lead of the campaign, inside 16 minutes, poking Clark's low cutback
-under the keeper at the near post. Went off later in the second half
-(minute TBC), but the job was already done.
+under the keeper at the near post. Made way for Bilbija at 86', long
+after the job was done.
 
 Lars-Jørgen Salvesen
 Brought on for Brewster and needed almost his first touch to smash in a
@@ -102,16 +98,16 @@ Derby had 36% of the ball and needed someone doing exactly that.
 
 Bobby Clark
 No goal, but the first one starts with him — dragged the ball away from
-his marker on the byline and squared it for Szmodics to finish. Also
-picked up a late-second-half booking on his way off. Following up two
-goal involvements against Cardiff with the assist here; quietly Derby's
-most reliable source of end product through four games.
+his marker on the byline and squared it for Szmodics to finish. Picked up
+a booking along the way and was withdrawn for Ward at 81'. Following up
+two goal involvements against Cardiff with the assist here; quietly
+Derby's most reliable source of end product through four games.
 
 Craig Forsyth
 Recalled to the XI after coming off the bench in each of the last two, and
-by most accounts one of the calmer heads at the back — until he had to go
-off with an injury. Worth watching how serious that turns out to be
-before Saturday.
+by most accounts one of the calmer heads at the back — until an injury
+forced him off at 80', replaced by Nyambe. Worth watching how serious
+that turns out to be before Saturday.
 
 Charlie Taylor & Sondre Langås
 Both booked, both stayed on to see the game out — the two names doing the
@@ -128,7 +124,8 @@ straight winless league games.
 
 STATS SNAPSHOT
 
-Goals: 16' Szmodics (assist Clark), Salvesen ~60' (assist Fraulo)
+Goals: 16' Szmodics (assist Clark), Salvesen ~60' (assist Fraulo — came on
+at 59', scored with almost his first touch)
 Bookings: C. Taylor, S. Langås — both yellow, exact minutes unconfirmed
 Attendance: 20,282 (Derby County fans: 1,567)
 Distance travelled: ~189 miles from Pride Park (driving distance; a couple
@@ -188,14 +185,11 @@ LISTEN: RAMS REVIEW PODCAST
 
 ## Notes for whoever publishes this
 
-- **The one real gap left is the other three-plus-one substitutions.**
-  Confirmed: Brewster off, Salvesen on (~60', scored almost immediately),
-  and Forsyth off injured. Not confirmed: who replaced Szmodics, Clark and
-  Hedges, and the minutes for all of it, including Forsyth's. The bench
-  was Vickers, Bilbija, Meister, Johnston, Ward, Nyambe, Blackett-Taylor
-  and Eames minus whoever's already accounted for — so the replacements
-  are somewhere in that list, just not confirmed which. Needs a source
-  Si can check directly (or another screenshot) before this goes live.
+- **All five substitutions are now confirmed with minutes**, from Si's
+  full team-sheet list: Brewster→Salvesen (59'), Forsyth→Nyambe (80',
+  injury), Clark→Ward (81'), Szmodics→Bilbija (86'), Hedges→Johnston
+  (86'). This also confirms Vickers, Meister, Blackett-Taylor and Eames as
+  unused subs.
 - **Squad numbers are now settled from Si's lineup graphic** — #11
   Szmodics and #8 Clark, overturning both the earlier WebSearch guess and
   the Player Tracker sheet (which has them at #19 and #42). Worth
@@ -236,6 +230,8 @@ LISTEN: RAMS REVIEW PODCAST
   starting XI graphic with goal/assist/card/sub markers, Championship
   table snapshot (Derby 15th, P4 W1 D1 L2), and confirmed attendance
   (20,282, incl. 1,567 travelling Derby fans)
+- Si's full team sheet (typed): both starting XIs, all substitutions with
+  minutes, and unused substitutes for both sides
 - Five Bluesky reactions supplied by Si: @kev-woods.bsky.social,
   @timwhitemore.bsky.social, @gimjee94.bsky.social, @apancisi.bsky.social,
   @msbailz.bsky.social (only the first three used — see notes above)
