@@ -1,31 +1,36 @@
 # Draft: West Ham United 3-0 Derby County
 
-- **Published:** not yet — matchday draft, built from `WebSearch` summaries
-  only. This session's `WebFetch` is blocked for every match-report domain
-  tried (Sky Sports, VAVEL, East London Times), same limitation as prior
-  posts, so nothing below has been read directly off a source page — it's
-  all search-engine summaries. Treat every figure as needing a once-over
-  before this goes near Patreon.
+- **Published:** not yet — second pass, re-run the day after the first
+  same-day draft now the main outlets (dcfc.co.uk, Sky Sports, Read West
+  Ham) have had time to publish full reports. `WebFetch` is still blocked
+  for every match-report domain tried (Sky Sports, dcfc.co.uk, Read West
+  Ham, East London Times) this session too, so this is still built entirely
+  from `WebSearch` summaries, not a page anyone's read directly — but the
+  underlying sources are now the real match reports rather than pre-match
+  previews, so confidence is meaningfully higher across the board. One
+  genuine contradiction remains flagged below (a possible 6th substitution
+  that would break the 5-sub limit) and still needs a human check.
 - **Fixture:** EFL Championship, Matchday 5, London Stadium, Saturday
-  5 September 2026 — Derby's game today.
-- **Status:** First pass only. Built same-day rather than the usual "day
-  after" per the skill's normal flow, per Si's request — expect more gaps
-  than usual (no fan quotes, thin player detail) since the usual overnight
-  window for match-report detail and Bluesky reaction to land hasn't
-  happened yet.
+  5 September 2026.
+- **Status:** Second pass. Most of the first draft's gaps are now filled —
+  official attendance, confirmed captain, full sub list, bookings
+  corroborated twice, some match colour (Brewster's injury, the Szmodics
+  penalty shout). Still missing: fan quotes (nothing turned up on Bluesky
+  via search), and "THE READ" still wants Si's own take rather than an
+  invented one.
 
 ---
 
 ## Title field
 
 ```
-West Ham 3-0 Derby: Piroe in six minutes, a scrap for eighty, then two late sucker punches to make it look ugly
+West Ham 3-0 Derby: Piroe in six minutes, zero shots on target in ninety, and two late sucker punches to make it official
 ```
 
 ## Public preview (above the paywall)
 
 ```
-Derby's afternoon at the London Stadium lasted about six minutes before Joel Piroe volleyed West Ham in front, and from there it was the usual away-day shape — backs to the wall, the odd promising spell, nothing to show for it. A double change after the hour actually had the Rams playing some decent stuff for a spell. Then stoppage time turned a losable 1-0 into a chastening 3-0, a deadline-day debutant picked up a yellow card five minutes into his Derby career, and the scoreline stopped being fair on how the game actually went. Full breakdown for patrons below 👇
+Derby's afternoon at the London Stadium lasted about six minutes before Joel Piroe volleyed West Ham in front, and Rhian Brewster lasted barely longer before an injury took him off and took Derby's game-plan with him. From there it was the usual away-day shape — backs to the wall, a Szmodics penalty shout waved away, nothing to show for it. Two late West Ham goals in the last five minutes turned a losable 1-0 into a chastening 3-0 in front of over 61,000 at the London Stadium, and a deadline-day debutant picked up a yellow card for his trouble. Full breakdown for patrons below 👇
 ```
 
 ## Patrons-only body (below the paywall)
@@ -42,7 +47,7 @@ STARTING XI — THE RAMS
 
 ⚪ #1 — Jacob Widell Zetterström
 ⚪ #18 — Charlie Taylor
-⚪ #6 — Sondre Langås
+⚪ #6 — Sondre Langås (c)
 ⚪ #28 — Dion Sanderson
 ⚪ #24 — Ryan Nyambe
 ⚪ #20 — Alex Mowatt
@@ -55,57 +60,74 @@ STARTING XI — THE RAMS
 
 SUBS — WHO CAME OFF, WHO CAME ON
 
+**22'** Brewster (injury) ↓ · ↑ Ozoh
 **61'** Fraulo ↓ · ↑ Clark
 **61'** Meister ↓ · ↑ Salvesen
-**71'** Nyambe ↓ · ↑ Johnston
 **71'** Hedges ↓ · ↑ Fuseini
+**72'** Nyambe ↓ · ↑ Johnston
 
 
 THE PEOPLE, NOT JUST THE SHEET
 
-Henrik Meister
-[NEEDS FILLING IN — early-season loan arrival from Pisa, started up top. No
-individual detail turned up in search; fill in from what you saw/heard.]
+Rhian Brewster
+Lasted 22 minutes before an injury ended his afternoon early — and with
+him went Derby's only real hold-up option, leaving Szmodics isolated
+between the lines for the rest of the game. Worst possible way to start
+a Saturday, and worth watching for how long he's out.
+
+David Ozoh
+Handed something like a third first-team bow after two loan spells away,
+this time on a permanent deal, and thrown on inside half an hour to
+patch up a gameplan that had just fallen apart. Not the gentle re-
+introduction anyone would have scripted for him.
+
+Sammie Szmodics
+Isolated up top after Brewster went off, but still the one making things
+happen — combined with Hedges to win a 65th-minute shout for a penalty
+after going down under Mavropanos, waved away by the referee. Fourth
+league appearance since arriving, having scored the winner in midweek
+against Portsmouth — the shot-count says quiet afternoon, the moments say
+otherwise.
 
 Mohammed Fuseini
-Deadline-day loan arrival from Union Saint-Gilloise, on for Hedges at 71' —
-and booked five minutes later for a late challenge. Not the debut cameo
-you'd script, but at least he's introduced himself to the away end.
+Deadline-day loan arrival from Union Saint-Gilloise, on for Hedges at
+71' — and booked five minutes later for a late challenge. Not the debut
+cameo you'd script, but at least he's introduced himself to the away end.
 
 Alex Mowatt
 Booked at 21' for what's being described as a "serious foul play" charge —
 exact wording is a search-summary paraphrase, not a quote, so worth
 checking it wasn't actually a straight red he got away with before this
-goes up.
+goes up. Sat down with RamsTV after the game for his reaction — worth
+pulling a line or two from that interview once someone can actually read
+the transcript.
 
 Ryan Nyambe
 Filling in at right-back with both Forsyth (knee, out for months) and
-Travis (injured, also captain) missing — hooked himself at 71' alongside
-Hedges in Eustace's second double change.
-
-[Add/cut names as the actual game warrants — this list is thin because
-the underlying reports weren't fetchable this time, not because nobody
-else did anything.]
+Travis (captain, injured) missing — hooked himself at 72' as Eustace
+made his last change.
 
 
 STATS SNAPSHOT
 
-Goals: 6' Piroe (West Ham), 87' Austbo (West Ham), 90+5' Kante (West Ham)
+Goals: 6' Piroe (West Ham), 87' Austbø (West Ham), 90+5' Kanté (West Ham)
 Bookings: Mowatt (21', Derby), Fuseini (76', Derby)
-Attendance: not confirmed — no official figure surfaced in search; London
-Stadium's capacity is 62,500 if useful context, but that's not the same
-thing as who actually showed up
+Attendance: 61,180 (London Stadium — 1,320 below the ground's 62,500
+capacity)
 Distance travelled: ~130 miles (London Stadium from Pride Park)
 
 
 THE READ
 
-[NEEDS YOUR TAKE — the search summaries agree Derby "really imposed
-themselves" after the hour-mark changes without it showing on the
-scoreboard, and that the final two goals came after Derby had already lost
-the game as a contest. Worth deciding whether this reads as "battered" or
-"schoolboy defending turned a losing scoreline into an embarrassing one" —
-that's a tone call only makes sense with the game actually watched.]
+[STILL NEEDS YOUR TAKE — but there's a proper stat to hang it on now:
+Derby didn't register a single shot on target all game. Piroe's early
+goal set the shape of the afternoon and West Ham controlled it
+throughout; Brewster's 22nd-minute injury took Derby's only real focal
+point with him, and the last two goals in the 87th and 95th minutes
+turned a game Derby were merely losing into one that reads as a
+hammering. Whether that's "just one of those away days" or "a real
+warning sign three weeks before the international break" is a tone call
+that needs someone who actually watched it, not a search summary.]
 
 
 WHAT'S NEXT
@@ -118,60 +140,73 @@ conflicting September fixtures.]
 
 IN THEIR WORDS
 
-[Nothing to pull yet — same-day draft means the usual overnight Bluesky/
-Facebook reaction window hasn't happened. Either wait and add 2-3 quotes
-once the discourse lands, or swap this section for a direct comment-seeding
-prompt along the lines of "call it — bad day at the office, or something
-more worrying with three weeks until the international break?"]
+[Still nothing to pull — search isn't surfacing Bluesky/Facebook posts for
+this one even a day on. Either check Bluesky directly for 2-3 quotes, or
+swap this section for a direct comment-seeding prompt along the lines of
+"call it — bad day at the office, or something more worrying with three
+weeks until the international break?"]
 ```
 
 ---
 
 ## Notes for whoever publishes this
 
-- **Everything here is `WebSearch`-summary-derived, not source-verified.**
-  `WebFetch` was blocked for skysports.com, vavel.com and eastlondontimes.co.uk
-  this session — the same recurring limitation flagged on the Cardiff post.
-  Nothing below should go up without a direct look at a source Si can
-  actually read.
-- **Squad numbers are mixed-confidence.** Zetterström (#1), Taylor (#18),
-  Langås (#6), Sanderson (#28), Mowatt (#20), Fraulo (#29) match what's
-  already used in the Cardiff post archive, so reasonably solid. Nyambe
-  (#24), Brewster (#10), Szmodics (#11), Hedges (#26) and Meister (#19) are
-  new to this post and single-source (search summary only) — verify before
-  publishing. **Fuseini's squad number is entirely unconfirmed** — he wore
-  #77 at Union Saint-Gilloise but nothing turned up for a Derby number, so
-  he's left un-numbered above rather than guessed; add it once known.
-- **No captain marker (c) added.** Travis is Derby's captain but was out
-  injured for this game; nothing found confirms who actually wore the
-  armband (Ebou Adams is a plausible guess as prior vice-captain, but it's
-  a guess, not a source) — fix if you know, or leave unmarked.
-- **Sub pairings (61' and 71') are as reported** but, per the usual
-  constraint, not independently cross-checked against a second source —
-  same caveat as every prior post's subs list.
-- **Mowatt's booking description ("serious foul play") is a paraphrase from
-  a search summary, not a quote from a match report** — flagged inline
-  above too. Worth confirming it wasn't actually a second-yellow situation
-  before publishing, since "serious foul play" is unusually strong wording
-  for what search returned as a single yellow.
-- **Attendance: genuinely not found.** Didn't want to invent a number or
-  quietly drop the line — flagged as unconfirmed per the skill's rule
-  rather than guessing.
-- **"THE PEOPLE" section is thin** — only four names, and none of them have
-  the kind of specific-moment color the Rotherham/Lincoln/Cardiff posts
-  had, because the underlying match reports weren't fetchable. This is the
-  section most in need of Si's own eyes-on-the-game input.
-- **"THE READ" and "IN THEIR WORDS" are placeholders**, not drafted
-  opinion/quotes — deliberately left as prompts rather than invented takes
-  or fabricated quotes, per the skill's rule against leaving a placeholder
-  gap without flagging it.
-- **Next fixture had contradictory search results** (one summary said West
-  Brom away on the 12th, another said West Brom at Pride Park on the 9th,
-  a third mixed in a Birmingham City fixture) — landed on **Wednesday 9
-  September, Pride Park, KO 19:45** as the most consistently repeated
-  version across dcfc.co.uk-sourced and betting-site results, but this is
-  exactly the kind of detail worth a 10-second dcfc.co.uk/fixtures check
-  before it goes out.
+- **Everything here is still `WebSearch`-summary-derived, not
+  source-verified.** `WebFetch` was blocked again this session for
+  skysports.com, dcfc.co.uk, readwestham.com, vavel.com and
+  eastlondontimes.co.uk — same recurring limitation as every prior post.
+  The sources are better this time round (actual published match reports,
+  not previews) but nothing below has been read directly off a page.
+- **Attendance is now confirmed: 61,180**, officially 1,320 below the
+  London Stadium's 62,500 capacity — sourced to a West Ham Football X post
+  quoting the club's own figure, corroborated by a second search summary.
+- **Captain confirmed: Sondre Langås (c)**, per dcfc.co.uk team news
+  ("Langås shall lead the Rams out of the tunnel as captain") with Travis
+  out injured — no longer a guess, the Ebou Adams speculation from the
+  first pass was wrong.
+- **Full sub list now has 5 changes, not the 4 known first time round**:
+  Brewster's 22nd-minute injury (→ Ozoh) was missed entirely in the
+  same-day pass. Fraulo/Meister at 61', Hedges at 71', Nyambe at 72' all
+  now individually corroborated across two+ searches.
+- **A 6th substitution (Mowatt off, Blackett-Taylor on, 86') showed up in
+  one search pass and is NOT included above.** The Championship has used a
+  5-sub limit since 2023-24 (confirmed separately) and the other five
+  changes already account for the full allowance, so a 6th would break the
+  rules — this one is most likely search cross-contamination from another
+  game (Blackett-Taylor featured in the Cardiff post too). Flagging rather
+  than silently dropping it: if Si watched the game and Mowatt actually did
+  come off, something above is wrong and needs correcting, not this line.
+- **Bookings (Mowatt 21', Fuseini 76') now corroborated across two separate
+  searches** — same detail, same minutes, better confidence than the first
+  pass. Mowatt's "serious foul play" wording is still a search paraphrase
+  though, not a confirmed match-report quote — still worth a sense-check.
+- **Squad numbers**: Zetterström (#1), Taylor (#18), Langås (#6), Sanderson
+  (#28), Mowatt (#20), Fraulo (#29), Nyambe (#24), Brewster (#10), Szmodics
+  (#11), Hedges (#26), Meister (#19) unchanged from the first pass and
+  still single-source-ish for the newer names — verify before publishing.
+  **Fuseini now single-source confirmed at #7.** **Ozoh single-source at
+  #18 — this conflicts with Charlie Taylor's #18**, which is the better-
+  established number (used across the Cardiff post archive too). One of
+  these is wrong; left both in rather than guessing which, flag before
+  publishing.
+- **New colour this pass**: Brewster's injury (22') left Szmodics isolated
+  up top per the match report; Szmodics/Hedges combined for a 65th-minute
+  penalty shout (Mavropanos challenge) that the referee waved away; Ozoh's
+  sub appearance is described as a "third debut" after two loan spells,
+  now signed permanently; Szmodics scored the winner at Portsmouth in
+  midweek, so this was his 4th league appearance. A Mowatt post-match
+  RamsTV interview exists (dcfc.co.uk) but the actual quotes weren't
+  readable this session — worth pulling a line from it directly.
+- **"THE READ" is still a placeholder**, deliberately, but now has a real
+  anchor stat: Derby had zero shots on target all game. Still needs Si's
+  actual take on tone rather than an invented one.
+- **"IN THEIR WORDS" still has nothing** — a day on, search still isn't
+  surfacing Bluesky/Facebook reaction for this match specifically (as
+  opposed to old West Ham/Derby history, which is what most noise-hits
+  were). Worth a direct Bluesky check rather than another search pass.
+- **Next fixture unchanged from first pass: Wednesday 9 September, Pride
+  Park, West Bromwich Albion (h), KO 19:45** — still worth the 10-second
+  dcfc.co.uk/fixtures check before publishing, same caveat as before.
 - No image yet — same Canva-reliability caveat as every prior post.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the established pattern.
@@ -179,13 +214,23 @@ more worrying with three weeks until the international break?"]
 ## Sources
 
 - [West Ham United 3-0 Derby County: Joel Piroe scores in Hammers win (Sky Sports, via search)](https://www.skysports.com/football/news/11685/13581261/west-ham-united-3-0-derby-county-joel-piroe-scores-in-hammers-win)
-- [West Ham Crush Derby 3-0 as Late Stunner Caps Rampant Win (VAVEL)](https://www.vavel.com/en/football/2026/09/05/1270223-west-ham-united-vs-derby-county-live-score-efl-championship.html)
-- [West Ham vs Derby County EFL Championship match report (East London Times)](https://eastlondontimes.co.uk/sports/west-ham-united/west-ham-vs-derby-county-efl-championship-match-report-east-london/)
-- [West Ham 3-0 Derby County Match Report (East London Times)](https://eastlondontimes.co.uk/sports/west-ham-united/west-ham-3-0-derby-county-match-report-east-london/)
-- [West Ham make it back-to-back home wins with victory over Derby (Yahoo Sports/PA)](https://uk.sports.yahoo.com/news/west-ham-back-back-home-161628534.html)
-- [West Ham vs Derby Confirmed Lineups (WhoScored)](https://www.whoscored.com/news/0dHgzKi14E6QXgeCsobNvg/show/20260905-west-ham-vs-derby-confirmed-lineup-1788613474)
+- [Form and head to head stats Derby vs West Ham (Sky Sports)](https://www.skysports.com/football/derby-county-vs-west-ham-united/stats/480638)
+- [REPORT: West Ham United 3-0 Derby County (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/09/report-west-ham-united-vs-derby-county-202627)
+- [TEAM NEWS: West Ham United vs Derby County (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/09/team-news-derby-county-vs-west-ham-united)
+- [POST-MATCH: Alex Mowatt - West Ham United (A) (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/09/post-match-alex-mowatt-west-ham-united-a)
+- [Results - West Ham United v Men's First Team - 2026/09/05 (dcfc.co.uk)](https://www.dcfc.co.uk/fixtures/results/2026/09/05/west-ham-united-v-1st-team)
+- [West Ham 3-0 Derby: Hammers record back-to-back wins at home (Read West Ham FC)](https://readwestham.com/2026/09/05/west-ham-3-0-derby-match-report/)
+- [National media spot one West Ham warning despite 3-0 Derby win (Read West Ham FC)](https://readwestham.com/2026/09/06/national-media-react-west-ham-derby-win/)
 - [West Ham learn Derby will miss key duo for London Stadium clash (Read West Ham FC)](https://readwestham.com/2026/09/03/west-ham-derby-team-news-forsyth-travis/)
+- [West Ham 3-0 Derby County: Hammers Make It Back-to-Back Championship Wins (VAVEL)](https://www.vavel.com/en/football/2026/09/05/west-ham/1270272-west-ham-3-0-derby-hammers-make-it-back-to-back-league-wins.html)
+- [Goals | West Ham United 3-0 Derby County (West Ham United FC)](https://www.whufc.com/en/news/goals-or-west-ham-united-3-0-derby-county)
+- [Late Hammers Flurry Secures Victory Against Derby (The West Ham Way)](https://www.thewesthamway.com/2026/09/05/late-hammers-flurry-secures-victory-against-derby-match-report/)
+- [West Ham 3-0 Derby County Match Report (East London Times)](https://eastlondontimes.co.uk/sports/west-ham-united/west-ham-3-0-derby-county-match-report-east-london/)
+- [West Ham vs Derby Confirmed Lineups (WhoScored)](https://www.whoscored.com/news/0dHgzKi14E6QXgeCsobNvg/show/20260905-west-ham-vs-derby-confirmed-lineup-1788613474)
+- [West Ham vs Derby Confirmed Lineups (Oddschecker)](https://www.oddschecker.com/insight/football/20260905-west-ham-vs-derby-confirmed-lineups)
+- [Official attendance confirmation (West Ham Football on X)](https://x.com/westhamfootball/status/2096279914756399193)
 - [TRANSFER NEWS: Introducing...Mohammed Fuseini (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/09/transfer-news-introducingmohammed-fuseini)
 - [SIGNING: Fuseini makes Derby loan switch (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/09/signing-fuseini-makes-derby-loan-switch)
 - [TRANSFER NEWS: Introducing...Henrik Meister (dcfc.co.uk, via search)](https://www.dcfc.co.uk/news/2026/08/transfer-news-introducinghenrik-meister)
+- [EFL Statement | Changes to Championship substitutions (Cardiff City FC / EFL)](https://www.cardiffcityfc.co.uk/news/efl-statement-changes-championship-substitutions)
 - [Fixtures (dcfc.co.uk)](https://www.dcfc.co.uk/fixtures)
