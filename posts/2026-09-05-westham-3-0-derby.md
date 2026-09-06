@@ -138,13 +138,25 @@ quick dcfc.co.uk check before publishing — some noise in the results had
 conflicting September fixtures.]
 
 
-IN THEIR WORDS
+IN THEIR WORDS 🗣️
 
-[Still nothing to pull — search isn't surfacing Bluesky/Facebook posts for
-this one even a day on. Either check Bluesky directly for 2-3 quotes, or
-swap this section for a direct comment-seeding prompt along the lines of
-"call it — bad day at the office, or something more worrying with three
-weeks until the international break?"]
+"3-0 really isn't a reflection of this game. They have a Prem squad worth
+£225m and three times our wage bill, but we gifted them first goal and
+paid too much respect 1st half. Think JE was juggling the squad with busy
+week ahead" — @timwhitemore.bsky.social
+
+"After a really wobbly first 10 mins, Derby stayed in the game and
+competed without really looking like they could hurt West Ham. 3-0 pretty
+harsh at the end but there will be easier games." — @apancisi.bsky.social
+
+"Changed a lot when Ozoh came on. Rams fans in good voice. This side has
+some potential!" — @kevinvillegas.com
+
+
+FOLLOW THE RAMS ON BLUESKY
+
+[QR code / follow graphic — @derbycounty.bsky.social —
+assets/bluesky-follow-qr-derbycounty.png]
 ```
 
 ---
@@ -200,14 +212,40 @@ weeks until the international break?"]
 - **"THE READ" is still a placeholder**, deliberately, but now has a real
   anchor stat: Derby had zero shots on target all game. Still needs Si's
   actual take on tone rather than an invented one.
-- **"IN THEIR WORDS" still has nothing** — a day on, search still isn't
-  surfacing Bluesky/Facebook reaction for this match specifically (as
-  opposed to old West Ham/Derby history, which is what most noise-hits
-  were). Worth a direct Bluesky check rather than another search pass.
+- **"IN THEIR WORDS" now has real quotes, supplied directly by Si** — three
+  of the four he sent, picked for range (frustration/context, a balanced
+  take, and a positive note on Ozoh's impact that ties nicely to his entry
+  in "THE PEOPLE"). The fourth ("Not great but at least they had a go
+  later on, too late. Bottom 3." — @ayrshireram.bsky.social,
+  https://bsky.app/profile/ayrshireram.bsky.social/post/3murtqblo4s27) was
+  cut only to stay within the skill's 2-3 quote cap, not for quality — swap
+  it in for one of the three above if a different mix reads better.
+  Credited handle-only since that's all that was supplied, matching the
+  Cardiff post's precedent. These are genuinely higher-confidence than
+  anything else in this post: supplied directly by Si with post URLs,
+  rather than search-summarized.
+- **Tried to pull more reaction via the @derbycounty.bsky.social RSS/repost
+  feed, as asked — blocked at the network level, not just the usual
+  WebFetch-per-domain issue.** Every Bluesky-related host tried
+  (bsky.app, public.api.bsky.app, and the rsshub.app bridge) came back as
+  an explicit **organization policy** rejection from the egress proxy
+  (`connect_rejected ... organization policy`), the same rejection type
+  regardless of which Bluesky-adjacent domain or protocol was tried
+  (webview, public API, RSS bridge). This reads as a deliberate block on
+  Bluesky access for this session rather than a fixable fetch issue, so no
+  further automated attempt is likely to get through — pulling reposts
+  from that feed will need doing outside this session.
 - **Next fixture unchanged from first pass: Wednesday 9 September, Pride
   Park, West Bromwich Albion (h), KO 19:45** — still worth the 10-second
   dcfc.co.uk/fixtures check before publishing, same caveat as before.
-- No image yet — same Canva-reliability caveat as every prior post.
+- **No matchday image yet** — same Canva-reliability caveat as every prior
+  post. Separately, Si supplied a reusable "follow us on Bluesky" QR
+  graphic for `@derbycounty.bsky.social`, saved to
+  `assets/bluesky-follow-qr-derbycounty.png` — this is a standing club-
+  account promo, not matchday art, so it's a candidate to attach to every
+  post going forward rather than just this one; added a placeholder for it
+  above but it's equally fine as a one-off image attached directly in
+  Patreon rather than inline in the text.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the established pattern.
 
