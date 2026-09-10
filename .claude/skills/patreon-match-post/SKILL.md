@@ -87,6 +87,13 @@ shape every decision below:
     (https://x.com/derbycounty). Added from the West Brom post (9 September
     2026) onward, per Si — include on every post regardless of anything else
     in it, not just when there's room.
+14. **TELL US WHAT YOU WANT FROM THIS** — final section, every post. A short,
+    direct ask for feedback on the content itself: what's landing, what
+    would land better, what's missing, what they don't like — comment below
+    or email feedback@superrams.com. Also added from the West Brom post
+    onward, per Si. Vary the wording post to post rather than pasting the
+    same paragraph every time, but keep the two asks (comment / email
+    feedback@superrams.com) and the open, non-defensive tone.
 
 ## Tone rules
 

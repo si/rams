@@ -117,6 +117,11 @@ FOLLOW SUPERRAMS
 🦋 Bluesky: https://bsky.app/profile/derbycounty.bsky.social
 📘 Facebook: https://www.facebook.com/derbycountyrams
 ✖️ X: https://x.com/derbycounty
+
+
+TELL US WHAT YOU WANT FROM THIS
+
+This is a fan site, so it should be built around what you actually want to read, not what we assume. What's landing, what would land better, what's missing, what winds you up about how we cover it — drop a comment below or email feedback@superrams.com.
 ```
 
 ---
@@ -154,6 +159,11 @@ FOLLOW SUPERRAMS
 - **"FOLLOW SUPERRAMS" is also a new standing section** from this draft
   onward per Si — Bluesky/Facebook/X links on every post regardless of
   content. Documented in the skill alongside "WHERE WE STAND".
+- **"TELL US WHAT YOU WANT FROM THIS" is a third new standing section**,
+  also from this draft per Si — a direct feedback ask (comment or email
+  feedback@superrams.com) on every post. Documented in the skill; wording
+  should vary post to post rather than being copy-pasted verbatim each
+  time.
 - **Next fixture (Birmingham, h, Sat 13 Sept, lunchtime KO on Sky Sports)
   confirmed by Si directly**, on top of the fan Bluesky reply that flagged
   Birmingham first. No longer flagged as a gap.
