@@ -110,6 +110,13 @@ IN THEIR WORDS 🗣️
 LISTEN: RAMS REVIEW PODCAST
 
 The lads broke this one down too — full episode here: https://www.ramsreviewpodcast.com/post/dcfc-0-1-wba-9-sep-26
+
+
+FOLLOW SUPERRAMS
+
+🦋 Bluesky: https://bsky.app/profile/derbycounty.bsky.social
+📘 Facebook: https://www.facebook.com/derbycountyrams
+✖️ X: https://x.com/derbycounty
 ```
 
 ---
@@ -144,6 +151,9 @@ The lads broke this one down too — full episode here: https://www.ramsreviewpo
   below). Documented in the `patreon-match-post` skill so future drafts
   include it automatically — Derby: 22nd, P6 GD-6 Pts4; Bolton one above,
   Burnley one below, both on the same GD.
+- **"FOLLOW SUPERRAMS" is also a new standing section** from this draft
+  onward per Si — Bluesky/Facebook/X links on every post regardless of
+  content. Documented in the skill alongside "WHERE WE STAND".
 - **Next fixture (Birmingham, h, Sat 13 Sept, lunchtime KO on Sky Sports)
   confirmed by Si directly**, on top of the fan Bluesky reply that flagged
   Birmingham first. No longer flagged as a gap.

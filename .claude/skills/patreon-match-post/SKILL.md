@@ -81,6 +81,12 @@ shape every decision below:
     don't leave a placeholder gap — either cut the section or replace it with
     a direct comment-seeding prompt tied to something specific from the match
     (see the Rotherham example for how this played out).
+13. **FOLLOW SUPERRAMS** — closing section on every post, linking all three
+    main channels: Bluesky (https://bsky.app/profile/derbycounty.bsky.social),
+    Facebook (https://www.facebook.com/derbycountyrams), X
+    (https://x.com/derbycounty). Added from the West Brom post (9 September
+    2026) onward, per Si — include on every post regardless of anything else
+    in it, not just when there's room.
 
 ## Tone rules
 
