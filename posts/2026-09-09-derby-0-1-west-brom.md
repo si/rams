@@ -86,12 +86,21 @@ Losing to ten men for closer to an hour than not is the kind of result that shou
 
 WHAT'S NEXT
 
-**Next Championship fixture — date and opponent not confirmed in available sources; check dcfc.co.uk before publishing.**
+**Saturday 13 September, Pride Park: Birmingham City (h), Championship.**
 
 
 IN THEIR WORDS 🗣️
 
-[Awaiting fan quotes from Bluesky/Facebook — Si to supply after this draft, per usual process. Once in hand, add 2-3 handle-credited pulls here before publishing.]
+"I'm afraid that was truly embarrassing. I'm not sure what's worse - losing heavily, as #dcfc did against Swansea and West Ham, or being managed without any trouble whatsoever by ten men. West Brom won't get many easier away wins than that. Derby were pathetic. Wrong team, wrong subs. Belief drained." — @derbycountyblog.bsky.social
+
+"Sanderson at RB says it all tonight. Whether fans like him or not, Johnston needs to start the next 5-6 games and give him chance to play his way into form. Unless you're one of Eustace's mates, you won't be given a run of games. It's all chop and change each and every game." — @iamzavagno.bsky.social
+
+"FULL TIME. Derby 0-1 West Brom. Derby may have played against 10 men for most of the game but did nothing to capitalise and are subjected to a deserved defeat. West Brom were excellent even after going down to 10 and deserve their victory." — @worksbyadam.com
+
+
+LISTEN: RAMS REVIEW PODCAST
+
+The lads broke this one down too — full episode here: https://www.ramsreviewpodcast.com/post/dcfc-0-1-wba-9-sep-26
 ```
 
 ---
@@ -123,20 +132,30 @@ IN THEIR WORDS 🗣️
   several attempts. Given West Brom went top and this was a live TV game,
   it's likely to have been well-attended — check dcfc.co.uk or the EFL site
   directly rather than leaving this blank.
-- **Next fixture is unconfirmed.** Search kept surfacing old-season and
-  hallucinated fixture noise (a "13 September" and "20 September" result
-  that don't fit the current season's run of play, plus West Ham 3-0 Derby
-  which was actually 5 September, before this game). Don't guess — check
-  dcfc.co.uk/fixtures directly before publishing.
+- **Next fixture (Birmingham, h, Sat 13 Sept) comes from a fan's Bluesky
+  reply**, not an independently checked source — search itself kept
+  surfacing old-season and hallucinated fixture noise. Worth a quick
+  dcfc.co.uk cross-check before publishing, but a fan naming the exact next
+  opponent and day the night of the game is decent evidence on its own.
 - **"Charlie Taylor" needs a sanity check.** Some sources returned a Charlie
   Taylor playing for West Brom, contradicting his place in Derby's own
   lineup from the Cardiff post. Almost certainly search conflating a
   same-named player from elsewhere in football — but confirm he's still
   Derby's before this goes up, given he's also the player at the centre of
   the sending-off.
-- **No fan quotes yet** — per Si, those come after this draft. Slot 2-3
-  handle-credited pulls into "IN THEIR WORDS" before publishing; don't
-  leave the placeholder in.
+- **Fan quotes are handle-only**, same as the Cardiff post — Si supplied
+  screenshots with handles (@derbycountyblog.bsky.social,
+  @iamzavagno.bsky.social, @worksbyadam.com) but no display names beyond
+  what's shown on-screen, so credited by handle. Trimmed the `#dcfc #efl
+  #derbycounty #wwrams`-style hashtag clutter off the ends of two quotes,
+  left the wording otherwise verbatim. Si also offered to crop the original
+  screenshots for full visual credit if that's preferred over text pulls —
+  worth asking before publishing.
+- **Podcast plug is unverified content-wise** — `WebFetch` is blocked for
+  ramsreviewpodcast.com in this session (same as every prior post), so the
+  episode's actual content beyond the title/URL Si gave couldn't be
+  confirmed. Listed as a plain link rather than an embed — check on paste
+  whether Patreon renders it as a clickable link or just plain text.
 - No image yet — same Canva-reliability caveat as every prior post.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the established pattern.
