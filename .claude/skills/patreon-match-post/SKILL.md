@@ -65,10 +65,18 @@ shape every decision below:
      end size) rather than inventing a number
    - `Distance travelled:` miles from Pride Park — **away games only**, omit
      entirely for home fixtures
-9. **THE READ** — one short paragraph of analysis/opinion tying the match to
-   what's coming next.
-10. **WHAT'S NEXT** — the next fixture, bolded, with date/competition.
-11. **IN THEIR WORDS** — 2-3 pulled fan quotes from Bluesky/Facebook. **If
+9. **WHERE WE STAND** — league table position, plus the team immediately
+   above and below, one line each: `<Pos>. <Team> — P<played>, GD<goal
+   difference>, Pts<points>`, Derby's own row unbolded like the rest (no
+   special styling needed — its position in the middle of the three lines
+   marks it out). Close with one line of commentary on what the gap (or lack
+   of one) actually means. Added from the West Brom post (9 September 2026)
+   onward, per Si — track this on every post going forward, not just when
+   the table position happens to be dramatic.
+10. **THE READ** — one short paragraph of analysis/opinion tying the match to
+    what's coming next.
+11. **WHAT'S NEXT** — the next fixture, bolded, with date/competition.
+12. **IN THEIR WORDS** — 2-3 pulled fan quotes from Bluesky/Facebook. **If
     there's nothing to pull** (common for quiet pre-season friendlies),
     don't leave a placeholder gap — either cut the section or replace it with
     a direct comment-seeding prompt tied to something specific from the match
@@ -130,6 +138,7 @@ Before drafting, confirm:
 - [ ] Bookings, if any
 - [ ] Attendance — official figure or best available reported detail
 - [ ] Distance from Pride Park (away games only)
+- [ ] League table position, plus the team immediately above and below
 - [ ] Next fixture
 
 ## Reference material

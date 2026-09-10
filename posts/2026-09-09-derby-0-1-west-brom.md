@@ -76,7 +76,16 @@ STATS SNAPSHOT
 
 Goals: 16' Heggebø (West Brom, assist Jimmy-Jay Morgan)
 Bookings: 34' Brayann Pereira (West Brom) — second yellow, straight red, foul on Charlie Taylor
-Attendance: not confirmed in available sources — flag for whoever publishes to check dcfc.co.uk/official EFL figures
+Attendance: 27,323 (including 3,101 away supporters)
+
+
+WHERE WE STAND
+
+21. Bolton Wanderers — P6, GD -6, Pts 4
+22. Derby County — P6, GD -6, Pts 4
+23. Burnley — P6, GD -6, Pts 3
+
+Three points on identical goal difference to the team just above us, one ahead of the team below — this is as tight as a false-margin table gets. One result either way and we're swapping places with a division rival by Saturday teatime.
 
 
 THE READ
@@ -128,10 +137,13 @@ The lads broke this one down too — full episode here: https://www.ramsreviewpo
 - **No other Derby substitutions turned up at all**, which is unusual for a
   full 90 minutes — probably just a gap in what search surfaced rather than
   Eustace only making one change. Worth a direct check.
-- **Attendance figure never turned up** in any search result, despite
-  several attempts. Given West Brom went top and this was a live TV game,
-  it's likely to have been well-attended — check dcfc.co.uk or the EFL site
-  directly rather than leaving this blank.
+- **Attendance (27,323, including 3,101 away) confirmed by Si directly** —
+  no longer flagged as a gap.
+- **"WHERE WE STAND" is a new section**, added to the post format from this
+  draft onward per Si (table position plus the team immediately above and
+  below). Documented in the `patreon-match-post` skill so future drafts
+  include it automatically — Derby: 22nd, P6 GD-6 Pts4; Bolton one above,
+  Burnley one below, both on the same GD.
 - **Next fixture (Birmingham, h, Sat 13 Sept, lunchtime KO on Sky Sports)
   confirmed by Si directly**, on top of the fan Bluesky reply that flagged
   Birmingham first. No longer flagged as a gap.
