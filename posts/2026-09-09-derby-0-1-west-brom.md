@@ -86,7 +86,7 @@ Losing to ten men for closer to an hour than not is the kind of result that shou
 
 WHAT'S NEXT
 
-**Saturday 13 September, Pride Park: Birmingham City (h), Championship.**
+**Saturday 13 September, Pride Park: Birmingham City (h), Championship — lunchtime KO, live on Sky Sports.**
 
 
 IN THEIR WORDS 🗣️
@@ -132,11 +132,9 @@ The lads broke this one down too — full episode here: https://www.ramsreviewpo
   several attempts. Given West Brom went top and this was a live TV game,
   it's likely to have been well-attended — check dcfc.co.uk or the EFL site
   directly rather than leaving this blank.
-- **Next fixture (Birmingham, h, Sat 13 Sept) comes from a fan's Bluesky
-  reply**, not an independently checked source — search itself kept
-  surfacing old-season and hallucinated fixture noise. Worth a quick
-  dcfc.co.uk cross-check before publishing, but a fan naming the exact next
-  opponent and day the night of the game is decent evidence on its own.
+- **Next fixture (Birmingham, h, Sat 13 Sept, lunchtime KO on Sky Sports)
+  confirmed by Si directly**, on top of the fan Bluesky reply that flagged
+  Birmingham first. No longer flagged as a gap.
 - **"Charlie Taylor" needs a sanity check.** Some sources returned a Charlie
   Taylor playing for West Brom, contradicting his place in Derby's own
   lineup from the Cardiff post. Almost certainly search conflating a
@@ -162,6 +160,7 @@ The lads broke this one down too — full episode here: https://www.ramsreviewpo
 
 ## Sources
 
+- [Derby County fixtures (fixtur.es) — Si's source for confirming upcoming fixtures](https://fixtur.es/en/team/derby-county)
 - [Derby 0-1 West Brom: Baggies move top of Championship with win at Pride Park despite Brayann Pereira red card (Sky Sports)](https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567)
 - [West Brom win with 10 men at Derby to reach Championship summit (Shropshire Star)](https://www.shropshirestar.com/uk-sports/west-brom-win-with-10-men-at-derby-to-reach-championship-summit-9004421)
 - [Derby 0 West Brom 1: Baggies claim brilliant win with 10 men (Express & Star)](https://www.expressandstar.com/sport/derby-0-west-brom-1-baggies-claim-brilliant-win-with-10-men-9004270)
