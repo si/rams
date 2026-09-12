@@ -53,10 +53,31 @@ Birmingham arrive off the back of their first defeat of the season, away at Norw
 See you at the ground or shouting at the telly — up the Rams ⚪
 ```
 
+## Confirmed post-match (from in-app lineup screenshot, 0-0 at KO)
+
+Derby County starting XI:
+
+1. Jacob Widell Zetterström
+2. Joe Ward
+3. Sondre Langås
+4. Eiran Cashin
+5. Charlie Taylor
+6. Bobby Clark
+7. David Ozoh
+8. Henrik Meister
+9. Sam Szmodics
+10. Mo Fuseini
+11. Carlton Morris
+
+Note: Carlton Morris (9) is listed starting despite being flagged as out
+injured in the pre-match team news above - worth double-checking against
+a second source before the day-after draft goes out, in case the injury
+news was wrong or he's carrying it.
+
 ## Still to gather post-match (per skill checklist, for tomorrow's draft)
 
 - [ ] Final score
-- [ ] Derby's starting XI with squad numbers (flag any `#TBC`)
+- [x] Derby's starting XI with squad numbers (flag any `#TBC`)
 - [ ] Substitutions with minutes
 - [ ] Goalscorers with minutes (pen/OG flags)
 - [ ] Bookings
