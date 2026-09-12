@@ -74,16 +74,43 @@ injured in the pre-match team news above - worth double-checking against
 a second source before the day-after draft goes out, in case the injury
 news was wrong or he's carrying it.
 
+## Full-time: Derby 1-2 Birmingham City
+
+- **Goalscorers:** Bobby Clark 40' (Derby); Carlos Vicente 42', Paik Seung-Ho 64'
+  (Birmingham).
+- **Match flow:** Clark put Derby ahead, only for Vicente to equalise two
+  minutes later, then Paik won it for Birmingham after a long second-half
+  stoppage.
+- **Henrik Meister injury:** Stretchered off early in the second half after an
+  off-the-ball aerial collision (head injury) — play halted roughly 7
+  minutes. Given the all-clear by Derby's medical staff on the day and left
+  the stadium unaided, but is now in concussion protocols and expected to be
+  out for at least 12 days.
+- **Manager reaction:**
+  - Eustace (Derby): "It was a game we certainly didn't deserve to lose...
+    They were two real soft goals and when you concede goals like that you
+    are not going to be on the right end of the results that you want."
+    Also: "The effort was amazing again today, I thought we played some
+    really exciting stuff and it was great to see the new players impact
+    the game as well, so we are really disappointed to lose."
+  - Davies (Birmingham): "It was a game that had a bit of everything...
+    I thought we were well worth the win and I thought we could have been a
+    couple of goals up in the game."
+- **Next fixture:** Derby travel to Burnley, Saturday 19 September 2026.
+
 ## Still to gather post-match (per skill checklist, for tomorrow's draft)
 
-- [ ] Final score
+- [x] Final score
 - [x] Derby's starting XI with squad numbers (flag any `#TBC`)
-- [ ] Substitutions with minutes
-- [ ] Goalscorers with minutes (pen/OG flags)
-- [ ] Bookings
-- [ ] Attendance
-- [ ] Next fixture
-- [ ] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS"
+- [ ] Substitutions with minutes — not confirmed by sources checked so far
+  (Sky Sports/Fotmob/Express & Star all blocked by network egress; worth
+  Si pulling the sub list from the club site or a screenshot)
+- [x] Goalscorers with minutes (pen/OG flags) — none flagged as pen/OG
+- [ ] Bookings — not confirmed, no source found mentioning cards
+- [ ] Attendance — not yet published in any source checked
+- [x] Next fixture
+- [ ] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS" (Si to
+  share socials separately)
 
 ## Sources
 
