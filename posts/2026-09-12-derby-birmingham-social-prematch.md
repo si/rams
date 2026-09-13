@@ -53,26 +53,45 @@ Birmingham arrive off the back of their first defeat of the season, away at Norw
 See you at the ground or shouting at the telly — up the Rams ⚪
 ```
 
-## Confirmed post-match (from in-app lineup screenshot, 0-0 at KO)
+## Confirmed post-match (from in-app lineup screenshots + Fotmob stats page)
 
-Derby County starting XI:
+Derby County starting XI (4-2-3-1):
 
-1. Jacob Widell Zetterström
-2. Joe Ward
-3. Sondre Langås
-4. Eiran Cashin
-5. Charlie Taylor
-6. Bobby Clark
-7. David Ozoh
-8. Henrik Meister
-9. Sam Szmodics
-10. Mo Fuseini
-11. Carlton Morris
+1. Jacob Widell Zetterström (GK)
+23. Joe Ward
+6. Sondre Langås
+44. Eiran Cashin
+18. Charlie Taylor
+8. Bobby Clark
+4. David Ozoh
+19. Henrik Meister
+11. Sam Szmodics
+16. Mo Fuseini
+9. Carlton Morris (C)
 
-Note: Carlton Morris (9) is listed starting despite being flagged as out
-injured in the pre-match team news above - worth double-checking against
-a second source before the day-after draft goes out, in case the injury
-news was wrong or he's carrying it.
+Note: Carlton Morris (9) started and captained the side despite being
+flagged as out injured in the pre-match team news above - the injury news
+must have been wrong, or he passed a late fitness test.
+
+Derby substitutes: Vickers (GK), Salvesen, Mowatt, Johnston, Nyambe,
+Hedges, Sanderson, Fraulo, Blackett-Taylor.
+
+Birmingham City XI: Beadle (GK), Klarer (C), Neumann, Vicente, Priske,
+Solís, Millar, Cochrane, Iwata, Osayi-Samuel, Stansfield.
+
+Birmingham substitutes: Allsop (GK), Laird, Buchanan, Paik, Fry, Lund,
+Fujimoto, Vázquez, Ducksch. (Paik Seung-Ho and Carlos Vicente's names
+above are given as they'd be styled on the club site/socials.)
+
+**Attendance:** 28,121.
+
+**Match stats (Derby / Birmingham):** Shots 11-13; on target 2-6;
+possession 58%-42%; passes 351-239; pass accuracy 79%-68%; fouls 8-12;
+yellow cards 1-3; red cards 0-0; offsides 4-1; corners 10-4. Derby
+dominated territory but Birmingham were far more clinical and dangerous.
+
+**League table after this game:** Derby 22nd (P7 W1 D1 L5), Birmingham 9th
+(P7 W2 D4 L1) and rising.
 
 ## Full-time: Derby 1-2 Birmingham City
 
@@ -98,19 +117,37 @@ news was wrong or he's carrying it.
     couple of goals up in the game."
 - **Next fixture:** Derby travel to Burnley, Saturday 19 September 2026.
 
+## IN THEIR WORDS (fan reaction, Bluesky)
+
+- @mimij9.bsky.social: "The most worrying aspect under Eustace is Derby
+  County just cannot control games. I think it needs a change of system
+  because our fullbacks, certainly on the right are not good enough. Our
+  midfield is overrun. I still think Clark's best position is number 10."
+- @timwhitemore.bsky.social (reply to the above): "Exactly. Would happily
+  plonk Nyambe at RB and have 3 holding MFs if it gives us some control. It
+  would be dull for a while but we would get clean sheets & confidence.
+  Hit opposition on the break instead."
+- @maxschrecksic.bsky.social: "Pretty poor really. Ref didn't help, not
+  using the new rules consistently; that said, 8 of the players were here
+  last Season, yet looked as if they'd never played together. Smodics
+  kept running away from passes to him. We only kicked in with last,
+  added, 13 minutes. Eustace needs to look in mirror."
+
+Si says more socials to follow - hold this section open for additions.
+
 ## Still to gather post-match (per skill checklist, for tomorrow's draft)
 
 - [x] Final score
 - [x] Derby's starting XI with squad numbers (flag any `#TBC`)
-- [ ] Substitutions with minutes — not confirmed by sources checked so far
-  (Sky Sports/Fotmob/Express & Star all blocked by network egress; worth
-  Si pulling the sub list from the club site or a screenshot)
+- [x] Full substitutes lists for both teams (no in/out minutes confirmed
+  yet - sub timings still unconfirmed, sources blocked)
 - [x] Goalscorers with minutes (pen/OG flags) — none flagged as pen/OG
-- [ ] Bookings — not confirmed, no source found mentioning cards
-- [ ] Attendance — not yet published in any source checked
+- [x] Bookings — 1 Derby yellow, 3 Birmingham yellows, 0 reds (per Fotmob
+  discipline stats); which individual players booked not yet confirmed
+- [x] Attendance — 28,121
 - [x] Next fixture
-- [ ] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS" (Si to
-  share socials separately)
+- [x] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS" (more to
+  follow from Si)
 
 ## Sources
 
