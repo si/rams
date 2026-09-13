@@ -132,6 +132,23 @@ dominated territory but Birmingham were far more clinical and dangerous.
   last Season, yet looked as if they'd never played together. Smodics
   kept running away from passes to him. We only kicked in with last,
   added, 13 minutes. Eustace needs to look in mirror."
+- @msbailz.bsky.social: "Fuseini my MOTM - looked dangerous and worked so
+  hard." (Reply from @chorleyhistorian.bsky.social: "I was afraid that he
+  could be a very fast headless chicken, but he clearly has potential.")
+- @derbycountyblog.bsky.social: "Six defeats to Championship teams in
+  eight games tells its own story. #dcfc aren't coping with the division.
+  Regression from last season is shocking. The team is better with
+  Morris, but we aren't defending well enough, or creating enough. If
+  Birmingham had scored 3 or 4 we couldn't have complained." (Replies:
+  @chorleyhistorian.bsky.social - "Missing Clarke in the middle of
+  defence. Langas and Zetterstrom play better when Clarke is there.";
+  @derby5hire.bsky.social - "4 more games before judging anything. its
+  not regression, yet..."; @jshmtn.bsky.social - "Eustace reckons we were
+  excellent today.")
+
+Note: "Clarke" in the derbycountyblog thread refers to Matt Clarke, the
+injured centre-back (see pre-match team news above) - not Bobby Clark, the
+goalscorer. Worth keeping the two straight in the write-up.
 
 Si says more socials to follow - hold this section open for additions.
 
