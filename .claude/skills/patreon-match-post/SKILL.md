@@ -1,6 +1,6 @@
 ---
 name: patreon-match-post
-description: Draft a SuperRams Patreon match-report post in the established format — free teaser + paywalled full post, Derby County (Rams) players only, simplified stats block, fan-voice tone with sass and snark. Use whenever drafting or revising a SuperRams Patreon post for a Derby County match. Triggers include "Patreon post", "match report", a fixture name plus "write up/draft", or "our standard format".
+description: Draft SuperRams matchday content in the established format — either the day-after Patreon match-report (free teaser + paywalled full post, Derby County players only, fan-voice tone with sass and snark) or the matchday pre-match socials (short Bluesky/X + Facebook hype posts, same voice). Use whenever drafting or revising a SuperRams Patreon post for a Derby County match, OR whenever checking if Derby play today and drafting socials for that game. Triggers include "Patreon post", "match report", a fixture name plus "write up/draft", "our standard format", "matchday socials", "draft socials for the game", or "are Derby playing today".
 ---
 
 # SuperRams Patreon match-post format
@@ -55,7 +55,7 @@ shape every decision below:
    followed by a short paragraph of personality-driven commentary. This is
    where the sass lives — see "Tone" below. Never give the opposition this
    treatment.
-8. **STATS SNAPSHOT** — exactly four lines, no more:
+8. **STATS SNAPSHOT** — exactly five lines, no more:
    - `Goals:` `<minute>' <player> (pen if penalty)`, comma/line-separated for
      multiple
    - `Bookings:` `(<minute>) <player> (yellow/red)`, or "none reported"
@@ -63,6 +63,13 @@ shape every decision below:
      <n>)" if known; if no official figure exists, say so explicitly and
      give whatever qualitative detail is available (e.g. stands closed, away
      end size) rather than inventing a number
+   - `Table:` Derby's league position after this result, plus the
+     opponent's for context — e.g. "Derby 22nd (P7 W1 D1 L5), Birmingham
+     climb to 9th (P7 W2 D4 L1)". Source from Fotmob's Table tab or
+     WebSearch; flag if the position is unconfirmed rather than guessing.
+     Omit for fixtures with no league table (friendlies, cup rounds) — the
+     Rotherham worked example predates this line and has no Table entry
+     for exactly that reason, not because it was missed.
    - `Distance travelled:` miles from Pride Park — **away games only**, omit
      entirely for home fixtures
 9. **THE READ** — one short paragraph of analysis/opinion tying the match to
@@ -73,6 +80,54 @@ shape every decision below:
     don't leave a placeholder gap — either cut the section or replace it with
     a direct comment-seeding prompt tied to something specific from the match
     (see the Rotherham example for how this played out).
+
+## Matchday pre-match socials
+
+On matchday itself (before kick-off, so the day-after Patreon report isn't
+possible yet — no score/lineups/stats exist), a lighter deliverable covers
+the gap: short hype posts for the SuperRams Bluesky/X and Facebook accounts,
+same fan voice as the Patreon post. Established while drafting the Derby v
+Birmingham City game (12 September 2026); canonical example at
+`../../../posts/2026-09-12-derby-birmingham-social-prematch.md`.
+
+Do this every time a scheduled or ad-hoc check finds Derby playing that day:
+
+1. **Confirm the fixture** — opponent, competition, venue, date/kick-off
+   (WebSearch; direct fetches to sports-news domains are blocked by this
+   environment's egress policy — see "Best sources by data type" below —
+   so rely on search summaries and flag anything single-sourced).
+2. **Gather quick context** — recent form (last result, home/away run),
+   table position, head-to-head, and team news/injuries for both sides.
+   Keep it brief; this isn't the full data-gathering checklist below.
+3. **Draft two posts, not one per platform beyond this:**
+   - **Bluesky/X** — one post, comfortably under 280 characters (fits both
+     platforms' limits with room to spare). Punchy, sub-one-paragraph.
+   - **Facebook** — a longer, more conversational version of the same
+     hype, 2-3 short paragraphs.
+   Same tone rules as below: harsh/self-deprecating about Derby, light on
+   the opponent. Lead with "MATCHDAY" and the kick-off time; work in the
+   sharpest piece of context (a bad run, a key absence, a chance to catch
+   the opponent cold).
+4. **Save the draft** to `posts/<match-date>-<opponent>-social-prematch.md`
+   (repo root `posts/`, same folder as full match reports) — fixture facts,
+   team news, the two post drafts in fenced code blocks with character
+   counts, a reminder that the full Patreon report is still a day-after job
+   once the result's in, and sources.
+5. **Commit and push** the draft file to the working branch, same as any
+   other repo change.
+6. **Create a TickTick task** to review and post the drafts manually
+   (Bluesky/X/Facebook aren't connected to Buffer — see
+   `metrics/README.md`), in the **🐏Rams** project
+   (`6a6d92ca5ef551dc12627923`), titled `Review matchday socials — <fixture>
+   (<KO time> KO)`, due 6 hours before kick-off, with the draft file path in
+   the task content.
+7. **Give the user the two post texts directly, copy-paste ready** — don't
+   make them open the repo file to get the copy. The saved file is the
+   archive/audit trail, not the delivery mechanism.
+
+These are drafts for Si to post manually — never publish to Buffer or any
+social platform directly; there's no connected SuperRams channel to do so
+even if a tool existed for it.
 
 ## Tone rules
 
@@ -120,15 +175,67 @@ re-discovering it each week.
   anyway, then manually download it from the Canva web link and upload it to
   Patreon directly — don't block the post on the automation working.
 
+## Best sources by data type
+
+Learned while corroborating the Derby 1-2 Birmingham post (12-13 September
+2026), where three sources each filled a different gap the others left:
+
+- **BBC Sport's Line-ups tab** (a screenshot from Si, since direct fetch is
+  blocked — see below) was the single most reliable source for **exact
+  substitution minutes and individual bookings with their minute**. It's
+  laid out as one row per starter with the sub who replaced them and the
+  minute inline, plus a yellow/red card icon and minute next to any player
+  booked. Ask Si for a screenshot of this tab specifically if subs/cards are
+  still open after the club report and WebSearch — it closed every
+  remaining gap in one image both previous rounds had left as TBC. Note it
+  can catch a substitution the club's own report omits entirely (a fourth
+  Derby sub was on BBC's page but not dcfc.co.uk's account of the game).
+- **The official club match report** (dcfc.co.uk/news/.../report-...) is the
+  best source for **prose detail**: chance-by-chance description of the
+  half, confirmed attendance including the away-end breakdown, and the
+  full squad/subs-bench list. It often narrates the substitution sequence
+  ("X came on for Y") without giving the clock minute, and doesn't
+  reliably mention bookings at all — treat it as the best narrative source,
+  not the best minute-accurate one. Si has been sourcing this as a PDF
+  export of the blog post; readable with `pdftotext -layout` (needs
+  `poppler-utils` — install with `apt-get install -y poppler-utils` if
+  missing) rather than the page-image `Read` path, which is slow and
+  unnecessary for a text-heavy report.
+- **Fotmob's Stats tab** (screenshot from Si — direct fetch also blocked)
+  is the best source for the **STATS SNAPSHOT-adjacent aggregate numbers**
+  match stats (shots, on-target, possession, pass accuracy, fouls,
+  corners, offsides) and the total card count per team, plus post-match
+  league table position. It won't tell you which individual player was
+  booked, only the team totals.
+- **WebSearch summaries** (Sky Sports, Yahoo Sports, Express & Star, etc.
+  via search snippets, since direct fetch to all of these is blocked) are
+  good enough for the score, goalscorer minutes, and manager reaction
+  quotes, but don't expect sub minutes or individual bookings from search
+  snippets alone — that level of detail needs one of the three sources
+  above.
+- **Direct WebFetch is blocked by this environment's egress policy** for
+  every sports-news domain tried so far: Sky Sports, Fotmob, Express &
+  Star, Yahoo Sports. Don't burn a turn retrying WebFetch on these — go
+  straight to WebSearch for a summary, or ask Si for a screenshot/PDF if
+  the summary isn't granular enough.
+
 ## Data-gathering checklist
 
-Before drafting, confirm:
-- [ ] Final score, competition, venue, date/kick-off
-- [ ] Derby's starting XI with squad numbers (flag any unconfirmed)
-- [ ] Substitutions with minutes
-- [ ] Goalscorers with minutes (and pen/own-goal flags)
-- [ ] Bookings, if any
-- [ ] Attendance — official figure or best available reported detail
+Before drafting, confirm (see "Best sources by data type" above for where
+to look for each):
+- [ ] Final score, competition, venue, date/kick-off — WebSearch
+- [ ] Derby's starting XI with squad numbers (flag any unconfirmed) —
+  club report or a lineup screenshot from Si
+- [ ] Substitutions with minutes — BBC Sport line-ups tab (most reliable);
+  club report gives the sequence but often not the minute
+- [ ] Goalscorers with minutes (and pen/own-goal flags) — WebSearch or
+  club report
+- [ ] Bookings, if any, with the individual player — BBC Sport line-ups
+  tab; club report and WebSearch often omit these entirely
+- [ ] Attendance — official figure or best available reported detail —
+  club report (usually gives the away-end breakdown too)
+- [ ] League table position for Derby and the opponent, post-match —
+  Fotmob's Table tab
 - [ ] Distance from Pride Park (away games only)
 - [ ] Next fixture
 
