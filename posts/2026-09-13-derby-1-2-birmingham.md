@@ -95,6 +95,7 @@ STATS SNAPSHOT
 Goals: 40' Bobby Clark (Derby); 42' Carlos Vicente, 64' Paik Seung-Ho (Birmingham)
 Bookings: (19') Mo Fuseini (yellow) — Derby's only card; Birmingham picked up 3 yellows, 0 reds
 Attendance: 28,121, including 3,113 away supporters (confirmed by official club report)
+Table: Derby 22nd (P7 W1 D1 L5), Birmingham climb to 9th (P7 W2 D4 L1)
 
 
 THE READ

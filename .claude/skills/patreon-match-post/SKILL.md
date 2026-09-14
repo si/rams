@@ -55,7 +55,7 @@ shape every decision below:
    followed by a short paragraph of personality-driven commentary. This is
    where the sass lives — see "Tone" below. Never give the opposition this
    treatment.
-8. **STATS SNAPSHOT** — exactly four lines, no more:
+8. **STATS SNAPSHOT** — exactly five lines, no more:
    - `Goals:` `<minute>' <player> (pen if penalty)`, comma/line-separated for
      multiple
    - `Bookings:` `(<minute>) <player> (yellow/red)`, or "none reported"
@@ -63,6 +63,13 @@ shape every decision below:
      <n>)" if known; if no official figure exists, say so explicitly and
      give whatever qualitative detail is available (e.g. stands closed, away
      end size) rather than inventing a number
+   - `Table:` Derby's league position after this result, plus the
+     opponent's for context — e.g. "Derby 22nd (P7 W1 D1 L5), Birmingham
+     climb to 9th (P7 W2 D4 L1)". Source from Fotmob's Table tab or
+     WebSearch; flag if the position is unconfirmed rather than guessing.
+     Omit for fixtures with no league table (friendlies, cup rounds) — the
+     Rotherham worked example predates this line and has no Table entry
+     for exactly that reason, not because it was missed.
    - `Distance travelled:` miles from Pride Park — **away games only**, omit
      entirely for home fixtures
 9. **THE READ** — one short paragraph of analysis/opinion tying the match to
@@ -227,6 +234,8 @@ to look for each):
   tab; club report and WebSearch often omit these entirely
 - [ ] Attendance — official figure or best available reported detail —
   club report (usually gives the away-end breakdown too)
+- [ ] League table position for Derby and the opponent, post-match —
+  Fotmob's Table tab
 - [ ] Distance from Pride Park (away games only)
 - [ ] Next fixture
 
