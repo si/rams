@@ -1,13 +1,17 @@
 # Derby 1-2 Birmingham City — day-after Patreon draft
 
 - **Status:** Ready to copy-paste into Patreon. Source facts pulled from
-  `posts/2026-09-12-derby-birmingham-social-prematch.md`.
-- **Open gaps (flagged, not invented):** substitution minutes aren't
-  confirmed anywhere yet (we have both benches but not who came on, when,
-  or for whom), and the individual players booked aren't confirmed either
-  (we only know the aggregate: 1 Derby yellow, 3 Birmingham yellows, 0
-  reds). Both are marked TBC below rather than guessed — worth chasing a
-  timeline/subs screenshot before this goes live if you want them filled in.
+  `posts/2026-09-12-derby-birmingham-social-prematch.md`, corroborated
+  against the official club match report (dcfc.co.uk) for chance-by-chance
+  detail, subs and attendance.
+- **Open gaps (flagged, not invented):** exact substitution minutes still
+  aren't confirmed (we know Fraulo replaced the injured Meister early in
+  the second half, and Blackett-Taylor + Hedges came on in the final five
+  minutes of regulation, but not the precise minute for any of the three —
+  and it's unclear if a fourth sub was used). Individual bookings are also
+  still unconfirmed — the official report doesn't mention cards at all, so
+  we only have the aggregate (1 Derby yellow, 3 Birmingham, 0 reds). Both
+  marked TBC below rather than guessed.
 
 ---
 
@@ -56,25 +60,38 @@ his way past a late fitness test. Either way, glad to have him out there.)
 
 SUBS — WHO CAME OFF, WHO CAME ON
 
-TBC — bench used was Vickers (GK), Salvesen, Mowatt, Johnston, Nyambe,
-Hedges, Sanderson, Fraulo, Blackett-Taylor, but who actually came on and
-at what minute isn't confirmed yet. Worth a timeline screenshot before
-this goes live.
+TBC' Meister ↓ · ↑ Fraulo (forced off injured, early 2nd half)
+TBC' ↓ · ↑ Blackett-Taylor (final 5 mins of regulation)
+TBC' ↓ · ↑ Hedges (final 5 mins of regulation)
+
+(Exact minutes not yet confirmed by any source checked — official report
+gives the sequence but not the clock. Unclear if a fourth substitution was
+made; the rest of the bench — Vickers, Salvesen, Mowatt, Johnston, Nyambe,
+Sanderson — appear unused.)
 
 
 THE PEOPLE, NOT JUST THE SHEET
 
 Bobby Clark
-Put us ahead on 40 minutes and, for about 120 seconds, this was going to be the write-up where we all pretended the season's turning a corner. Instead Birmingham equalised almost immediately and the goal ended up as a footnote to another defeat rather than the turning point it should've been. Not his fault. He did his job. The rest of the XI didn't do theirs for long enough afterwards.
+Put us ahead on 40 minutes, guided low and hard into the near post off a lovely disguised Szmodics through-ball, and for about 120 seconds this was going to be the write-up where we all pretended the season's turning a corner. Instead Birmingham equalised almost immediately and the goal ended up as a footnote to another defeat rather than the turning point it should've been. Not his fault. He did his job. The rest of the XI didn't do theirs for long enough afterwards.
 
 Henrik Meister
-The genuinely worrying bit of the afternoon. Stretchered off in the second half after an off-the-ball aerial collision, with play held up for the best part of seven minutes while he was seen to. Relief all round that he was able to leave the stadium unaided and was given the all-clear on the day, but he's now in concussion protocols and expected to be out for at least 12 days. Get well soon.
+The genuinely worrying bit of the afternoon. Stretchered off in the second half after an off-the-ball aerial collision, with play held up for the best part of seven minutes while he was seen to. Before that he'd already caused Birmingham's right-back problems, winning the free-kick that led to Ward's headed effort in the opening exchanges. Relief all round that he was able to leave the stadium unaided and was given the all-clear on the day, but he's now in concussion protocols and expected to be out for at least 12 days. Get well soon.
+
+Jacob Widell Zetterström
+Quietly had the game of his life while the rest of us were watching the scoreline. Smothered a Priske one-on-one, then made two more saves in the space of a couple of minutes late on — one from Vicente at the near post, one a proper stretching stop to deny Stansfield. Without him this isn't 1-2, it's an afternoon we'd rather forget entirely.
+
+Sam Szmodics
+Involved in everything. Set up Clark's goal with a lovely disguised pass, went close himself twice in the closing stages (including a block on the line from Klarer with the last real chance of the match), and generally looked like the one Derby player Birmingham couldn't quite work out. If there's a positive to take from this, it's him.
+
+Oscar Fraulo
+Sent on to replace the injured Meister and got stuck in immediately, combining with Clark to nearly tee up an equaliser in the 72nd minute — the ball just evaded his sliding boot at the far post. Tough circumstances to be introduced in, and he didn't look fazed by any of it.
 
 Carlton Morris
 Named in the XI and handed the armband less than a week after being flagged as out with a muscle injury — either someone got the medical update wrong or Morris simply decided he was playing regardless. The team's better with him in it, for what that's worth on a day we still found a way to lose.
 
 Mo Fuseini
-Early frontrunner for the fans' Man of the Match, and deservedly so on the "looked dangerous, worked hard" front. One supporter called him "a very fast headless chicken" with potential, which is either the harshest compliment or the kindest insult available in the modern game. Either way, keep giving him minutes.
+Early frontrunner for the fans' Man of the Match, and deservedly so — nearly got on the end of a Szmodics cutback in the first half, then forced a diving save with a curling effort in the 57th minute. One supporter called him "a very fast headless chicken" with potential, which is either the harshest compliment or the kindest insult available in the modern game. Either way, keep giving him minutes.
 
 Joe Ward
 Started at right-back into a game where the fanbase's post-match consensus was that the fullback positions, his included, aren't controlling games the way they need to. Not singling him out unfairly — it's a system-wide gripe more than a Joe Ward gripe specifically — but it's the conversation Eustace is going to have to have this week.
@@ -84,12 +101,12 @@ STATS SNAPSHOT
 
 Goals: 40' Bobby Clark (Derby); 42' Carlos Vicente, 64' Paik Seung-Ho (Birmingham)
 Bookings: 1 Derby yellow, 3 Birmingham yellows, 0 reds — individual players TBC, not yet confirmed
-Attendance: 28,121 (Birmingham's 3,117 away allocation sold out)
+Attendance: 28,121, including 3,113 away supporters (confirmed by official club report)
 
 
 THE READ
 
-Six defeats to Championship opposition in eight games now, and the shape of the problem is getting hard to miss: Derby had 58% of the ball, 11 shots to Birmingham's 13, and still came away with nothing, because two of the goals we conceded were, in Eustace's own words, "real soft." You can dominate territory all you like — if the goals you concede keep being preventable, the league table doesn't care how much of the ball you had. Something in this system needs to change before it becomes a pattern rather than a bad afternoon.
+Six defeats to Championship opposition in eight games now, and the shape of the problem is getting hard to miss: Derby had 58% of the ball, 11 shots to Birmingham's 13, and still came away with nothing, because two of the goals we conceded were, in Eustace's own words, "real soft." Priske also had one ruled out for offside before half-time, and a Birmingham sub somehow put a gilt-edged chance over the bar from an open goal late on — so this could easily have been worse, not better, which isn't the reassurance it sounds like. You can dominate territory all you like — if the goals you concede keep being preventable, the league table doesn't care how much of the ball you had. Something in this system needs to change before it becomes a pattern rather than a bad afternoon.
 
 
 WHAT'S NEXT

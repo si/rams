@@ -83,7 +83,8 @@ Birmingham substitutes: Allsop (GK), Laird, Buchanan, Paik, Fry, Lund,
 Fujimoto, Vázquez, Ducksch. (Paik Seung-Ho and Carlos Vicente's names
 above are given as they'd be styled on the club site/socials.)
 
-**Attendance:** 28,121.
+**Attendance:** 28,121 (including 3,113 away supporters) — confirmed via
+official club match report.
 
 **Match stats (Derby / Birmingham):** Shots 11-13; on target 2-6;
 possession 58%-42%; passes 351-239; pass accuracy 79%-68%; fouls 8-12;
@@ -116,6 +117,35 @@ dominated territory but Birmingham were far more clinical and dangerous.
     I thought we were well worth the win and I thought we could have been a
     couple of goals up in the game."
 - **Next fixture:** Derby travel to Burnley, Saturday 19 September 2026.
+
+## Corroborated from the official club match report (dcfc.co.uk)
+
+- **Subs confirmed:** Oscar Fraulo replaced Meister immediately after the
+  stretcher stoppage, early in the second half. Corey Blackett-Taylor and
+  Ryan Hedges both came on in the final five minutes of regulation as
+  Derby chased an equaliser. Exact minutes still not given by the report,
+  and it's unclear whether Derby used a fourth substitute (Ward, Cashin,
+  Ozoh and Taylor all appear to have played the full 90+).
+- **Bookings:** still not mentioned anywhere in the official report either
+  — genuinely unconfirmed which individual players picked up the 1 Derby /
+  3 Birmingham yellows.
+- **Key moments/chances (Derby):** Meister troubled Osayi-Samuel early,
+  winning a free-kick Ward headed over; Taylor's cross forced a good punch
+  from Beadle away from Langås's header (22'); Szmodics burst clear from a
+  Morris give-and-go and flashed a ball just past Fuseini's head; Fuseini's
+  curling shot was well saved (57'); Fraulo and Clark combined to nearly
+  set up an equaliser (72', evaded Fraulo's sliding boot); Szmodics went
+  close twice late on (7' added time, and again in the 101st minute,
+  blocked on the line by Klarer); Blackett-Taylor's late curler was the
+  last action of the game.
+- **Zetterström heroics:** smothered a Priske one-on-one (62'), then made
+  two more saves in quick succession with nine minutes left - one from
+  Vicente at the near post, one a stretching stop to deny Stansfield.
+- **Birmingham nearly made it worse:** sub Luis Vázquez somehow put a
+  gilt-edged chance to seal it over the bar from an open goal late on.
+- **Priske had a goal ruled out** for offside just before half-hour mark.
+
+Source: [REPORT: Derby County 1-2 Birmingham City (dcfc.co.uk)](https://www.dcfc.co.uk/news/2026/09/report-derby-county-vs-birmingham-city-202627)
 
 ## IN THEIR WORDS (fan reaction, Bluesky)
 
@@ -156,12 +186,14 @@ Si says more socials to follow - hold this section open for additions.
 
 - [x] Final score
 - [x] Derby's starting XI with squad numbers (flag any `#TBC`)
-- [x] Full substitutes lists for both teams (no in/out minutes confirmed
-  yet - sub timings still unconfirmed, sources blocked)
+- [x] Full substitutes lists for both teams — partial minutes now known
+  (Fraulo on for Meister early 2nd half; Blackett-Taylor and Hedges on in
+  final 5 mins) via official club report; exact minutes still TBC
 - [x] Goalscorers with minutes (pen/OG flags) — none flagged as pen/OG
 - [x] Bookings — 1 Derby yellow, 3 Birmingham yellows, 0 reds (per Fotmob
-  discipline stats); which individual players booked not yet confirmed
-- [x] Attendance — 28,121
+  discipline stats); individual players not named in official report
+  either — genuinely unconfirmed
+- [x] Attendance — 28,121 (3,113 away), confirmed by club
 - [x] Next fixture
 - [x] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS" (more to
   follow from Si)
