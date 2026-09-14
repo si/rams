@@ -86,9 +86,9 @@ Birmingham City game (12 September 2026); canonical example at
 Do this every time a scheduled or ad-hoc check finds Derby playing that day:
 
 1. **Confirm the fixture** — opponent, competition, venue, date/kick-off
-   (WebSearch; direct fetches to dcfc.co.uk/Sky Sports/ESPN are blocked by
-   this environment's egress policy, so rely on search summaries and flag
-   anything single-sourced).
+   (WebSearch; direct fetches to sports-news domains are blocked by this
+   environment's egress policy — see "Best sources by data type" below —
+   so rely on search summaries and flag anything single-sourced).
 2. **Gather quick context** — recent form (last result, home/away run),
    table position, head-to-head, and team news/injuries for both sides.
    Keep it brief; this isn't the full data-gathering checklist below.
@@ -168,15 +168,65 @@ re-discovering it each week.
   anyway, then manually download it from the Canva web link and upload it to
   Patreon directly — don't block the post on the automation working.
 
+## Best sources by data type
+
+Learned while corroborating the Derby 1-2 Birmingham post (12-13 September
+2026), where three sources each filled a different gap the others left:
+
+- **BBC Sport's Line-ups tab** (a screenshot from Si, since direct fetch is
+  blocked — see below) was the single most reliable source for **exact
+  substitution minutes and individual bookings with their minute**. It's
+  laid out as one row per starter with the sub who replaced them and the
+  minute inline, plus a yellow/red card icon and minute next to any player
+  booked. Ask Si for a screenshot of this tab specifically if subs/cards are
+  still open after the club report and WebSearch — it closed every
+  remaining gap in one image both previous rounds had left as TBC. Note it
+  can catch a substitution the club's own report omits entirely (a fourth
+  Derby sub was on BBC's page but not dcfc.co.uk's account of the game).
+- **The official club match report** (dcfc.co.uk/news/.../report-...) is the
+  best source for **prose detail**: chance-by-chance description of the
+  half, confirmed attendance including the away-end breakdown, and the
+  full squad/subs-bench list. It often narrates the substitution sequence
+  ("X came on for Y") without giving the clock minute, and doesn't
+  reliably mention bookings at all — treat it as the best narrative source,
+  not the best minute-accurate one. Si has been sourcing this as a PDF
+  export of the blog post; readable with `pdftotext -layout` (needs
+  `poppler-utils` — install with `apt-get install -y poppler-utils` if
+  missing) rather than the page-image `Read` path, which is slow and
+  unnecessary for a text-heavy report.
+- **Fotmob's Stats tab** (screenshot from Si — direct fetch also blocked)
+  is the best source for the **STATS SNAPSHOT-adjacent aggregate numbers**
+  match stats (shots, on-target, possession, pass accuracy, fouls,
+  corners, offsides) and the total card count per team, plus post-match
+  league table position. It won't tell you which individual player was
+  booked, only the team totals.
+- **WebSearch summaries** (Sky Sports, Yahoo Sports, Express & Star, etc.
+  via search snippets, since direct fetch to all of these is blocked) are
+  good enough for the score, goalscorer minutes, and manager reaction
+  quotes, but don't expect sub minutes or individual bookings from search
+  snippets alone — that level of detail needs one of the three sources
+  above.
+- **Direct WebFetch is blocked by this environment's egress policy** for
+  every sports-news domain tried so far: Sky Sports, Fotmob, Express &
+  Star, Yahoo Sports. Don't burn a turn retrying WebFetch on these — go
+  straight to WebSearch for a summary, or ask Si for a screenshot/PDF if
+  the summary isn't granular enough.
+
 ## Data-gathering checklist
 
-Before drafting, confirm:
-- [ ] Final score, competition, venue, date/kick-off
-- [ ] Derby's starting XI with squad numbers (flag any unconfirmed)
-- [ ] Substitutions with minutes
-- [ ] Goalscorers with minutes (and pen/own-goal flags)
-- [ ] Bookings, if any
-- [ ] Attendance — official figure or best available reported detail
+Before drafting, confirm (see "Best sources by data type" above for where
+to look for each):
+- [ ] Final score, competition, venue, date/kick-off — WebSearch
+- [ ] Derby's starting XI with squad numbers (flag any unconfirmed) —
+  club report or a lineup screenshot from Si
+- [ ] Substitutions with minutes — BBC Sport line-ups tab (most reliable);
+  club report gives the sequence but often not the minute
+- [ ] Goalscorers with minutes (and pen/own-goal flags) — WebSearch or
+  club report
+- [ ] Bookings, if any, with the individual player — BBC Sport line-ups
+  tab; club report and WebSearch often omit these entirely
+- [ ] Attendance — official figure or best available reported detail —
+  club report (usually gives the away-end breakdown too)
 - [ ] Distance from Pride Park (away games only)
 - [ ] Next fixture
 
