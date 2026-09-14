@@ -129,6 +129,18 @@ dominated territory but Birmingham were far more clinical and dangerous.
 - **Bookings:** still not mentioned anywhere in the official report either
   — genuinely unconfirmed which individual players picked up the 1 Derby /
   3 Birmingham yellows.
+
+## Confirmed via BBC Sport line-ups (exact minutes + the yellow card)
+
+All four Derby substitutions confirmed, with exact minutes — one more than
+the official report implied:
+
+- 54' Henrik Meister ↓ · ↑ Oscar Fraulo
+- 85' Eiran Cashin ↓ · ↑ Ryan Hedges
+- 85' David Ozoh ↓ · ↑ Corey Blackett-Taylor
+- 95' Charlie Taylor ↓ · ↑ Lasse Salvesen
+
+Derby's lone yellow card: **Mo Fuseini, 19'**.
 - **Key moments/chances (Derby):** Meister troubled Osayi-Samuel early,
   winning a free-kick Ward headed over; Taylor's cross forced a good punch
   from Beadle away from Langås's header (22'); Szmodics burst clear from a
@@ -186,13 +198,13 @@ Si says more socials to follow - hold this section open for additions.
 
 - [x] Final score
 - [x] Derby's starting XI with squad numbers (flag any `#TBC`)
-- [x] Full substitutes lists for both teams — partial minutes now known
-  (Fraulo on for Meister early 2nd half; Blackett-Taylor and Hedges on in
-  final 5 mins) via official club report; exact minutes still TBC
+- [x] Full substitutes lists for both teams, with exact minutes — 54'
+  Fraulo for Meister, 85' Hedges for Cashin, 85' Blackett-Taylor for Ozoh,
+  95' Salvesen for Taylor (per BBC Sport line-ups)
 - [x] Goalscorers with minutes (pen/OG flags) — none flagged as pen/OG
-- [x] Bookings — 1 Derby yellow, 3 Birmingham yellows, 0 reds (per Fotmob
-  discipline stats); individual players not named in official report
-  either — genuinely unconfirmed
+- [x] Bookings — Mo Fuseini booked 19' (Derby's only yellow); Birmingham's
+  3 yellows still unconfirmed by player, but not needed for the Rams-only
+  Patreon format anyway
 - [x] Attendance — 28,121 (3,113 away), confirmed by club
 - [x] Next fixture
 - [x] 2-3 fan quotes from Bluesky/Facebook for "IN THEIR WORDS" (more to
