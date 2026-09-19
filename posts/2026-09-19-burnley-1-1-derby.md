@@ -90,7 +90,17 @@ Four games running conceding first is the story that matters more than the score
 
 WHAT'S NEXT
 
-**Saturday 10 October, Pride Park: Wrexham (h), Championship.** Post-international-break, first home game back — a decent litmus test for whether today's late show was a turning point or a one-off.
+**Saturday 10 October, Pride Park: Wrexham (h), Championship.** Post-international-break, first home game back — a decent litmus test for whether today's late show was a turning point or a one-off. (Per fixtur.es.)
+
+
+LEAGUE TABLE SNAPSHOT
+
+22. TBC — see notes
+**23. Derby County — P8 · Pts5 · GD-7**
+24. Burnley — P8 · Pts4 · GD-8
+
+(No team below Derby other than Burnley — 24th is bottom of the
+Championship. See notes on how confirmed this is.)
 
 
 IN THEIR WORDS 🗣️
@@ -101,6 +111,14 @@ IN THEIR WORDS 🗣️
 LISTEN: RAMS REVIEW PODCAST
 
 [Link/plug TBC — add if there's an episode covering this one before publishing.]
+
+
+FIND MORE SUPERRAMS
+
+More Rams chat, every day, not just matchday:
+🔵 Bluesky: https://bsky.app/profile/derbycounty.bsky.social
+📘 Facebook: https://www.facebook.com/derbycountyrams
+🐦 X: https://x.com/derbycounty
 ```
 
 ---
@@ -136,6 +154,18 @@ LISTEN: RAMS REVIEW PODCAST
 - **Distance travelled (~120 miles) is a rough estimate** — Pride Park to
   Turf Moor by road is commonly cited around this figure, not looked up
   against a specific mapping source this session.
+- **League table snapshot is only partly confirmed.** Derby (P7, 4pts,
+  GD-7) and Burnley (P7, 3pts, GD-8) figures are from WebSearch summaries
+  of the pre-match table, projected forward one matchday for both sides'
+  now-known result (Derby's draw: 4→5 pts, P7→P8; Burnley's draw: 3→4 pts,
+  P7→P8; goal difference unchanged for both since the game finished 1-1).
+  This is Claude's own arithmetic on top of the last confirmed table, not
+  a fetched post-match table — the rest of the division played the same
+  day and could easily have shuffled who's actually 22nd. **fixtur.es
+  itself is blocked for direct fetch in this session** (`EGRESS_BLOCKED`,
+  same as dcfc.co.uk etc.), so this couldn't be cross-checked against it
+  before publishing — do that before this goes up, and fill in the 22nd
+  place row, which wasn't found from any source this session.
 - No image yet — same Canva-reliability caveat as every prior post.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the existing pattern.

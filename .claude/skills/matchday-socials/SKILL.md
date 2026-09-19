@@ -52,3 +52,10 @@ file to get the copy.
 - Team news/starting XI usually isn't confirmed the night before — don't
   invent a lineup. If it drops before kick-off, a short follow-up post
   naming the XI is a nice-to-have, not a requirement for these three.
+- **No "find us on Bluesky/Facebook/X" CTA in these three posts** —
+  each one is already posted natively on the platform it's promoting, so a
+  cross-channel plug doesn't fit, and Facebook's version is capped at
+  ~120 characters with no room for one anyway. That CTA block is standard
+  on the longer-form Patreon match report instead (see
+  `patreon-match-post`'s "FIND MORE SUPERRAMS" section) — don't duplicate
+  it here.

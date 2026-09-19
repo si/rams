@@ -67,12 +67,40 @@ shape every decision below:
      entirely for home fixtures
 9. **THE READ** — one short paragraph of analysis/opinion tying the match to
    what's coming next.
-10. **WHAT'S NEXT** — the next fixture, bolded, with date/competition.
-11. **IN THEIR WORDS** — 2-3 pulled fan quotes from Bluesky/Facebook. **If
+10. **WHAT'S NEXT** — the next fixture, bolded, with date/competition. Cite
+    [fixtur.es](https://fixtur.es) as the source for the fixture date/KO
+    (Si's preferred fixture-list reference) — link it inline, e.g. "per
+    [fixtur.es](https://fixtur.es/en/team/derby-county)". If this session's
+    WebFetch can't reach fixtur.es directly (a recurring network constraint
+    — see "Known constraints"), still cite it as the reference and get the
+    actual date/time from WebSearch, flagging if the two don't obviously
+    agree.
+11. **LEAGUE TABLE SNAPSHOT** — Derby's position plus their nearest
+    neighbours, above and below, in the Championship table as it stands
+    after this match. Bullet list (no markdown table — see "Known
+    constraints"), one line per team:
+    `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`
+    Bold Derby's own row. Two teams above and two below is the default
+    (five rows total); trim to what's actually available at the very top or
+    bottom of the table (e.g. only one team below Derby if Derby's 23rd of
+    24). Source from fixtur.es where reachable, otherwise the best
+    corroborated WebSearch summary — **flag explicitly if the table is
+    pulled pre-match rather than confirmed post-match** (final-day results
+    across the whole division lag in search indexes), rather than silently
+    presenting stale positions as current.
+12. **IN THEIR WORDS** — 2-3 pulled fan quotes from Bluesky/Facebook. **If
     there's nothing to pull** (common for quiet pre-season friendlies),
     don't leave a placeholder gap — either cut the section or replace it with
     a direct comment-seeding prompt tied to something specific from the match
     (see the Rotherham example for how this played out).
+13. **FIND MORE SUPERRAMS** — standard CTA block, identical every post,
+    pointing readers at the other channels. Always include, in this order:
+    - Bluesky: [@derbycounty.bsky.social](https://bsky.app/profile/derbycounty.bsky.social)
+    - Facebook: [Derby County Rams](https://www.facebook.com/derbycountyrams)
+    - X: [@derbycounty](https://x.com/derbycounty)
+    One short line of framing above the links (e.g. "More Rams chat, every
+    day, not just matchday:") — keep it brief, this isn't the place for more
+    sass, just a clear pointer to where the rest of the community hangs out.
 
 ## Tone rules
 
@@ -119,6 +147,14 @@ re-discovering it each week.
   (permission/approval errors on save). If it fails, generate the design
   anyway, then manually download it from the Canva web link and upload it to
   Patreon directly — don't block the post on the automation working.
+- **WebFetch is blocked for essentially every sports domain tried in this
+  environment** — dcfc.co.uk, Sky Sports, Shropshire Star, fixtur.es,
+  footballwebpages.co.uk, worldfootball.net, even en.wikipedia.org have all
+  returned `EGRESS_BLOCKED`. In practice this means fixture dates and the
+  league table snapshot come from WebSearch's summarized snippets, not a
+  page read directly — cite fixtur.es as the reference per #10/#11 above
+  regardless, but flag when the underlying numbers are search-summary-only
+  rather than fetched and cross-checked.
 
 ## Data-gathering checklist
 
@@ -130,7 +166,10 @@ Before drafting, confirm:
 - [ ] Bookings, if any
 - [ ] Attendance — official figure or best available reported detail
 - [ ] Distance from Pride Park (away games only)
-- [ ] Next fixture
+- [ ] Next fixture, per fixtur.es
+- [ ] Current league table position for Derby and their nearest neighbours
+- [ ] Find More SuperRams CTA block included (standard, every post — see
+      "Post structure" #13)
 
 ## Reference material
 
