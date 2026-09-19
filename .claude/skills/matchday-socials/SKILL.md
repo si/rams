@@ -25,8 +25,13 @@ file to get the copy.
 2. Pull current form/context (recent results, league position) to ground the
    tone — don't write generic hype divorced from how the season's actually
    going.
-3. Draft three short posts: X, Bluesky, Facebook. Facebook can run a little
-   longer than the other two; X and Bluesky stay tight.
+3. Draft three short posts: X, Bluesky, Facebook.
+   - **Facebook stays under ~120 characters, one short punchy line, no
+     link/image** — short enough to qualify for Facebook's colourful
+     big-text background treatment rather than sitting as a plain grey
+     wall of text. Longer copy loses that formatting, so don't let it run
+     on.
+   - X and Bluesky stay tight too, but aren't bound by that 120-char cap.
 4. Save the draft to `posts/<date>-preview-<opponent>-socials.md` (same
    `posts/` folder the Patreon reports use), with a short front-matter note
    on status/context/what's unverified (e.g. no confirmed XI yet).

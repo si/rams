@@ -39,14 +39,11 @@ One of these hoodoos ends this afternoon — we know which one we want it to be.
 
 ## Facebook
 
+Kept under ~120 characters so it qualifies for Facebook's colourful
+big-text background rather than posting as plain text.
+
 ```
-Matchday. 🐏
-
-Derby head to Turf Moor off the back of three straight defeats — Burnley go into it bottom of the Championship and still searching for a win all season. Not the prettiest form guide either side of this one, but that's exactly why it matters: somebody has to break their duck today, and after the week we've had we'd quite like it to be us.
-
-Kick-off 3pm at Turf Moor. Get behind the lads — however this run's gone, they need us today more than ever.
-
-Come on you Rams! 🐏
+Turf Moor, 3pm - someone's bad run ends today. Let's make it ours. Come on you Rams! 🐏
 ```
 
 ---
