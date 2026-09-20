@@ -1,15 +1,18 @@
 # Draft: Burnley 1-1 Derby County
 
 - **Published:** not yet — drafted against the `patreon-match-post` skill
-  format, pending sign-off on the flagged gaps below (sub minutes, squad
-  numbers, attendance).
+  format. Lineup, subs, bookings, attendance and league table are now
+  confirmed against Si's own screenshots (BBC and dcfc.co.uk app); only
+  minor open items remain (see "still open" below).
 - **Fixture:** EFL Championship, Matchday 8, Turf Moor, Saturday 19
   September 2026, KO 15:00 — Derby away.
 - **Status:** WebFetch is blocked for every match-report domain tried in
-  this session (dcfc.co.uk, Sky Sports, Shropshire Star), so this is built
-  entirely from WebSearch's summarized snippets rather than a page read
-  directly — same constraint as prior posts. Confidence notes and open
-  gaps are below and inline; verify before publishing.
+  this session (dcfc.co.uk, Sky Sports, Shropshire Star, fixtur.es), so
+  the original draft was built from WebSearch's summarized snippets
+  rather than a page read directly. Si supplied BBC lineup/subs
+  screenshots and a dcfc.co.uk table screenshot on the second pass, which
+  corrected several details the search-only draft got wrong — see
+  "Resolved since first draft" below.
 
 ---
 
@@ -35,35 +38,45 @@ Burnley 1-1 Derby County — EFL Championship, Matchday 8
 🗓️ Saturday 19 September 2026, KO 15:00
 
 
-STARTING XI — THE RAMS
+STARTING XI — THE RAMS (4-2-3-1)
 
 ⚪ #31 — Josh Vickers
 ⚪ #23 — Joe Ward
 ⚪ #28 — Dion Sanderson
 ⚪ #6 — Sondre Langås
-⚪ #18 — Charlie Taylor (#TBC — see notes)
+⚪ #18 — Charlie Taylor
 ⚪ #20 — Alex Mowatt
+⚪ #4 — David Ozoh
 ⚪ #26 — Ryan Hedges
-⚪ #18 — David Ozoh (#TBC — see notes)
-⚪ #42 — Bobby Clark
+⚪ #11 — Sam Szmodics
+⚪ #8 — Bobby Clark
 ⚪ #9 — Carlton Morris (c)
-⚪ #19 — Sam Szmodics
 
 
 SUBS — WHO CAME OFF, WHO CAME ON
 
-**65'** Hedges ↓ · ↑ Fraulo
+**66'** Mowatt ↓ · ↑ Fraulo
+**66'** Hedges ↓ · ↑ Fuseini
 **78'** Ozoh ↓ · ↑ Brewster
-**~85'** Szmodics ↓ · ↑ Fuseini (#TBC minute — see notes)
+**82'** Taylor ↓ · ↑ Blackett-Taylor
 
 
 THE PEOPLE, NOT JUST THE SHEET
 
 Mohammed Fuseini
-On loan from Union Saint-Gilloise since deadline day, barely had time to learn where the good coffee machine is at Moor Farm before he's drilling in a stoppage-time equaliser away at Turf Moor for his first Derby goal. Brewster picked him out, he did the rest on the run, angled it inside the far post. About the loudest possible way to introduce yourself.
+On loan from Union Saint-Gilloise since deadline day, into the action at 66' for his full debut and still on the pitch nearly half an hour later when it mattered most — drilling in a stoppage-time equaliser away at Turf Moor for his first Derby goal. Brewster picked him out, he did the rest on the run, angled it inside the far post. Not a cameo, a proper introduction.
 
 Rhian Brewster
-The assist for Fuseini's leveller — a genuine bit of quality from one sub finding another with the game seemingly gone. Whatever else is or isn't working for Brewster right now, that pass is a reminder there's real end product in there when it comes off.
+On for Ozoh at 78', and it's his ball through that sets up Fuseini's leveller twelve minutes later — a genuine bit of quality from one sub finding another with the game seemingly gone. Whatever else is or isn't working for Brewster right now, that pass is a reminder there's real end product in there when it comes off.
+
+David Ozoh
+Booked at 67', hauled off for Brewster at 78' — not the afternoon he'll want. One fan quote below has a pop at Eustace for singling him out publicly for the goal rather than any of the back four; worth keeping an eye on whether that's a fair read or just a frustrated fanbase looking for a pattern.
+
+Charlie Taylor
+Full 82 minutes before making way for Blackett-Taylor — whatever the reason for the late change, credit for lasting deep into a game that needed legs at both ends.
+
+Corey Blackett-Taylor
+On at 82' and booked five minutes later at 87' — a short, eventful cameo that didn't get in the way of Derby finding the goal they needed in the minutes after.
 
 Josh Vickers
 First start of the season between the posts with Zetterström out injured, thrown into a relegation-adjacent six-pointer at Turf Moor rather than eased in anywhere gentler. Conceded from a far-post header he'll want to look at, but didn't let the afternoon spiral from there.
@@ -78,8 +91,8 @@ Captain's armband and a full 90 minutes stuck it out at the sharp end without a 
 STATS SNAPSHOT
 
 Goals: 34' Amdouni (Burnley), 90+3' Fuseini
-Bookings: David Ozoh (Derby, yellow) — minute not confirmed; Josh Laurent (Burnley, yellow) — minute not confirmed
-Attendance: not confirmed in any source checked this session — flag as unknown rather than guessed
+Bookings: (67') David Ozoh, yellow; (87') Corey Blackett-Taylor, yellow; Josh Laurent (Burnley), yellow — minute not confirmed
+Attendance: 19,456
 Distance travelled: approximately 120 miles from Pride Park to Turf Moor
 
 
@@ -97,20 +110,23 @@ LEAGUE TABLE SNAPSHOT
 
 Option A — bullet style (matches the skill's default format):
 
-22. TBC — see notes
-**23. Derby County — P8 · Pts5 · GD-7**
+20. Cardiff City — P8 · Pts7 · GD-2
+21. Bolton Wanderers — P7 · Pts7 · GD-5
+**22. Derby County — P8 · Pts5 · GD-7**
+23. Preston North End — P8 · Pts4 · GD-7
 24. Burnley — P8 · Pts4 · GD-8
 
 Option B — plain numbered list (no bold/markdown reliance, safer against
 Patreon's paste-stripping):
 
-1. 22nd — TBC — see notes
-2. 23rd — Derby County — Played 8, Points 5, GD -7
-3. 24th — Burnley — Played 8, Points 4, GD -8
+1. 20th — Cardiff City — Played 8, Points 7, GD -2
+2. 21st — Bolton Wanderers — Played 7, Points 7, GD -5
+3. 22nd — Derby County — Played 8, Points 5, GD -7
+4. 23rd — Preston North End — Played 8, Points 4, GD -7
+5. 24th — Burnley — Played 8, Points 4, GD -8
 
-(No team below Derby other than Burnley — 24th is bottom of the
-Championship. See notes on how confirmed this is, and on the missing
-table screenshot.)
+(Derby's actually 22nd, not 23rd as first drafted — confirmed against
+Si's dcfc.co.uk app screenshot. Only Preston and Burnley sit below.)
 
 
 IN THEIR WORDS 🗣️
@@ -150,50 +166,18 @@ trimmed, post card only) and saved alongside this file:
   card)
 - `assets/2026-09-19-burnley-1-1-derby/fan-quote-3-waterbloke.png`
 
-**No table screenshot came through** — Si's message mentioned one attached
-alongside the socials, but only the three fan-quote images above actually
-arrived. Both text formats of the LEAGUE TABLE SNAPSHOT are drafted above
-(Option A/B) as a fallback; resend the table screenshot if there's a
-crop of that wanted too.
+**Table screenshot did come through on the second pass** — Si's dcfc.co.uk
+app table screenshot confirmed the LEAGUE TABLE SNAPSHOT figures above.
+Not cropped into a standalone image (it's a full 24-team table screenshot,
+not a card that trims cleanly like the fan quotes) — Options A/B above are
+the two text formats to choose between for pasting instead. Say if a
+cropped image of just rows 20-24 is wanted too.
 
 ## Notes for whoever publishes this — still open
 
-- **Squad numbers for Taylor and Ozoh conflict across sources.** The
-  Cardiff post (22 Aug) had Charlie Taylor at #18; a fresher squad-number
-  search for this post independently returned David Ozoh at #18 too —
-  can't both be right. Flagging both as `#TBC` in the lineup above rather
-  than guessing which one moved. Verify against dcfc.co.uk or
-  Transfermarkt directly before publishing.
-- **Fuseini's own substitution minute is unconfirmed.** Every source
-  found agrees he scored in the third minute of stoppage time and that
-  Brewster (himself a substitute) supplied the assist, but none gave the
-  minute Fuseini himself came on — "~85'" above is a reasonable estimate
-  for a game where Brewster was already on and combining with him, not a
-  sourced figure. Fix if a source with the full sub timeline turns up.
-  Also unconfirmed: who Fuseini replaced — Szmodics is a guess based on
-  who's otherwise unaccounted for in the front line, not a direct
-  statement.
-- **Attendance wasn't found anywhere** — none of the match reports
-  surfaced a figure for this one. Said so explicitly in the stats block
-  rather than inventing a number, per the skill's own instruction for
-  this case.
-- **Booking minutes weren't found** for either Ozoh's or Laurent's
-  yellow — only that they happened, from a single source each.
 - **Distance travelled (~120 miles) is a rough estimate** — Pride Park to
   Turf Moor by road is commonly cited around this figure, not looked up
   against a specific mapping source this session.
-- **League table snapshot is only partly confirmed.** Derby (P7, 4pts,
-  GD-7) and Burnley (P7, 3pts, GD-8) figures are from WebSearch summaries
-  of the pre-match table, projected forward one matchday for both sides'
-  now-known result (Derby's draw: 4→5 pts, P7→P8; Burnley's draw: 3→4 pts,
-  P7→P8; goal difference unchanged for both since the game finished 1-1).
-  This is Claude's own arithmetic on top of the last confirmed table, not
-  a fetched post-match table — the rest of the division played the same
-  day and could easily have shuffled who's actually 22nd. **fixtur.es
-  itself is blocked for direct fetch in this session** (`EGRESS_BLOCKED`,
-  same as dcfc.co.uk etc.), so this couldn't be cross-checked against it
-  before publishing — do that before this goes up, and fill in the 22nd
-  place row, which wasn't found from any source this session.
 - **No hero/header image yet** — same Canva-reliability caveat as every
   prior post. The three fan-quote screenshots above cover "IN THEIR
   WORDS"; a separate lead image for the top of the post is still
@@ -203,6 +187,28 @@ crop of that wanted too.
 
 ## Resolved since first draft
 
+- **Squad numbers corrected against Si's BBC lineup/formation
+  screenshots.** Ozoh is #4, not #18 as first drafted (that number belongs
+  to Taylor, which was actually right) — Szmodics is #11, not #19 — Clark
+  is #8, not #42 as used in the Cardiff post (worth flagging to the
+  player tracker as a squad-number change, if #42 was correct back in
+  August). Formation was 4-2-3-1, not the 4-4-2 that early team-news
+  searches suggested — Ozoh/Mowatt sat as a double pivot behind
+  Hedges/Szmodics/Clark, not as a flat midfield four.
+- **All four substitutions and their real minutes** now confirmed: 66'
+  Mowatt→Fraulo, 66' Hedges→Fuseini, 78' Ozoh→Brewster, 82'
+  Taylor→Blackett-Taylor. This corrects the first draft in an important
+  way — Fuseini was on from 66', not a stoppage-time introduction, so his
+  write-up above has been reworded from "barely had time to learn where
+  the coffee machine is" to reflect he'd already played half an hour
+  before scoring.
+- **Both bookings' minutes confirmed**: Ozoh 67', Blackett-Taylor 87'.
+  Burnley's Josh Laurent yellow is still minute-unconfirmed, single-source.
+- **Attendance confirmed: 19,456.**
+- **League table confirmed and corrected**: Derby are actually 22nd, not
+  the 23rd first drafted from projected pre-match arithmetic — Preston
+  North End, not Derby, sit 23rd. Now sourced directly from Si's
+  screenshot rather than derived.
 - Fan quotes (3, Bluesky) and their source screenshots — done, see
   "Images" above and "IN THEIR WORDS" in the body.
 - Podcast plug — done, real episode link added.
