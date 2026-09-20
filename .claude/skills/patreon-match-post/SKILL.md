@@ -12,6 +12,35 @@ https://www.patreon.com/derbycounty/posts/rotherham-1-1-165840685). Treat that
 post — archived in full at `posts/2026-08-04-rotherham-1-1-derby.md` (repo
 root) — as the canonical worked example. When in doubt about tone or structure, match it.
 
+## Naming: session, branch, PR
+
+With several matches drafted across overlapping sessions, generic names
+(e.g. a branch called `game-socials-draft-<random>`) get hard to tell
+apart. Name all three consistently around the fixture, as soon as it's
+known:
+
+- **Session title**: `<Team> <score> <Team> (<date>)` once the result is
+  known, e.g. "Burnley 1-1 Derby (19 Sep 2026)" — for a pre-match-only
+  session (socials, no report yet), `<Opponent> preview (<date>)` instead,
+  e.g. "Burnley preview (19 Sep 2026)". Rename with
+  `mcp__Claude_Code_Remote__set_session_title` as soon as the fixture is
+  clear, rather than leaving whatever generic title the session started
+  with.
+- **Branch**: branch names in this environment are auto-slugified from
+  the session's initial prompt/title, so a specific opening framing (naming
+  the opponent and date up front) produces a usable branch name
+  automatically — a vague opener like "draft the socials" is what produces
+  an uninformative slug like `game-socials-draft-ofns7m`. Can't rename an
+  already-assigned branch without breaking its PR link, so this is really
+  about the next session's opening prompt, not a fix for one already
+  running.
+- **PR title**: `<Team> <score> <Team> (<date>): <what this PR covers>`,
+  e.g. "Burnley 1-1 Derby (19 Sep 2026): socials + match report" — cover
+  the actual scope of what's in the PR, not just the first thing drafted
+  on the branch, since a branch often accumulates both the pre-match
+  socials and the day-after report. Update the title if scope grows
+  after the PR's already open (or merged) rather than leaving a stale one.
+
 ## Why this format
 
 SuperRams' USP is **the players and the fans**, not being a stats/news aggregator —

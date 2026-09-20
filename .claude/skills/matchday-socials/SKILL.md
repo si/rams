@@ -10,6 +10,15 @@ before a Derby County fixture. Established drafting the Burnley (a) preview,
 19 September 2026 — treat `posts/2026-09-19-preview-derby-burnley-socials.md`
 as the worked example.
 
+## Naming: session, branch, PR
+
+Same rule as `patreon-match-post` — name the session title, and any PR
+that comes out of this branch, around the fixture and date (e.g.
+"Burnley preview (19 Sep 2026)"), not a generic description. See that
+skill's "Naming: session, branch, PR" section for the full rationale and
+format — it applies here too, since a branch often carries both the
+pre-match socials and the day-after report together.
+
 ## Always output copy-paste text blocks in chat
 
 **Every time these are drafted, reply with the three platform posts as plain
