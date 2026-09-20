@@ -30,32 +30,48 @@ shape every decision below:
 
 ## Post structure (in order)
 
+**All headings and sub-headings are real Markdown** (`##` for section
+headings, `###` for player names within "The People, Not Just the Sheet")
+— not plain-text/ALL-CAPS lines with bold applied after pasting. Established
+in the Burnley 1-1 Derby post (19 September 2026), overriding the earlier
+plain-text approach the Rotherham example used.
+
 1. **Title** — short, punchy, includes the score. e.g. "Rotherham 1-1 Derby:
    last dress rehearsal, and about a thousand of us bothered to watch it"
-2. **Public preview** (above the paywall) — one paragraph, free to all. Sets
-   up the result and the one detail worth teasing, ends on a hook pointing to
-   the paywalled section. This is the only part non-patrons ever see.
+2. **Public preview** (above the paywall) — free to all. **Break at the end
+   of each sentence** — one sentence per line/paragraph, not one dense
+   block — so it reads easily as a teaser. Sets up the result and the one
+   detail worth teasing, ends on a hook pointing to the paywalled section.
+   This is the only part non-patrons ever see.
 3. **— Paywall —** (Patreon's native "Add paywall" divider, inserted manually
    in the editor — there is no way to script this via the API/automation
    layer; see "Known constraints" below)
-4. **THE MATCH** — fixture, competition, venue, date/kick-off. Bullet list,
-   no table (Patreon's editor doesn't render markdown tables).
-5. **STARTING XI — THE RAMS** — Derby's XI only. One heading line per player:
+4. **## The Match** — no emoji. Four lines, one fact per line, in this
+   exact order: competition, fixture, date & time, venue. e.g.:
+   ```
+   ## The Match
+
+   EFL Championship, Matchday 8
+   Burnley vs Derby County
+   Saturday 19 September 2026, KO 15:00
+   Turf Moor, Burnley
+   ```
+5. **## Starting XI Rams** — Derby's XI only. One line per player:
    `<shirt-colour icon> #<squad number> — <Name>`. Use ⚪ for Derby (the
    club's identifying colour) regardless of which actual kit was worn; mark
    any unconfirmed squad number as `#TBC` rather than guessing — squad
    numbers get reissued every season and conflicting sources are common.
    Flag TBC entries explicitly to the user so they can verify before
    publishing.
-6. **SUBS — WHO CAME OFF, WHO CAME ON** — one line per substitution, minute
-   bolded as the anchor, unicode arrows mapping the change:
-   `**<minute>'** <player off> ↓ · ↑ <player on>`
-7. **THE PEOPLE, NOT JUST THE SHEET** — the heart of the post. One heading
-   per Derby player worth a mention (not every player needs one), each
-   followed by a short paragraph of personality-driven commentary. This is
-   where the sass lives — see "Tone" below. Never give the opposition this
-   treatment.
-8. **STATS SNAPSHOT** — exactly four lines, no more:
+6. **## Subs** — just "Subs", no explanatory suffix after it. One line per
+   substitution, minute bolded as the anchor, unicode arrows mapping the
+   change: `**<minute>'** <player off> ↓ · ↑ <player on>`
+7. **## The People, Not Just the Sheet** — the heart of the post. One `###`
+   sub-heading per Derby player worth a mention (not every player needs
+   one), each followed by a short paragraph of personality-driven
+   commentary. This is where the sass lives — see "Tone" below. Never give
+   the opposition this treatment.
+8. **## Stats Snapshot** — exactly four lines, no more:
    - `Goals:` `<minute>' <player> (pen if penalty)`, comma/line-separated for
      multiple
    - `Bookings:` `(<minute>) <player> (yellow/red)`, or "none reported"
@@ -65,20 +81,13 @@ shape every decision below:
      end size) rather than inventing a number
    - `Distance travelled:` miles from Pride Park — **away games only**, omit
      entirely for home fixtures
-9. **THE READ** — one short paragraph of analysis/opinion tying the match to
-   what's coming next.
-10. **WHAT'S NEXT** — the next fixture, bolded, with date/competition. Cite
-    [fixtur.es](https://fixtur.es) as the source for the fixture date/KO
-    (Si's preferred fixture-list reference) — link it inline, e.g. "per
-    [fixtur.es](https://fixtur.es/en/team/derby-county)". If this session's
-    WebFetch can't reach fixtur.es directly (a recurring network constraint
-    — see "Known constraints"), still cite it as the reference and get the
-    actual date/time from WebSearch, flagging if the two don't obviously
-    agree.
-11. **LEAGUE TABLE SNAPSHOT** — Derby's position plus their nearest
-    neighbours, above and below, in the Championship table as it stands
-    after this match. Bullet list (no markdown table — see "Known
-    constraints"), one line per team:
+9. **## The Read** — analysis/opinion tying the match to what's coming
+   next, **broken into small paragraphs** rather than one dense block — a
+   new paragraph every 2-3 sentences or whenever the angle shifts.
+10. **## Standings** (renamed from "League Table Snapshot") — Derby's
+    position plus their nearest neighbours, above and below, in the
+    Championship table as it stands after this match. Bullet list (no
+    markdown table — see "Known constraints"), one line per team:
     `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`
     Bold Derby's own row. Two teams above and two below is the default
     (five rows total); trim to what's actually available at the very top or
@@ -87,13 +96,22 @@ shape every decision below:
     corroborated WebSearch summary — **flag explicitly if the table is
     pulled pre-match rather than confirmed post-match** (final-day results
     across the whole division lag in search indexes), rather than silently
-    presenting stale positions as current.
-12. **IN THEIR WORDS** — 2-3 pulled fan quotes from Bluesky/Facebook. **If
-    there's nothing to pull** (common for quiet pre-season friendlies),
+    presenting stale positions as current. If Si supplies a table
+    screenshot, crop it down to just the five rows around Derby (see
+    "Images" workflow) rather than pasting the full 24-team screenshot.
+11. **## In Their Words** — 2-3 pulled fan quotes from Bluesky/Facebook,
+    formatted as **Markdown pull quotes**: `> "<quote>"` on its own block,
+    with the attribution on the line directly after (still inside or
+    immediately below the blockquote), e.g.:
+    ```
+    > "It'll be a result that will bring many mixed emotions..."
+    > — @derbydaniel.bsky.social
+    ```
+    **If there's nothing to pull** (common for quiet pre-season friendlies),
     don't leave a placeholder gap — either cut the section or replace it with
     a direct comment-seeding prompt tied to something specific from the match
     (see the Rotherham example for how this played out).
-13. **FIND MORE SUPERRAMS** — standard CTA block, identical every post,
+12. **## Find More SuperRams** — standard CTA block, identical every post,
     pointing readers at the other channels. Always include, in this order:
     - Bluesky: [@derbycounty.bsky.social](https://bsky.app/profile/derbycounty.bsky.social)
     - Facebook: [Derby County Rams](https://www.facebook.com/derbycountyrams)
@@ -101,6 +119,21 @@ shape every decision below:
     One short line of framing above the links (e.g. "More Rams chat, every
     day, not just matchday:") — keep it brief, this isn't the place for more
     sass, just a clear pointer to where the rest of the community hangs out.
+13. **## What's Next** — **the last section in the post**, after Find More
+    SuperRams. Format: team, home/away, date and time, then how many days
+    away that is from this match, e.g.:
+    ```
+    ## What's Next
+
+    Wrexham — Home — Saturday 10 October 2026, KO 15:00 (21 days)
+    ```
+    Cite [fixtur.es](https://fixtur.es) as the source for the fixture
+    date/KO (Si's preferred fixture-list reference) — link it inline, e.g.
+    "per [fixtur.es](https://fixtur.es/en/team/derby-county)". If this
+    session's WebFetch can't reach fixtur.es directly (a recurring network
+    constraint — see "Known constraints"), still cite it as the reference
+    and get the actual date/time from WebSearch, flagging if the two don't
+    obviously agree.
 
 ## Hero image
 
@@ -171,8 +204,11 @@ re-discovering it each week.
   pasting, always verify the lineup icons actually rendered before
   publishing — don't assume paste preserved them, and retype by hand in the
   editor if it didn't.
-- Bold the section headers manually after pasting; plain-text paste won't
-  carry formatting.
+- Draft with real Markdown headings (`##`/`###`) per "Post structure"
+  above. Patreon's editor generally converts pasted Markdown headings to
+  its own heading styles on paste, but **verify after pasting** the same
+  way as the ⚪ icon above — if a heading pastes as plain text instead,
+  reapply Patreon's heading style by hand rather than leaving it flat.
 - Canva MCP image generation has been unreliable in this environment
   (permission/approval errors on save). If it fails, generate the design
   anyway, then manually download it from the Canva web link and upload it to
