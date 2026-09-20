@@ -102,6 +102,36 @@ shape every decision below:
     day, not just matchday:") — keep it brief, this isn't the place for more
     sass, just a clear pointer to where the rest of the community hangs out.
 
+## Hero image
+
+Si has a standard Canva template for the lead image at the top of every
+match post: split-colour background (each club's colour), both clubs'
+real crests, "<score>" in the middle, club names underneath in a bold
+collegiate-style font. Established with the Burnley 1-1 Derby post (19
+September 2026).
+
+- **Design link**: https://canva.link/zhp1gafamj0uzsa (design ID
+  `DAHRbhLALLw` once resolved — same underlying design as the earlier
+  "Instagram Post - ROTHERHAM 1-1 DERBY" file, repurposed as the
+  standing template rather than a new design each time).
+- **Give Si this link every time a new match post is drafted**, so he can
+  open it directly and swap in the new teams/crests/score himself, rather
+  than making him hunt for it. Don't skip this even if the hero image
+  itself is out of scope for a given request.
+- **Can't be autofilled or edited directly by Claude**: `get-design-dataset`
+  on this design returns an empty schema, i.e. no autofill fields are
+  defined, so there's no scripted way to swap in the new score/teams via
+  the Canva MCP tools available here — Si edits it by hand in Canva. If
+  he wants this automated later, the design would need proper autofill
+  fields added in Canva (turning it into a template with named text/image
+  placeholders) — worth a one-off ask if the manual edit becomes a chore.
+- Earlier attempts at generating a hero image from scratch with
+  `generate-design` only ever produced wordmark-only graphics with no
+  real crests (network access to fetch real club badges is blocked in
+  this environment, and Canva's own stock library doesn't carry them) —
+  Si's own template supersedes that approach entirely. Don't suggest
+  regenerating one via `generate-design` while this template exists.
+
 ## Tone rules
 
 - UK-fan voice: sass, snark, self-deprecating humour about the club's own
@@ -170,6 +200,7 @@ Before drafting, confirm:
 - [ ] Current league table position for Derby and their nearest neighbours
 - [ ] Find More SuperRams CTA block included (standard, every post — see
       "Post structure" #13)
+- [ ] Hero-image template link given to Si (see "Hero image" section)
 
 ## Reference material
 
