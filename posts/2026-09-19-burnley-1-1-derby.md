@@ -95,22 +95,36 @@ WHAT'S NEXT
 
 LEAGUE TABLE SNAPSHOT
 
+Option A — bullet style (matches the skill's default format):
+
 22. TBC — see notes
 **23. Derby County — P8 · Pts5 · GD-7**
 24. Burnley — P8 · Pts4 · GD-8
 
+Option B — plain numbered list (no bold/markdown reliance, safer against
+Patreon's paste-stripping):
+
+1. 22nd — TBC — see notes
+2. 23rd — Derby County — Played 8, Points 5, GD -7
+3. 24th — Burnley — Played 8, Points 4, GD -8
+
 (No team below Derby other than Burnley — 24th is bottom of the
-Championship. See notes on how confirmed this is.)
+Championship. See notes on how confirmed this is, and on the missing
+table screenshot.)
 
 
 IN THEIR WORDS 🗣️
 
-[No fan quotes gathered for this one yet — flag to Si for handles/quotes before publishing, or cut this section per the skill's guidance if nothing comes in.]
+"It'll be a result that will bring many mixed emotions and will still leave plenty of pertinent questions. Such a low quality game of football. The scenes at the end whilst understandable because of the late equaliser, also show the reality of where we are currently." — @derbydaniel.bsky.social
+
+"Scraped a point, and a chance to build some much needed positivity back... Eustace thinks 'hold my beer' and gives a terrible post-match interview. The media team will be running damage control on social videos for the rest of the weekend. It's getting tiring." — @iamzavagno.bsky.social
+
+"Spent the day at our son's house & couldn't have the game on. Nipped out at half time to get an update, & I was in a right foul mood. Went out at full time expecting the worst - literally just in time to catch the goal. Nobody noticed, but inside I was punching the air. COYR!" — @pdslater.bsky.social
 
 
 LISTEN: RAMS REVIEW PODCAST
 
-[Link/plug TBC — add if there's an episode covering this one before publishing.]
+The lads broke this one down too — full episode here: https://www.ramsreviewpodcast.com/post/clarets-1-1-dcfc-19-sep-26
 
 
 FIND MORE SUPERRAMS
@@ -123,7 +137,26 @@ More Rams chat, every day, not just matchday:
 
 ---
 
-## Notes for whoever publishes this
+## Images
+
+Fan-quote screenshots cropped from Si's uploads (status bar/nav/tab bar
+trimmed, post card only) and saved alongside this file:
+
+- `assets/2026-09-19-burnley-1-1-derby/fan-quote-1-daniel-warwick.png`
+- `assets/2026-09-19-burnley-1-1-derby/fan-quote-2-ben-wright.png` (crop
+  stops after the reply/like row on his first post — his thread continues
+  into a second post about Ozoh/Szmodics, quoted in full in "IN THEIR
+  WORDS" but not in this image, to keep the crop to one self-contained
+  card)
+- `assets/2026-09-19-burnley-1-1-derby/fan-quote-3-waterbloke.png`
+
+**No table screenshot came through** — Si's message mentioned one attached
+alongside the socials, but only the three fan-quote images above actually
+arrived. Both text formats of the LEAGUE TABLE SNAPSHOT are drafted above
+(Option A/B) as a fallback; resend the table screenshot if there's a
+crop of that wanted too.
+
+## Notes for whoever publishes this — still open
 
 - **Squad numbers for Taylor and Ozoh conflict across sources.** The
   Cardiff post (22 Aug) had Charlie Taylor at #18; a fresher squad-number
@@ -146,11 +179,6 @@ More Rams chat, every day, not just matchday:
   this case.
 - **Booking minutes weren't found** for either Ozoh's or Laurent's
   yellow — only that they happened, from a single source each.
-- **Fan quotes and podcast plug are both empty placeholders** — no
-  Bluesky/Facebook quotes or podcast episode were supplied for this match
-  yet. Per the skill, don't leave a dead gap in the published version:
-  either get quotes/a link from Si first, or cut both sections rather
-  than publish with brackets showing.
 - **Distance travelled (~120 miles) is a rough estimate** — Pride Park to
   Turf Moor by road is commonly cited around this figure, not looked up
   against a specific mapping source this session.
@@ -166,9 +194,18 @@ More Rams chat, every day, not just matchday:
   same as dcfc.co.uk etc.), so this couldn't be cross-checked against it
   before publishing — do that before this goes up, and fill in the 22nd
   place row, which wasn't found from any source this session.
-- No image yet — same Canva-reliability caveat as every prior post.
+- **No hero/header image yet** — same Canva-reliability caveat as every
+  prior post. The three fan-quote screenshots above cover "IN THEIR
+  WORDS"; a separate lead image for the top of the post is still
+  outstanding.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the existing pattern.
+
+## Resolved since first draft
+
+- Fan quotes (3, Bluesky) and their source screenshots — done, see
+  "Images" above and "IN THEIR WORDS" in the body.
+- Podcast plug — done, real episode link added.
 
 ## Sources
 
