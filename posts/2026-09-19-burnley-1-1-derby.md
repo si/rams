@@ -155,6 +155,14 @@ More Rams chat, every day, not just matchday:
 
 ## Images
 
+**Hero image — `assets/2026-09-19-burnley-1-1-derby/hero-burnley-1-1-derby.jpg`**
+Si's own design, not Claude/Canva-generated — split sky-blue/amber
+background, real Burnley and Derby crests, "1-1" scoreline, club names in
+a bold collegiate-style font. Use this at the top of the post, above THE
+MATCH. Canva's own generation attempts this session (four candidates,
+wordmark-only, no real crests) are superseded by this and can be
+discarded.
+
 Fan-quote screenshots cropped from Si's uploads (status bar/nav/tab bar
 trimmed, post card only) and saved alongside this file:
 
@@ -178,14 +186,13 @@ cropped image of just rows 20-24 is wanted too.
 - **Distance travelled (~120 miles) is a rough estimate** — Pride Park to
   Turf Moor by road is commonly cited around this figure, not looked up
   against a specific mapping source this session.
-- **No hero/header image yet** — same Canva-reliability caveat as every
-  prior post. The three fan-quote screenshots above cover "IN THEIR
-  WORDS"; a separate lead image for the top of the post is still
-  outstanding.
 - Once published, replace this file's front-matter with the real Patreon
   URL and status, matching the existing pattern.
 
 ## Resolved since first draft
+
+- **Hero image** — Si supplied his own (real crests, split-colour design,
+  scoreline) rather than relying on Canva generation. See "Images" above.
 
 - **Squad numbers corrected against Si's BBC lineup/formation
   screenshots.** Ozoh is #4, not #18 as first drafted (that number belongs
