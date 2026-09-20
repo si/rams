@@ -118,7 +118,7 @@ But a point at bottom-of-the-table Turf Moor stops the bleeding, it doesn't reve
 
 ## Standings
 
-22. Derby County — P8 · Pts5 · GD-7
+Derby are now 22nd in the table with 5 points from 8 games and a goal difference of -7, above Preston North End and below Bolton Wanderers.
 
 [Insert `standings-20-24.png` here — cropped table image, Cardiff (20th)
 through Burnley (24th)]

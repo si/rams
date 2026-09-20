@@ -91,12 +91,16 @@ plain-text approach the Rotherham example used.
     **When Si supplies a table screenshot** (the standard case): crop it
     down to just the five rows around Derby (see "Images" workflow) and
     use the image rather than typing out the full neighbours list. Precede
-    the image with one plain text line giving just Derby's own numbers, so
-    the headline fact reads even before the image loads/for anyone
-    skimming:
-    `<pos>. Derby County — P<played> · Pts<points> · GD<goal difference>`
-    e.g. `22. Derby County — P8 · Pts5 · GD-7`, then the cropped image
-    directly below it.
+    the image with one natural sentence giving Derby's own numbers plus
+    who's immediately above and below, so the headline fact reads even
+    before the image loads/for anyone skimming — not the terse
+    `pos. Team — P· Pts· GD` shorthand, an actual sentence:
+    "Derby are now `<pos>`(th/st/nd/rd) in the table with `<points>`
+    points from `<played>` games and a goal difference of `<GD>`, above
+    `<team below>` and below `<team above>`."
+    e.g. "Derby are now 22nd in the table with 5 points from 8 games and
+    a goal difference of -7, above Preston North End and below Bolton
+    Wanderers." Then the cropped image directly below it.
 
     **When no screenshot is available**, fall back to a full bullet list
     (no markdown table — see "Known constraints"), one line per team:
