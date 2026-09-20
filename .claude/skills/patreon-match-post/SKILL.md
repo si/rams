@@ -86,8 +86,20 @@ plain-text approach the Rotherham example used.
    new paragraph every 2-3 sentences or whenever the angle shifts.
 10. **## Standings** (renamed from "League Table Snapshot") — Derby's
     position plus their nearest neighbours, above and below, in the
-    Championship table as it stands after this match. Bullet list (no
-    markdown table — see "Known constraints"), one line per team:
+    Championship table as it stands after this match.
+
+    **When Si supplies a table screenshot** (the standard case): crop it
+    down to just the five rows around Derby (see "Images" workflow) and
+    use the image rather than typing out the full neighbours list. Precede
+    the image with one plain text line giving just Derby's own numbers, so
+    the headline fact reads even before the image loads/for anyone
+    skimming:
+    `<pos>. Derby County — P<played> · Pts<points> · GD<goal difference>`
+    e.g. `22. Derby County — P8 · Pts5 · GD-7`, then the cropped image
+    directly below it.
+
+    **When no screenshot is available**, fall back to a full bullet list
+    (no markdown table — see "Known constraints"), one line per team:
     `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`
     Bold Derby's own row. Two teams above and two below is the default
     (five rows total); trim to what's actually available at the very top or
@@ -96,9 +108,7 @@ plain-text approach the Rotherham example used.
     corroborated WebSearch summary — **flag explicitly if the table is
     pulled pre-match rather than confirmed post-match** (final-day results
     across the whole division lag in search indexes), rather than silently
-    presenting stale positions as current. If Si supplies a table
-    screenshot, crop it down to just the five rows around Derby (see
-    "Images" workflow) rather than pasting the full 24-team screenshot.
+    presenting stale positions as current.
 11. **## In Their Words** — 2-3 pulled fan quotes from Bluesky/Facebook,
     formatted as **Markdown pull quotes**: `> "<quote>"` on its own block,
     with the attribution on the line directly after (still inside or

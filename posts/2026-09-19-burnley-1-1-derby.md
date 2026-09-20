@@ -118,14 +118,10 @@ But a point at bottom-of-the-table Turf Moor stops the bleeding, it doesn't reve
 
 ## Standings
 
-20. Cardiff City — P8 · Pts7 · GD-2
-21. Bolton Wanderers — P7 · Pts7 · GD-5
-**22. Derby County — P8 · Pts5 · GD-7**
-23. Preston North End — P8 · Pts4 · GD-7
-24. Burnley — P8 · Pts4 · GD-8
+22. Derby County — P8 · Pts5 · GD-7
 
-(Derby's actually 22nd, not 23rd as first drafted — confirmed against
-Si's dcfc.co.uk app screenshot. Only Preston and Burnley sit below.)
+[Insert `standings-20-24.png` here — cropped table image, Cardiff (20th)
+through Burnley (24th)]
 
 
 ## In Their Words
@@ -183,9 +179,10 @@ trimmed, post card only) and saved alongside this file:
 
 **Standings — `assets/2026-09-19-burnley-1-1-derby/standings-20-24.png`**
 Cropped from Si's dcfc.co.uk app table screenshot down to just the five
-rows around Derby (20th Cardiff through 24th Burnley), matching the
-Standings section above. Use this image instead of retyping the table if
-a visual works better than the bullet list in the post.
+rows around Derby (20th Cardiff through 24th Burnley). This is the image
+Si's using for the Standings section — the post body now just gives
+Derby's own line as text (22nd, P8, Pts5, GD-7) and drops this image in
+underneath, rather than typing out all five rows.
 
 ## Notes for whoever publishes this — still open
 
