@@ -17,3 +17,7 @@ number instead. Leave blank where not applicable (Bluesky, X).
 | 2026-08-31 | Facebook | 1,347 | | Unchanged from last week. |
 | 2026-08-31 | Patreon | | 5 | Unchanged from last week. |
 | 2026-08-31 | X | 12,227 | | Via Plucker (plucker.io), not x.com directly — X still paywalls the count for Si. Down 3 from last week's 12,230, which is a plausible small natural drift and a good sign Plucker's number is real rather than noise. |
+| 2026-10-05 | Bluesky | 666 | | First reply in 5 weeks (no data for 7/14/21/28 Sept) — comparing against 31 Aug's 663, +3 over that span. |
+| 2026-10-05 | Facebook | 1,357 | | vs 31 Aug's 1,347, +10 over the 5-week gap. |
+| 2026-10-05 | Patreon | | 5 | Unchanged since tracking began. |
+| 2026-10-05 | X | 12,225 | | Via Plucker. vs 31 Aug's 12,227, -2 over the 5-week gap — essentially flat. |
