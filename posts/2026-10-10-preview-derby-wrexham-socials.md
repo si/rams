@@ -16,7 +16,7 @@
 ## X (Twitter)
 
 ```
-Pride Park. 3pm. Wrexham in town.
+First game back after the long international break. Pride Park. 3pm. Wrexham in town.
 
 One win in eight for us, so yes, we're 22nd and yes, we're still turning up. Fancy a home win? Same.
 
@@ -26,7 +26,7 @@ COME ON YOU RAMS 🐏 #dcfc
 ## Bluesky
 
 ```
-Wrexham at Pride Park, KO 3pm. They're 14th and steady; we're 22nd with one league win from eight.
+First game back after the long international break: Wrexham at Pride Park, KO 3pm. They're 14th and steady; we're 22nd with one league win from eight.
 
 Plenty to prove, a home crowd who've seen worse, and a very good reason to get loud today. 🐏 #dcfc
 ```
@@ -36,12 +36,13 @@ Plenty to prove, a home crowd who've seen worse, and a very good reason to get l
 Under ~120 characters for the big-text background.
 
 ```
-Pride Park, 3pm - one win in eight is plenty. Get loud, make it two. Come on you Rams! 🐏
+Finally, football's back! Pride Park, 3pm v Wrexham. Come on you Rams! 🐏
 ```
 
 ---
 
 ## Notes
 
+- Added first-game-back-after-the-international-break angle (per Si).
 - Leaned into the poor start rather than dodging it; kept the nod to
   Wrexham light (just their position).
