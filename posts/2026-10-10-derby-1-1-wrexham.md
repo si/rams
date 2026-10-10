@@ -6,8 +6,7 @@
   snippets only) had the sub pairings wrong, now corrected.
 - **Fixture:** EFL Championship, Matchday 9, Pride Park, Saturday 10 October
   2026, KO 15:00 — Derby home.
-- **Still open:** The Read is drafted but What's Next, fan quotes, podcast
-  link and player commentary need Si — see the end of this file.
+- **Still open:** podcast link and player commentary need Si — see the end of this file.
 
 ---
 
@@ -114,7 +113,14 @@ Derby are now 23rd in the table with 6 points from 9 games and a goal difference
 
 ## In Their Words
 
-[Fan quotes needed — none pulled yet.]
+> "It's going to be a long trudge till Xmas at least. We don't have the quality in numbers. We just cannot dominate games, always going to concede. Ref crap. Langas at fault for the goal, so passive. He is a shadow of the player of last season. Can't fault the effort from the team"
+> — @mimij9.bsky.social
+
+> "That's really hard to take. We've been punished all season for multiple mistakes. Barely made a mistake today and we get punished. Thought we did pretty well on the whole. Better defensively. Moments of threat going forward. On another day we score 3"
+> — @timwhitemore.bsky.social
+
+> "Yet another ' played ok but given away a sloppy goal' performance. The performance is encouraging but if we don't start to convert performance into results, the pressure will be on."
+> — @apancisi.bsky.social
 
 
 ## Find More SuperRams
@@ -127,7 +133,7 @@ More Rams chat, every day, not just matchday:
 
 ## What's Next
 
-[Next fixture needed — per fixtur.es]
+QPR — Away — Wednesday 14 October 2026, KO 19:45 (4 days) — per fixtur.es
 ```
 
 ---
@@ -144,9 +150,14 @@ More Rams chat, every day, not just matchday:
 
 ## Notes for whoever publishes this — still open
 
-- **What's Next** — next fixture not yet found; fixtur.es is the reference.
-  Only the post-international-break fixture list needs checking.
-- **Fan quotes** — need Bluesky/Facebook quotes plus screenshots.
+- **What's Next** — QPR (a), Wed 14 Oct, 19:45, Loftus Road, from Si's
+  Google fixture screenshot (QPR 6th, Derby 23rd). fixtur.es not checked
+  directly — blocked in this environment.
+- **Fan quotes** — three Bluesky quotes in, with cropped screenshots
+  alongside (`fan-quote-1-mimij9.png`, `fan-quote-2-timwhitemore.png`,
+  `fan-quote-3-apancisi.png`). The mimij9 quote is quoted in full including
+  the Langås criticism and ref comment; trim if you'd rather not run those.
+  The timwhitemore crop stops before the reply thread.
 - **Podcast plug** — add the Rams Review episode link if one exists.
 - **Player commentary** — bracketed lines are placeholders, not finished
   copy; the sources only support the facts above. Check the Player Tracker
