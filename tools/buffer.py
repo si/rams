@@ -11,11 +11,12 @@ never touches the personal Buffer OAuth connector:
 Usage:
     buffer.py superrams account
     buffer.py superrams channels --org ORG_ID
-    buffer.py superrams post --channel CHANNEL_ID --text "..." [--due-at ISO8601] [--dry-run]
+    buffer.py superrams post --channel CHANNEL_ID --text "..." [--due-at ISO8601 | --now] [--dry-run]
     buffer.py superrams query 'query { account { id } }'
     buffer.py superrams schema
 
-Default post mode is addToQueue; --due-at schedules for a specific time.
+Default post mode is addToQueue; --due-at schedules for a specific time and
+--now publishes straight away (shareNow).
 Override the endpoint with BUFFER_API_URL if Buffer moves it.
 """
 import argparse
@@ -82,8 +83,11 @@ def main():
     po.add_argument("--channel", required=True)
     po.add_argument("--text", required=True)
     po.add_argument("--due-at", help="ISO 8601 with UTC offset, e.g. 2026-10-31T09:00:00+00:00")
+    po.add_argument("--now", action="store_true", help="publish straight away instead of queueing")
     po.add_argument("--dry-run", action="store_true")
     a = p.parse_args()
+    if a.cmd == "post" and a.now and a.due_at:
+        p.error("use either --now or --due-at, not both")
 
     if a.cmd == "account":
         out = call(a.brand, ACCOUNT)
@@ -95,7 +99,7 @@ def main():
         out = call(a.brand, a.graphql)
     else:
         inp = {"channelId": a.channel, "text": a.text, "schedulingType": "automatic",
-               "mode": "customScheduled" if a.due_at else "addToQueue"}
+               "mode": "shareNow" if a.now else "customScheduled" if a.due_at else "addToQueue"}
         if a.due_at:
             inp["dueAt"] = a.due_at
         if a.dry_run:
