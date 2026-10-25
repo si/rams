@@ -36,12 +36,14 @@ URL = os.environ.get("BUFFER_API_URL", "https://api.buffer.com")
 def call(brand, query, variables=None):
     var = BRANDS[brand]
     key = os.environ.get(var)
-    if not key:
-        sys.exit(f"{var} is not set. Add it in the environment settings and start a new session.")
+    headers = {"Content-Type": "application/json"}
+    if key:
+        headers["Authorization"] = f"Bearer {key}"
+    # With no key set, send no Authorization header and rely on the proxy to inject one.
     req = urllib.request.Request(
         URL,
         data=json.dumps({"query": query, "variables": variables or {}}).encode(),
-        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        headers=headers,
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
