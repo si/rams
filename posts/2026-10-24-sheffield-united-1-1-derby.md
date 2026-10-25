@@ -66,7 +66,7 @@ Bramall Lane, Sheffield
 ## The People, Not Just the Sheet
 
 ### Jacob Zetterström
-Sheffield United's own club report says his work denied the Blades all three points, which is about as good as a compliment from the opposition gets. Eustace singled out how strong Derby were defensively, and with ten men for 25 minutes plus stoppage time, that's mostly him. [Add one or two specific saves from the highlights.]
+Fans were quick to say "JWZ is back", and one called out his "blinding saves" to keep the Blades out. Sheffield United's own club report says his work denied the Blades all three points, which is about as good as a compliment from the opposition gets. Eustace singled out how strong Derby were defensively, and with ten men for 25 minutes plus stoppage time, that's mostly him. [Add one or two specific saves from the highlights.]
 
 ### Bobby Clark
 Scored the opener on 37' after Szmodics fed Hedges, Hedges' shot came back off the post, and Clark placed it clear of two defenders on the line. Then picked up a yellow in stoppage time (90+4') for good measure, so even the goalscorer couldn't leave it alone. Fine by us.
@@ -112,7 +112,14 @@ Derby are now 23rd in the table with 7 points from 12 games and a goal differenc
 
 ## In Their Words
 
-[No fan quotes yet. Drop in 2-3 from Bluesky/Facebook screenshots, or replace with a comment prompt, e.g. "Sanderson's second yellow: stupid or unlucky?"]
+> "Certainly no criticism of John Eustace from me today. #dcfc produced a much improved performance until Sanderson's rash moment - his teammates hung tough to at least escape from a difficult situation with a creditable draw. It's only a draw, but we have to hope it's a turning point in our season."
+> — @derbycountyblog.bsky.social
+
+> "1-1 Sanderson gave the ref a decision to make and was shown a 2nd yellow and we fell to the equaliser, however we take the point because JWZ is back! Yeah baby! oh how we have missed you. He pulled off some blinding saves to keep out Sheff Utd."
+> — @kev-woods.bsky.social
+
+> "We deserved that draw. Every player gave their all. Shoots of something. Thank god for Jacob Widell Zetterstrom. 🧤"
+> — @mimij9.bsky.social
 
 
 ## Eustace Said
@@ -149,7 +156,7 @@ Millwall — Away — Saturday 31 October 2026, KO 15:00 (7 days) — per fixtur
 
 ## Still open
 
-- **Fan quotes:** none yet.
+- **Fan quotes:** three Bluesky quotes added (text only). Source screenshots not saved to the repo.
 - **Away fans figure:** not published.
 - **Distance:** ~50 miles is a rough estimate, not looked up.
 - **Zetterström:** need one or two specific saves from the highlights; only second-hand praise so far.
