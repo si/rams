@@ -36,6 +36,11 @@ file to get the copy.
    `posts/` folder the Patreon reports use), with a short front-matter note
    on status/context/what's unverified (e.g. no confirmed XI yet).
 5. Reply in chat with the three text blocks, ready to copy-paste.
+6. **Ask Si whether he wants the X and Bluesky posts scheduled for a specific
+   time or posted straight away**, then send them to Buffer with
+   `tools/buffer.py` based on his answer (`--due-at` with the UK offset, or
+   `--now`). See `CLAUDE.md` and `tools/README.md` for the steps and channel
+   IDs. Facebook isn't connected to Buffer, so that one stays copy-paste.
 
 ## Tone rules (shared with patreon-match-post)
 
