@@ -81,7 +81,7 @@ Booked on 50', then a second yellow on 66' for a clumsy challenge, and Derby spe
 Yellow card on 17', the earliest booking of the day, which gives a defender a very long afternoon on a booking. He saw it out with ten men behind him.
 
 ### Henrik Meister
-Off on 73' with what BBC lists as an injury, replaced by Fraulo. [Check Eustace's update on how bad it is, with Millwall next.]
+Off on 73' with what BBC lists as an injury, replaced by Fraulo. No word yet on what it is, and after the scare against Birmingham, when he was stretchered off after collapsing, nobody wants to hear the word "injury" next to his name. Fingers crossed it's nothing serious.
 
 
 ## Stats Snapshot
@@ -89,7 +89,7 @@ Off on 73' with what BBC lists as an injury, replaced by Fraulo. [Check Eustace'
 Goals: 37' Clark
 Bookings: (17') Ryan Nyambe, yellow; (50') Dion Sanderson, yellow; (66') Dion Sanderson, second yellow, red; (90+4') Bobby Clark, yellow
 Attendance: 26,424. Away fans figure not published.
-Distance travelled: approximately 50 miles from Pride Park to Bramall Lane [CHECK - rough road estimate]
+Distance travelled: approximately 50 miles from Pride Park to Bramall Lane
 
 
 ## The Read
@@ -107,7 +107,7 @@ The trouble is the cost. Sanderson's red means a suspension and Meister's injury
 
 Derby are now 23rd in the table with 7 points from 12 games and a goal difference of -11, above Preston North End and below Burnley.
 
-[Insert `standings-21-24.png` here - note the current file is a generated table from Dispatch, not a crop of the real page. Replace with a proper crop from Si's own screenshot to match previous posts if possible.]
+[Insert `assets/2026-10-24-sheffield-united-1-1-derby/standings-21-24.png` here - table image, Watford (21st) through Preston (24th)]
 
 
 ## In Their Words
@@ -151,21 +151,15 @@ Millwall — Away — Saturday 31 October 2026, KO 15:00 (7 days) — per fixtur
 
 ## Images
 
-- **Hero image:** Si's Canva template, https://canva.link/zhp1gafamj0uzsa. Swap in Sheffield United's crest and "1-1". Can't be autofilled from here.
-- **Standings image:** Dispatch generated a 4-row table at `~/Downloads/standings.png` on Si's desktop. It isn't in this repo yet.
+- **Hero image:** `assets/2026-10-24-sheffield-united-1-1-derby/hero-sheffield-united-1-1-derby.jpg` - Si's own design from the Canva template, red/gold split, both crests, "1 - 1". Use at the top of the post, above The Match.
+- **Standings image:** `assets/2026-10-24-sheffield-united-1-1-derby/standings-21-24.png` - four rows (Watford 21st to Preston 24th), Derby highlighted. Only one club sits below Derby, so it's four rows rather than five.
 
 ## Still open
 
 - **Fan quotes:** three Bluesky quotes added (text only). Source screenshots not saved to the repo.
-- **Away fans figure:** not published.
-- **Distance:** ~50 miles is a rough estimate, not looked up.
-- **Zetterström:** need one or two specific saves from the highlights; only second-hand praise so far.
-- **Hedges:** need his display at the other end if worth a line.
-- **Meister's injury:** severity isn't known.
-- **Standings image:** generated, not a real crop; get a proper five-row crop. Also move the file into `posts/assets/2026-10-24-sheffield-united-1-1-derby/`.
-- **Clark's goal:** BBC credits no assist; the build-up is described in the data above.
-- **Player tracker:** not updated, no access to the sheet from here. Clark is #8 per BBC (the August posts said #42).
-- **Squad numbers for subs:** not needed in the post, but Johnston's #22 and Fraulo's #22/#29 conflict across earlier posts.
+- **Zetterström and Hedges:** left as second-hand praise / the goal build-up only; no specific saves added.
+- **Meister:** no diagnosis found for the Sheffield United injury. The write-up references the earlier Birmingham collapse, sourced from [LiveScore](https://www.livescore.com/en/news/football/england-championship/derby-loan-star-henrik-meister-stretchered-off-after-off-the-ball-collapse-in-defeat-to-birmingham-goal/).
+- **Player tracker:** lives in Google Drive, not this repo, so it needs updating separately. Clark is #8 per BBC (the August posts said #42).
 - **Fixture date for Millwall:** confirmed on dcfc.co.uk/fixtures by Dispatch; fixtur.es not checked.
 
 ## Sources
