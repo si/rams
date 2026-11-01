@@ -114,10 +114,14 @@ Derby are now 23rd in the table with 7 points from 13 games and a goal differenc
 
 ## In Their Words
 
-[Pull 2-3 Bluesky/Facebook quotes. None gathered yet.]
+> "Time at the Den.. And it was a Halloween horror show from #dcfc. Ed Dawes has just said 5 players deserve a place, the rest what are you doing here.. We as fans deserve better. Time to reshape Derby from Pearce down, because this is just woeful.."
+> - @kev-woods.bsky.social
 
-> "..."
-> - @handle
+> "Do not keep telling me that no other manager would be able to do any better with this exact group of players and circumstances. Not just today, every match this season. People keep saying it but I just don't believe it at all."
+> - @derbydaniel.bsky.social
+
+> "Seven points or fewer after 13 games is traditionally a massive warning sign in the Championship. The history books makes grim reading for teams in that position, although #DCFC and a few others have proved before that survival is possible."
+> - @iamzavagno.bsky.social
 
 
 ## Find More SuperRams
@@ -146,7 +150,7 @@ Wolverhampton Wanderers - Away - Tuesday 24 November 2026, KO 20:00 (24 days) - 
 - **Sub pairings:** who Mowatt, Fuseini, Salvesen, Bilbija and Fraulo replaced.
 - **Attendance and away fans:** not in the screenshots.
 - **Eustace quotes:** none found. Sky's report has a "Derby's John Eustace" section I couldn't read.
-- **Fan quotes:** none gathered.
+- **Fan quotes:** three Bluesky quotes added, text only and trimmed (Daniel's second paragraph and Ben's closing question left out). Kev's quote mentions Ed Dawes and Pearce without context, so check readers will follow it.
 - **Next fixture:** Wolves away Tue 24 Nov 20:00 and Watford home Sat 28 Nov 15:00, both from a single Vavel listing. Confirm before publishing.
 - **Distance:** 125 miles is my estimate, not sourced.
 - **Player tracker:** lives in Google Drive, so it needs updating separately. Squad numbers this match: Robinson #14, Johnston #22, Clark #8.
