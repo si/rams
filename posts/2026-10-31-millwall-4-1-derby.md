@@ -2,7 +2,7 @@
 
 - **Published:** not yet, drafted against the `patreon-match-post` skill format.
 - **Fixture:** EFL Championship, Matchday 13, The Den, Saturday 31 October 2026, KO 15:00 - Derby away.
-- **Status:** lineup, subs, goals, yellow cards, team stats and table now sourced from Si's Google match-page screenshots. Still missing: card minutes, attendance, Eustace quotes, fan quotes. Player write-ups only use facts from that data; anything needing first-hand viewing is bracketed. See "Still open" at the bottom.
+- **Status:** lineup, subs, goals, yellow cards, team stats and table now sourced from Si's Google match-page screenshots. Fan quotes and attendance now added. Still missing: card minutes and sub pairings. No Eustace quotes available. Player write-ups only use facts from that data; anything needing first-hand viewing is bracketed. See "Still open" at the bottom.
 
 ---
 
@@ -90,8 +90,8 @@ Started and was subbed off. [Check whether it was fitness or tactics, given he c
 
 Goals: 87' Bilbija. Millwall: 3' Lisbie, 10' Lisbie, 17' Cundle, 84' Cooper
 Bookings: Carlton Morris, yellow; Rhian Brewster, yellow [minutes not shown, add from timeline]
-Attendance: [not found, check BBC]. Away fans figure: [not found].
-Distance travelled: approximately [125] miles from Pride Park to The Den [verify]
+Attendance: 19,762 (Derby County fans: 2,065)
+Distance travelled: approximately 130 miles from Pride Park to The Den
 
 
 ## The Read
@@ -100,9 +100,9 @@ Derby are 23rd, with one win in thirteen games. Seven points, a goal difference 
 
 Three goals in 17 minutes at The Den isn't a tactical wobble, it's the team not being switched on. Millwall had 18 shots to our 11, and nine on target to our three. Southwark News called the visitors "woeful", and the numbers don't argue with them.
 
-The gap matters too. We're two points behind Burnley and four behind Watford, and we've now lost 8 of 13. [Add a paragraph on Eustace: what he said post-match, and whether the pressure is genuinely building. Quotes not found yet.]
+The gap matters too. We're two points behind Burnley and four behind Watford, and we've now lost 8 of 13.
 
-[Add a paragraph on the next fixture and what Derby need to change.]
+Norwich at Pride Park on Tuesday doesn't leave much time to fix anything. Norwich are 15th on 15 points, so they're not flying either, but we're short of both confidence and bodies, and a home game against a mid-table side is exactly the sort we should be taking points from. [Add what Derby need to change, plus any availability news.]
 
 
 ## Standings
@@ -134,7 +134,7 @@ More Rams chat, every day, not just matchday:
 
 ## What's Next
 
-Wolverhampton Wanderers - Away - Tuesday 24 November 2026, KO 20:00 (24 days) - per fixtur.es [only seen on Vavel, confirm on dcfc.co.uk or fixtur.es]
+Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per [fixtur.es](https://fixtur.es/en/team/derby-county) [date and KO seen on Vavel and several listings, not fixtur.es itself]
 ```
 
 ---
@@ -148,11 +148,10 @@ Wolverhampton Wanderers - Away - Tuesday 24 November 2026, KO 20:00 (24 days) - 
 
 - **Card minutes:** Brewster and Morris were booked per the lineup screenshot, but minutes need the timeline tab.
 - **Sub pairings:** who Mowatt, Fuseini, Salvesen, Bilbija and Fraulo replaced.
-- **Attendance and away fans:** not in the screenshots.
-- **Eustace quotes:** none found. Sky's report has a "Derby's John Eustace" section I couldn't read.
+- **Eustace quotes:** none available, so the Read has no manager reaction.
 - **Fan quotes:** three Bluesky quotes added, text only and trimmed (Daniel's second paragraph and Ben's closing question left out). Kev's quote mentions Ed Dawes and Pearce without context, so check readers will follow it.
-- **Next fixture:** Wolves away Tue 24 Nov 20:00 and Watford home Sat 28 Nov 15:00, both from a single Vavel listing. Confirm before publishing.
-- **Distance:** 125 miles is my estimate, not sourced.
+- **Next fixture:** Norwich at home, Tue 3 Nov, KO 19:45 per Vavel and several listings. Confirm on fixtur.es or dcfc.co.uk before publishing.
+- **Distance:** 130 miles is a road-distance estimate (Derby to SE16 via the M1), not sourced.
 - **Player tracker:** lives in Google Drive, so it needs updating separately. Squad numbers this match: Robinson #14, Johnston #22, Clark #8.
 
 ## Team stats (Millwall v Derby, from Google)
