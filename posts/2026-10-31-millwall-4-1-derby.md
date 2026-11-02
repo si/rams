@@ -2,14 +2,14 @@
 
 - **Published:** not yet, drafted against the `patreon-match-post` skill format.
 - **Fixture:** EFL Championship, Matchday 13, The Den, Saturday 31 October 2026, KO 15:00 - Derby away.
-- **Status:** lineup, subs, goals, yellow cards, team stats and table now sourced from Si's Google match-page screenshots. Fan quotes and attendance now added. Still missing: card minutes and sub pairings. No Eustace quotes available. Player write-ups only use facts from that data; anything needing first-hand viewing is bracketed. See "Still open" at the bottom.
+- **Status:** complete draft. Sourced from Si's Google match-page screenshots and timeline, the dcfc.co.uk report and the BBC Sport report (PDFs supplied by Si). Player write-ups only use facts from those; anything needing first-hand viewing is bracketed. See "Still open" at the bottom.
 
 ---
 
 ## Title field
 
 ```
-Millwall 4-1 Derby: three down by the 17th minute, and a mutinous away end to match
+Millwall 4-1 Derby: three down in 17 minutes, seven defenders out, and nine games without a win
 ```
 
 ## Public preview (above the paywall)
@@ -19,9 +19,9 @@ Derby were 3-0 down at The Den inside 17 minutes.
 
 Kyrell Lisbie scored twice, on 3 and 10, and Luke Cundle made it three on 17.
 
-Jake Cooper added a fourth on 84, and Filip Bilbija's 87th-minute consolation did nothing for an away end that had long since turned.
+Jake Cooper added a fourth on 84, and Filip Bilbija's 87th-minute consolation was his first goal for the club.
 
-Derby had three shots on target all afternoon. Millwall had nine.
+It's now nine games without a win, one victory all season, and John Eustace says he's playing with a makeshift defence.
 
 Full breakdown for patrons below 👇
 ```
@@ -56,53 +56,64 @@ The Den, London
 
 ## Subs
 
-**36'** [off] ↓ · ↑ Mowatt
-**56'** [off] ↓ · ↑ Fuseini
-**77'** [off] ↓ · ↑ Salvesen
-**78'** [off] ↓ · ↑ Bilbija
-**78'** [off] ↓ · ↑ Fraulo
-
-[Off: Ozoh, Brewster, Szmodics, Meister, Morris, but the screenshot doesn't pair them up. Check the timeline tab. A sub at 36' while 3-0 down is either an injury or Eustace giving up on the plan, so say which.]
+**37'** Ozoh ↓ · ↑ Mowatt
+**57'** Meister ↓ · ↑ Fuseini
+**78'** Morris ↓ · ↑ Salvesen
+**79'** Szmodics ↓ · ↑ Bilbija
+**79'** Brewster ↓ · ↑ Fraulo
 
 
 ## The People, Not Just the Sheet
 
 ### Jacob Zetterström
-Four goals conceded, three of them inside 17 minutes. [Say what you saw: were any of the first three his to save? Millwall had nine shots on target, so he wasn't just a spectator.]
+Four conceded, but this wasn't a keeper hung out to dry by his own mistakes. He caught Dykes' glancing header early in the second half and, on 73, got down to parry Cundle's left-footed shot to deny him a second. Millwall had nine shots on target to our three, so he was busy, and the damage was done in the first 17 minutes before he'd had a chance to settle. [Add whether any of the first three were saveable, if you saw them.]
 
 ### Filip Bilbija
-Came on at 78' and scored on 87', Derby's only goal of the day. Nine minutes from bench to net is good going, and he'd have been fine with it being a better afternoon. [Add whether it was a proper finish or a tap-in at 4-0 down. Fair credit either way.]
+Came on at 79 and scored on 87, his first goal for the club. Fraulo's shot was saved by Crocombe, and Bilbija was first to the rebound to fire it in. Eight minutes from bench to net is decent going, even at 4-0 down, and a first goal is a first goal. [Add anything on how he looked in the build-up.]
 
 ### Carlton Morris
-Captain, led the line, booked, and off before the end. [Add anything specific: shots, link-up, whether he saw any service at all.]
+Captain, led the line, and had Derby's first big chance when Brewster's low ball across the box fell to him. His first-time shot bounced off his foot and over the bar. He later had a header palmed over by Crocombe, and a give-and-go with Clark just before the hour set up a decent attack. Booked on 71, then off for Salvesen on 78. Not his worst afternoon, but not the captain's afternoon we needed either.
 
 ### Rhian Brewster
-Also booked, also off. [Add whether the booking was frustration or a genuine misjudgement.]
+Probably the most dangerous Derby player in the first half, which is faint praise in a half we lost 3-0. He fizzed in the low ball for Morris' chance, then on 34 controlled on the bounce and hit goalwards, only for it to spin outside the post. Booked on 49. Surged in from the left after the hour and forced a near-post save from Crocombe. Off for Fraulo on 79. [Add whether the yellow was frustration or a bad challenge.]
 
-### The back four
-Hedges, Robinson, Nyambe and Johnston played the full 90 behind Zetterström, and all four were on the pitch for three goals in 17 minutes. [Name who was at fault once you've seen the goals. Sanderson was suspended after the red at Sheffield United, so Robinson stepping in is the change to talk about.]
+### Sam Szmodics
+Blocked shot after Meister's early corner effort, then flashed a ball across the goal from the left for Fuseini after the break, only for strong defending to snuff it out. Off on 79 for Bilbija. [Add anything from watching: is he finding space, or being asked to do too much?]
+
+### Bobby Clark
+Fit and in the thick of it. A give-and-go with Morris on the left just before the hour let him cut inside and thread a pass to Fuseini at the back post, but a well-timed block ended it. [Add anything on his work in midfield without Ozoh.]
+
+### David Ozoh
+Pulled up off the ball and went off for Mowatt on 37, with Derby already 3-0 down. A forced change on top of everything else.
 
 ### Henrik Meister
-Started and was subbed off. [Check whether it was fitness or tactics, given he came off injured at Sheffield United.]
+Started, and nearly won us an early corner that led to Szmodics' shot, but he was off for Fuseini on 57. Neither BBC nor the club report gives a reason, so we'll find out later whether this was fitness or tactics, given how his Sheffield United game ended. [Add what you saw.]
+
+### The back four
+Eustace's own words: "We've got a lot of injuries at the back at the moment - seven defenders out - and it's only a makeshift defence." Hedges, Robinson, Nyambe and Johnston played the full 90, and all four were on the pitch for three goals in 17 minutes. Sanderson, meanwhile, was suspended after his red at Sheffield United. Eustace added that "we have to defend better if we want to get any results", and said the way the goals were conceded was "very soft". [Name who was at fault once you've watched the goals back. Lisbie's first, a curling shot after being found in space at the far post, and his second, a header across goal that fell to him from close range, are the two to look at.]
 
 
 ## Stats Snapshot
 
 Goals: 87' Bilbija. Millwall: 3' Lisbie, 10' Lisbie, 17' Cundle, 84' Cooper
-Bookings: Carlton Morris, yellow; Rhian Brewster, yellow [minutes not shown, add from timeline]
+Bookings: (49') Rhian Brewster, yellow; (71') Carlton Morris, yellow
 Attendance: 19,762 (Derby County fans: 2,065)
 Distance travelled: approximately 130 miles from Pride Park to The Den
 
 
 ## The Read
 
-Derby are 23rd, with one win in thirteen games. Seven points, a goal difference of -14, and the only team below us is Preston.
+Derby are 23rd, with one win in thirteen games. Seven points, a goal difference of -14, no win in nine, and no home win all season. Preston are the only team below us.
 
-Three goals in 17 minutes at The Den isn't a tactical wobble, it's the team not being switched on. Millwall had 18 shots to our 11, and nine on target to our three. Southwark News called the visitors "woeful", and the numbers don't argue with them.
+Three goals in 17 minutes at The Den isn't a tactical wobble, it's the team not being switched on. Millwall had 18 shots to our 11, and nine on target to our three, and Eustace himself called the first 20 minutes "really disappointing" and the goals "very soft".
 
-The gap matters too. We're two points behind Burnley and four behind Watford, and we've now lost 8 of 13.
+To be fair to him, the second half was better. We battled, we created chances through Brewster, Szmodics and Fuseini, and Crocombe had to make saves. It only took a game that was already gone to show it.
 
-Norwich at Pride Park on Tuesday doesn't leave much time to fix anything. Norwich are 15th on 15 points, so they're not flying either, but we're short of both confidence and bodies, and a home game against a mid-table side is exactly the sort we should be taking points from. [Add what Derby need to change, plus any availability news.]
+The back four is the obvious problem. Seven defenders out and a makeshift line is a genuine excuse, but at some point the question becomes why the squad has so few options at the back, rather than who's available.
+
+The gap matters too. We're two points behind Burnley and four behind Watford, and we've lost 8 of 13.
+
+The good news is we don't have long to dwell. Norwich are at Pride Park on Tuesday (they're 15th), then it's Bolton at home on Friday night, and they're 19th. Two home games against sides we should be at least competing with, and a chance to put a stop to the winless run before it hits eleven.
 
 
 ## Standings
@@ -124,6 +135,18 @@ Derby are now 23rd in the table with 7 points from 13 games and a goal differenc
 > - @iamzavagno.bsky.social
 
 
+## Eustace Said
+
+> "We've got a lot of injuries at the back at the moment - seven defenders out - and it's only a makeshift defence."
+> - John Eustace, BBC Radio Derby
+
+> "But we have to defend better if we want to get any results in games, and certainly in that first 20 minutes we didn't do it."
+> - John Eustace, BBC Radio Derby
+
+> "That first 20 minutes was really disappointing. The manner we conceded the goals was very soft. But I was happy with the response after half-time. We battled and showed a good spirit."
+> - John Eustace, BBC Radio Derby
+
+
 ## Find More SuperRams
 
 More Rams chat, every day, not just matchday:
@@ -134,7 +157,7 @@ More Rams chat, every day, not just matchday:
 
 ## What's Next
 
-Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per [fixtur.es](https://fixtur.es/en/team/derby-county) [date and KO seen on Vavel and several listings, not fixtur.es itself]
+Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per BBC Sport and [fixtur.es](https://fixtur.es/en/team/derby-county)
 ```
 
 ---
@@ -146,13 +169,16 @@ Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per [fixtur.e
 
 ## Still open
 
-- **Card minutes:** Brewster and Morris were booked per the lineup screenshot, but minutes need the timeline tab.
-- **Sub pairings:** who Mowatt, Fuseini, Salvesen, Bilbija and Fraulo replaced.
-- **Eustace quotes:** none available, so the Read has no manager reaction.
-- **Fan quotes:** three Bluesky quotes added, text only and trimmed (Daniel's second paragraph and Ben's closing question left out). Kev's quote mentions Ed Dawes and Pearce without context, so check readers will follow it.
-- **Next fixture:** Norwich at home, Tue 3 Nov, KO 19:45 per Vavel and several listings. Confirm on fixtur.es or dcfc.co.uk before publishing.
+- **Brewster's yellow minute:** Si says 49'. The Google timeline screenshot shows 45'. Draft uses 49', confirm.
+- **Ozoh's sub minute:** Google timeline says 37', dcfc.co.uk says 38' in the text and 41 in the team list. Draft uses 37'.
+- **Sub times:** Meister/Fuseini 57', Szmodics/Bilbija 79' and Brewster/Fraulo 79' are from the Google timeline. The lineup screenshot showed 56', 78' and 78'. Draft uses the timeline.
+- **Cooper's goal:** the club report says he tapped in from the goal line, BBC says Ivanović squared it and he slammed it into the roof. Draft just says he scored.
+- **Cundle's goal:** the sources describe the build-up differently, so the draft doesn't.
+- **Back four:** the Eustace quote is cited for "seven defenders out", but the draft also says Sanderson was suspended, which is from the Sheffield United draft, not these sources. Confirm.
+- **Player write-ups:** bracketed prompts remain for what only watching can add.
+- **Fan quotes:** three Bluesky quotes, text only and trimmed. Kev's mentions Ed Dawes and Pearce without context, so check readers will follow it.
 - **Distance:** 130 miles is a road-distance estimate (Derby to SE16 via the M1), not sourced.
-- **Player tracker:** lives in Google Drive, so it needs updating separately. Squad numbers this match: Robinson #14, Johnston #22, Clark #8.
+- **Player tracker:** lives in Google Drive, so it needs updating separately. Squad numbers this match: Robinson #14, Johnston #22, Clark #8, Mowatt #20, Fuseini #16, Salvesen #15, Bilbija #13, Fraulo #29.
 
 ## Team stats (Millwall v Derby, from Google)
 
@@ -164,7 +190,7 @@ Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per [fixtur.e
 
 ## Sources
 
-- Si's Google match-page screenshots (score, scorers, lineups, bench, stats, standings)
-- [Millwall 4-1 Derby: Lisbie scores twice, Sky Sports](https://www.skysports.com/football/millwall-vs-derby/report/560646)
-- [Report: Lisbie scores a brace, Southwark News](https://southwarknews.co.uk/sport/football/millwall/report-millwall-4-1-derby-county-lisbie-scores-a-brace-as-lions-thrash-woeful-visitors/)
-- [Derby fixtures, Vavel](https://www.vavel.com/en/data/derby-county/fixtures/)
+- Si's Google match-page screenshots (score, scorers, lineups, bench, timeline, stats, standings)
+- [Report: Millwall 4-1 Derby County, dcfc.co.uk](https://www.dcfc.co.uk/news/2026/10/report-millwall-vs-derby-county-202627)
+- [Millwall 4-1 Derby County: Early Lions goal blitz does for Eustace's Rams, BBC Sport](https://www.bbc.co.uk/sport/football/live/cwkgj250xz1pt) (scorers, assists, attendance, Eustace and Neil quotes, upcoming fixtures)
+- [Millwall 4-1 Derby County highlights, Sky Sports](https://www.skysports.com/football/video/13606328/millwall-4-1-derby-county-championship-highlights) (video only)
