@@ -103,7 +103,7 @@ Distance travelled: approximately 130 miles from Pride Park to The Den
 
 ## The Read
 
-Derby are 23rd, with one win in thirteen games. Seven points, a goal difference of -14, no win in nine, and no home win all season. Preston are the only team below us.
+Derby are 23rd, with one win in thirteen games. Seven points, a goal difference of -14, and no win in nine. Preston are the only team below us.
 
 Three goals in 17 minutes at The Den isn't a tactical wobble, it's the team not being switched on. Millwall had 18 shots to our 11, and nine on target to our three, and Eustace himself called the first 20 minutes "really disappointing" and the goals "very soft".
 
@@ -164,7 +164,7 @@ Norwich City - Home - Tuesday 3 November 2026, KO 19:45 (3 days) - per BBC Sport
 
 ## Images
 
-- **Hero image:** Si to edit his Canva template: https://canva.link/zhp1gafamj0uzsa (swap in Millwall crest/colours and "4 - 1"). Can't be autofilled.
+- **Hero image:** `assets/2026-10-31-millwall-4-1-derby/hero-millwall-4-1-derby.jpg` - Si's own design from the Canva template, blue/gold split, both crests, "4 - 1". Use at the top of the post, above The Match.
 - **Standings image:** `assets/2026-10-31-millwall-4-1-derby/standings-21-24.png` - four rows (Watford 21st to Preston 24th), Derby highlighted. Re-rendered from the Google table screenshot in the same style as the Sheffield United one, not a crop of the original. Only one club sits below Derby, so it's four rows rather than five.
 
 ## Still open
