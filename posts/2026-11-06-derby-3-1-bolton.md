@@ -12,8 +12,7 @@
 - **Resolved from BBC screenshots:** sub pairings and minutes (Travis→Mowatt
   73', Fuseini→Fraulo 93', Morris→Salvesen 93'; Google showed 72' / 90+2' —
   BBC used), Brewster's yellow at 90+4', GD -16, Travis is captain.
-- **Assists.** Fuseini has an assist icon (set up Nyambe, per reports) and
-  Morris also has one — presumed Robinson's goal but unconfirmed.
+- **Assists confirmed** (Google match page): Fuseini for Nyambe 46', Morris for Robinson 49'.
 - **Next fixture** supplied by Si (Southampton away, 21 Nov, 12:30); fixtur.es couldn't be checked from here.
 - **Fan quotes** — three Bluesky quotes added from Si's screenshots (a fourth, @derbydaniel.bsky.social, "big amount of relief… can't be a false dawn again", is spare).
 - Bobby Clark "free-kick transformed the game" and Sanderson/Ozoh "lost ground
@@ -81,7 +80,7 @@ Pride Park, Derby
 Leveller at 46' — barely into the second half, and the goal that changed the mood of the whole ground. Set up by Fuseini, finished from close range. Reports are calling it his first professional goal, which would make a Friday night in Derby a decent place to pick one up.
 
 ### Jack Robinson
-49' header, three minutes after Nyambe, and Derby go from losing to winning inside five minutes of the restart. First goal for the club, and a recent signing already earning his keep.
+49' header from a Carlton Morris assist, three minutes after Nyambe, and Derby go from losing to winning inside five minutes of the restart. First goal for the club, and a recent signing already earning his keep.
 
 ### Rhian Brewster
 90+4' — the goal that took it from nervy to done. Booked at 90+4' — the same minute he scored — and a reminder that he's at his most useful when there's space to run into.
@@ -99,7 +98,7 @@ One report credits his free-kick with turning the game after a quiet first half.
 Not the best moments on Bolton's goal — Larrazabal's cross and Rodrigues' finish in the 42nd minute came with both of them a yard behind where they needed to be. Neither of them was bad enough for it to matter in the end, which is the nicest thing we can say.
 
 ### Carlton Morris
-Led the line and is credited with an assist (presumably Robinson's header — to confirm) before making way for Salvesen in stoppage time. More of that, please.
+Led the line and set up Robinson's header for the go-ahead goal before making way for Salvesen in stoppage time. More of that, please.
 
 
 ## Stats Snapshot
