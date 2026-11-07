@@ -129,7 +129,7 @@ But it's a better place to be than 24 hours ago.
 
 Derby are now 23rd in the table with 10 points from 15 games and a goal difference of -16, above Preston North End and below Burnley.
 
-[Insert cropped BBC table image here — Watford (20th) to Preston (24th), last updated 22:07 on 6 November]
+![Standings](../assets/2026-11-06-derby-3-1-bolton/standings-22-24.png)
 
 
 ## In Their Words
@@ -161,5 +161,5 @@ Southampton — Away — Saturday 21 November 2026, KO 12:30 (15 days) — per [
 
 ## Images
 
-- **Hero:** Si's Canva template, https://canva.link/zhp1gafamj0uzsa — swap in Bolton crest and "3-1".
-- **Standings:** crop from Si's table screenshot.
+- **Hero:** `assets/2026-11-06-derby-3-1-bolton/hero-derby-3-1-bolton.jpg` — Si's Canva design (gold/blue split, real crests, "3 - 1"). Use at the top, above The Match.
+- **Standings:** `assets/2026-11-06-derby-3-1-bolton/standings-22-24.png` — cropped from the BBC table: Burnley (22nd), Derby (23rd), Preston (24th).
