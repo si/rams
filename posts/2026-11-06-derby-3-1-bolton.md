@@ -14,7 +14,7 @@
   BBC used), Brewster's yellow at 90+4', GD -16, Travis is captain.
 - **Assists.** Fuseini has an assist icon (set up Nyambe, per reports) and
   Morris also has one — presumed Robinson's goal but unconfirmed.
-- **Next fixture** (fixtur.es unreachable from here).
+- **Next fixture** supplied by Si (Southampton away, 21 Nov, 12:30); fixtur.es couldn't be checked from here.
 - **Fan quotes** — none found; section swapped for a comment prompt.
 - Bobby Clark "free-kick transformed the game" and Sanderson/Ozoh "lost ground
   on Bolton's goal" are from a single ratings write-up (Newsbeep, via search) —
@@ -147,7 +147,7 @@ More Rams chat, every day, not just matchday:
 
 ## What's Next
 
-[TBC] — per fixtur.es
+Southampton — Away — Saturday 21 November 2026, KO 12:30 (15 days) — per [fixtur.es](https://fixtur.es/en/team/derby-county)
 ```
 
 ---
