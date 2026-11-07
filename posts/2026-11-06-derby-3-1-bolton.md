@@ -13,6 +13,7 @@
   73', Fuseini→Fraulo 93', Morris→Salvesen 93'; Google showed 72' / 90+2' —
   BBC used), Brewster's yellow at 90+4', GD -16, Travis is captain.
 - **Assists confirmed** (Google match page): Fuseini for Nyambe 46', Morris for Robinson 49'.
+- **Norwich (h) 4-0 loss, Tue 3 Nov** — acknowledged in The Read using only the score/date/venue supplied by Si; no match details added. Add more if you want it covered properly.
 - **Next fixture** supplied by Si (Southampton away, 21 Nov, 12:30); fixtur.es couldn't be checked from here.
 - **Fan quotes** — three Bluesky quotes added from Si's screenshots (a fourth, @derbydaniel.bsky.social, "big amount of relief… can't be a false dawn again", is spare).
 - Bobby Clark "free-kick transformed the game" and Sanderson/Ozoh "lost ground
@@ -112,6 +113,12 @@ Attendance: 27,536
 
 ```
 ## The Read
+
+A quick word on the game that never got a write-up: Norwich, at home, Tuesday 3 November, lost 4-0.
+
+We didn't get a report out for it, and honestly, after the final whistle most of us weren't in a hurry to relive it either. Consider this the acknowledgement it deserved.
+
+Which makes Friday night more striking — three days after a 4-0 home defeat, the same ground saw a comeback win. It's also why one fan's "I expected another four goals tonight" lands so well in the quotes below.
 
 Seven shots, three goals. Bolton had everything except the result.
 
