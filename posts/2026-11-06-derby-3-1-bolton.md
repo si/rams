@@ -15,7 +15,7 @@
 - **Assists.** Fuseini has an assist icon (set up Nyambe, per reports) and
   Morris also has one — presumed Robinson's goal but unconfirmed.
 - **Next fixture** supplied by Si (Southampton away, 21 Nov, 12:30); fixtur.es couldn't be checked from here.
-- **Fan quotes** — none found; section swapped for a comment prompt.
+- **Fan quotes** — three Bluesky quotes added from Si's screenshots (a fourth, @derbydaniel.bsky.social, "big amount of relief… can't be a false dawn again", is spare).
 - Bobby Clark "free-kick transformed the game" and Sanderson/Ozoh "lost ground
   on Bolton's goal" are from a single ratings write-up (Newsbeep, via search) —
   checked against the match, not a first-hand view.
@@ -134,7 +134,14 @@ Derby are now 23rd in the table with 10 points from 15 games and a goal differen
 
 ## In Their Words
 
-Was the second-half change the answer, or did Bolton just get bored of scoring? Tell us in the comments — and who was your man of the match?
+> "I expected to see another 4 goals tonight, I did not expect 3 of them to be in our favour. What a night, regardless of the wider situation, let's enjoy this tonight. Up the Rams"
+> — @gimjee94.bsky.social
+
+> "Let's enjoy tonight and not get bogged down in the bigger picture stuff. I don't think tonight changes my opinion and I'll be ready to throw water all over Radio Derby's open-top bus parade tomorrow. But for tonight, a big 3 points."
+> — @iamzavagno.bsky.social
+
+> "There is more to the problems at Derby than a lengthy injury list but what a huge difference experienced defenders, in something approaching their correct positions, makes. Duffy organising the back line with authority is something we have desperately missed."
+> — @apancisi.bsky.social
 
 
 ## Find More SuperRams
