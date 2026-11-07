@@ -9,12 +9,9 @@
 
 ## Still open before publishing
 
-- **Sub pairings.** Screenshot shows Travis, Fuseini and Morris came off, and
-  Mowatt (72'), Salvesen (90+2') and Fraulo (90+2') came on, but not who
-  replaced whom. Marked `TBC` below.
-- **Brewster's booking minute** (yellow icon visible, no minute).
-- **Goal difference** — GD column is cut off in the table screenshot. Derby
-  have scored 14; goals against not visible.
+- **Resolved from BBC screenshots:** sub pairings and minutes (Travis→Mowatt
+  73', Fuseini→Fraulo 93', Morris→Salvesen 93'; Google showed 72' / 90+2' —
+  BBC used), Brewster's yellow at 90+4', GD -16, Travis is captain.
 - **Assists.** Fuseini has an assist icon (set up Nyambe, per reports) and
   Morris also has one — presumed Robinson's goal but unconfirmed.
 - **Next fixture** (fixtur.es unreachable from here).
@@ -61,7 +58,7 @@ Pride Park, Derby
 ⚪ #25 — Shane Duffy
 ⚪ #28 — Dion Sanderson
 ⚪ #14 — Jack Robinson
-⚪ #27 — Lewis Travis
+⚪ #27 — Lewis Travis (c)
 ⚪ #4 — David Ozoh
 ⚪ #16 — Mohammed Fuseini
 ⚪ #8 — Bobby Clark
@@ -73,11 +70,9 @@ Pride Park, Derby
 
 ## Subs
 
-**72'** TBC ↓ · ↑ Alex Mowatt
-**90+2'** TBC ↓ · ↑ Salvesen
-**90+2'** TBC ↓ · ↑ Fraulo
-
-(Off, in some order: Travis, Fuseini, Morris)
+**73'** Travis ↓ · ↑ Mowatt
+**93'** Fuseini ↓ · ↑ Fraulo
+**93'** Morris ↓ · ↑ Salvesen
 
 
 ## The People, Not Just the Sheet
@@ -89,13 +84,13 @@ Leveller at 46' — barely into the second half, and the goal that changed the m
 49' header, three minutes after Nyambe, and Derby go from losing to winning inside five minutes of the restart. First goal for the club, and a recent signing already earning his keep.
 
 ### Rhian Brewster
-90+4' — the goal that took it from nervy to done. Booked along the way, scored at the end, and a reminder that he's at his most useful when there's space to run into.
+90+4' — the goal that took it from nervy to done. Booked at 90+4' — the same minute he scored — and a reminder that he's at his most useful when there's space to run into.
 
 ### Shane Duffy
 Debut after a fortnight on a short-term deal, started and was credited with a key block. Experience is what Eustace said had been missing all season and here it was, in a back four that had to deal with Bolton having the ball for 70% of the night.
 
 ### Mohammed Fuseini
-Assist for Nyambe's equaliser, then hooked later on. Did the job of the night's most important pass without needing to be the headline.
+Assist for Nyambe's equaliser, then off for Fraulo in stoppage time. Did the job of the night's most important pass without needing to be the headline.
 
 ### Bobby Clark
 One report credits his free-kick with turning the game after a quiet first half. We'll take that, because he'd been quiet.
@@ -104,13 +99,13 @@ One report credits his free-kick with turning the game after a quiet first half.
 Not the best moments on Bolton's goal — Larrazabal's cross and Rodrigues' finish in the 42nd minute came with both of them a yard behind where they needed to be. Neither of them was bad enough for it to matter in the end, which is the nicest thing we can say.
 
 ### Carlton Morris
-Led the line and is credited with an assist (presumably Robinson's header — to confirm) before making way. More of that, please.
+Led the line and is credited with an assist (presumably Robinson's header — to confirm) before making way for Salvesen in stoppage time. More of that, please.
 
 
 ## Stats Snapshot
 
 Goals: 46' Ryan Nyambe, 49' Jack Robinson, 90+4' Rhian Brewster (Bolton: 42' Rúben Rodrigues)
-Bookings: (TBC) Rhian Brewster, yellow
+Bookings: (90+4') Rhian Brewster, yellow
 Attendance: 27,536
 ```
 
@@ -132,9 +127,9 @@ But it's a better place to be than 24 hours ago.
 
 ## Standings
 
-Derby are now 23rd in the table with 10 points from 15 games and a goal difference of [TBC], above Preston North End and below Burnley.
+Derby are now 23rd in the table with 10 points from 15 games and a goal difference of -16, above Preston North End and below Burnley.
 
-[Insert cropped table image here — Norwich through Preston, or just Charlton (21st) to Preston (24th)]
+[Insert cropped BBC table image here — Watford (20th) to Preston (24th), last updated 22:07 on 6 November]
 
 
 ## In Their Words
