@@ -31,9 +31,9 @@ Derby 3-1 Bolton: the first win in 11 games, and we did it with 30% of the ball 
 ## Public preview (above the paywall)
 
 ```
-Eleven games without a win. A first home victory of the season. And somehow it came with Bolton having 70% of the ball.
+The first win in 11 games. A first home victory of the season. And somehow it came with Bolton having 70% of the ball.
 
-Behind at half-time, Derby were level four minutes after the restart and in front three minutes after that.
+Behind at half-time, Derby were level a minute into the second half and in front by the 49th minute.
 
 Rhian Brewster made sure of it in the fourth minute of stoppage time.
 
@@ -84,7 +84,7 @@ Leveller at 46' — barely into the second half, and the goal that changed the m
 49' header from a Carlton Morris assist, three minutes after Nyambe, and Derby go from losing to winning inside five minutes of the restart. First goal for the club, and a recent signing already earning his keep.
 
 ### Rhian Brewster
-90+4' — the goal that took it from nervy to done. Booked at 90+4' — the same minute he scored — and a reminder that he's at his most useful when there's space to run into.
+The goal that took it from nervy to done, in the fourth minute of stoppage time. Booked in the same minute, which is a price worth paying — and a reminder he's at his most useful when there's space to run into.
 
 ### Shane Duffy
 Debut after a fortnight on a short-term deal, started and was credited with a key block. Experience is what Eustace said had been missing all season and here it was, in a back four that had to deal with Bolton having the ball for 70% of the night.
@@ -96,7 +96,7 @@ Assist for Nyambe's equaliser, then off for Fraulo in stoppage time. Did the job
 One report credits his free-kick with turning the game after a quiet first half. We'll take that, because he'd been quiet.
 
 ### Dion Sanderson and David Ozoh
-Not the best moments on Bolton's goal — Larrazabal's cross and Rodrigues' finish in the 42nd minute came with both of them a yard behind where they needed to be. Neither of them was bad enough for it to matter in the end, which is the nicest thing we can say.
+One write-up has both losing ground on Bolton's goal — Larrazabal's cross and Rodrigues' finish in the 42nd minute. It didn't matter in the end, which is the nicest thing we can say.
 
 ### Carlton Morris
 Led the line and set up Robinson's header for the go-ahead goal before making way for Salvesen in stoppage time. More of that, please.
@@ -107,11 +107,7 @@ Led the line and set up Robinson's header for the go-ahead goal before making wa
 Goals: 46' Ryan Nyambe, 49' Jack Robinson, 90+4' Rhian Brewster (Bolton: 42' Rúben Rodrigues)
 Bookings: (90+4') Rhian Brewster, yellow
 Attendance: 27,536
-```
 
-(Possession: Derby 30% – 70% Bolton. Shots 7 – 11, on target 5 – 7. Passes 222 – 553. Derby scored three from five on target.)
-
-```
 ## The Read
 
 A quick word on the game that never got a write-up: Norwich, at home, Tuesday 3 November, lost 4-0.
