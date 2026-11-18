@@ -21,3 +21,7 @@ number instead. Leave blank where not applicable (Bluesky, X).
 | 2026-10-05 | Facebook | 1,357 | | vs 31 Aug's 1,347, +10 over the 5-week gap. |
 | 2026-10-05 | Patreon | | 5 | Unchanged since tracking began. |
 | 2026-10-05 | X | 12,225 | | Via Plucker. vs 31 Aug's 12,227, -2 over the 5-week gap — essentially flat. |
+| 2026-11-18 | Bluesky | 670 | | vs 5 Oct's 666, +4 over the 6-week gap. |
+| 2026-11-18 | Patreon | | 9 | vs 5 Oct's 5, +4 — first real movement since tracking began (had been flat at 5 for three straight checks). Worth a mention if there's a patron shout-out due. |
+| 2026-11-18 | X | 12,192 | | Via Plucker. vs 5 Oct's 12,225, -33 over the 6-week gap — the largest single-period drop logged so far, though still small in percentage terms. |
+| 2026-11-18 | Facebook | | | Not checked this time — Si didn't report a number. |
