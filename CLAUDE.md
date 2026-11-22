@@ -1,5 +1,21 @@
 # SuperRams repo notes
 
+## Branch naming
+
+Every new branch follows `[season]-[opposition]-[home|away]`, all lowercase
+with hyphens:
+
+- season: the season it belongs to, e.g. `2026-27` (seasons run August to May)
+- opposition: the other club's name slugged the same way as the crest files,
+  e.g. `southampton`, `sheffield-united`, `preston-north-end`
+- home or away: from Derby's point of view
+
+Examples: `2026-27-southampton-away`, `2026-27-burnley-home`.
+
+Use this for anything tied to a fixture (previews, socials, Patreon posts,
+standings images). If a session is told to use a different branch name, ask
+Si before going against this pattern.
+
 ## Scheduling posts on Buffer
 
 New social posts can be scheduled straight from Claude using `tools/buffer.py`
