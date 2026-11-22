@@ -242,18 +242,18 @@ re-discovering it each week.
   its own heading styles on paste, but **verify after pasting** the same
   way as the ⚪ icon above — if a heading pastes as plain text instead,
   reapply Patreon's heading style by hand rather than leaving it flat.
-- Canva MCP image generation has been unreliable in this environment
-  (permission/approval errors on save). If it fails, generate the design
-  anyway, then manually download it from the Canva web link and upload it to
-  Patreon directly — don't block the post on the automation working.
-- **WebFetch is blocked for essentially every sports domain tried in this
-  environment** — dcfc.co.uk, Sky Sports, Shropshire Star, fixtur.es,
-  footballwebpages.co.uk, worldfootball.net, even en.wikipedia.org have all
-  returned `EGRESS_BLOCKED`. In practice this means fixture dates and the
-  league table snapshot come from WebSearch's summarized snippets, not a
-  page read directly — cite fixtur.es as the reference per #10/#11 above
-  regardless, but flag when the underlying numbers are search-summary-only
-  rather than fetched and cross-checked.
+- Don't use Canva MCP image generation for the hero image; it was
+  unreliable here. `tools/cover_image.js` replaces it (see "Hero image").
+- For a club not in `tools/crests/` or `tools/club_colours.json` (cup
+  opponents, promoted clubs), pull its crest from ESPN's team list (see
+  `tools/crests/README.md`) and add a spot colour before running the script.
+- **Network access is limited to an allow list.** Reachable: `*.bbc.co.uk`,
+  `*.dcfc.co.uk`, `site.api.espn.com` and `a.espncdn.com` (plus package
+  registries). Prefer BBC Sport's match page and ESPN's API for score,
+  lineups and the table. Most other sports sites (Sky Sports, fixtur.es,
+  worldfootball.net, Wikipedia) are blocked, so anything from them comes via
+  WebSearch snippets: flag those as search-summary-only rather than fetched
+  and cross-checked.
 
 ## Data-gathering checklist
 
