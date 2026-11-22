@@ -286,6 +286,7 @@ Before drafting, confirm:
 - [ ] Find More SuperRams CTA block included (standard, every post — see
       "Post structure" #13)
 - [ ] Hero image generated with `tools/cover_image.js` and checked (see "Hero image" section)
+- [ ] Patreon handoff page generated, published and linked (see "Final step before merging")
 
 ## Reference material
 
@@ -294,4 +295,3 @@ Before drafting, confirm:
   one file per post)
 - Wider content strategy: `superrams-fan-voices-launch-plan.md` (Google Drive)
 - Season-long stats: `SuperRams — Player Tracker 2026-27` (Google Sheet)
-- [ ] Patreon handoff page generated, published and linked (see "Final step before merging")
