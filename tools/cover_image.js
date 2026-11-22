@@ -29,7 +29,7 @@ const crest = team => {
 const args = process.argv.slice(2);
 const flag = n => { const i = args.indexOf(n); return i < 0 ? null : args.splice(i, 2)[1]; };
 const homeColour = flag('--home-colour'), awayColour = flag('--away-colour');
-const fontFile = flag('--font') || path.join(DIR, 'fonts', 'graduate.woff2');
+const fontFile = flag('--font') || path.join(DIR, 'fonts', 'alfa-slab-one.woff2');
 const [out, home, away, score] = args;
 if (!score) { console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0"'); process.exit(1); }
 
@@ -46,10 +46,10 @@ const side = (team, x) => `
   <div class="name" style="left:${x - 360}px">${esc(team)}</div>`;
 
 const html = `<!doctype html><html><head><style>
-@font-face { font-family: Graduate; src: url(${dataUri(fontFile)}); }
+@font-face { font-family: CoverFont; src: url(${dataUri(fontFile)}); }
 * { margin: 0; box-sizing: border-box; }
 body { width: 1920px; height: 1080px; position: relative; overflow: hidden;
-       background: ${colour(away, awayColour)}; font-family: Graduate; color: #fff; }
+       background: ${colour(away, awayColour)}; font-family: CoverFont; color: #fff; }
 .home { position: absolute; inset: 0; background: ${colour(home, homeColour)};
         clip-path: polygon(0 0, 1110px 0, 790px 1080px, 0 1080px); }
 .badge { position: absolute; top: 257px; width: 256px; height: 256px; border-radius: 50%;
@@ -61,10 +61,13 @@ body { width: 1920px; height: 1080px; position: relative; overflow: hidden;
 .name { position: absolute; width: 720px; top: 700px; transform: translateY(-50%);
         text-align: center; font-size: 128px; line-height: 132px; text-transform: uppercase;
         -webkit-text-stroke: 8px #000; paint-order: stroke fill; }
+.mark { position: absolute; left: 0; right: 0; bottom: 36px; text-align: center;
+        font-size: 30px; letter-spacing: 3px; color: rgba(255,255,255,0.55); }
 </style></head><body>
 <div class="home"></div>
 ${side(home, 533)}${side(away, 1385)}
 <div class="score">${esc(score)}</div>
+<div class="mark">SuperRams.com</div>
 </body></html>`;
 
 (async () => {

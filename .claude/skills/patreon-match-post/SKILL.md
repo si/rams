@@ -180,7 +180,8 @@ plain-text approach the Rotherham example used.
 Generate it with `tools/cover_image.js` (1920x1080 JPG), which recreates
 Si's Canva cover style: diagonal split in each club's spot colour (home
 left, away right), crests in white circles, score in the middle, club names
-underneath in white Graduate (collegiate) type with a black outline.
+underneath in white Alfa Slab One with a black outline, and a subtle
+SuperRams.com watermark bottom centre.
 
 ```
 node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>"
