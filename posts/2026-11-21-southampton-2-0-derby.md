@@ -69,7 +69,7 @@ St Mary's Stadium, Southampton
 Back in the side in place of Lewis Travis, and part of a midfield that kept Southampton to one first-half shot on target. For a side that's been shipping goals all season, that's a half we'd have bitten your hand off for. [Add anything from watching on how he ran the middle.]
 
 ### David Ozoh
-Booked on 49' for what the live text calls a "bad foul", then hooked on 77'. Second week running he's been the first name in the notebook. Somebody needs to tell him the referee isn't on our side, and neither is the disciplinary points table.
+Booked on 49' for what the live text calls a "bad foul", then hooked on 77'. Our only booking of the afternoon, and four minutes into the second half isn't the time to be giving the referee ideas.
 
 ### Henrik Meister
 On for Fuseini on 61', off again on 83' with an injury. Twenty-two minutes. After the Birmingham collapse and the Bramall Lane knock, it's now three scares in a handful of games, and at this point we'd quite like him wrapped in cotton wool before Wolves. [Add any update on the injury once Eustace or the club says something.]
