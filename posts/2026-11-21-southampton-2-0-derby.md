@@ -144,7 +144,7 @@ Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3
 
 ## Images
 
-- **Hero image:** edit the Canva template, https://canva.link/zhp1gafamj0uzsa (red/white for Saints vs Derby, "2 - 0"). Save to `assets/2026-11-21-southampton-2-0-derby/`.
+- **Hero image:** generated with `tools/cover_image.js`, saved as `assets/2026-11-21-southampton-2-0-derby/hero-southampton-2-0-derby.jpg`.
 - **Standings image:** crop of the table around Derby, to `assets/2026-11-21-southampton-2-0-derby/standings.png`.
 
 ## Still open

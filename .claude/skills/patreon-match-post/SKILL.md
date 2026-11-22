@@ -177,33 +177,24 @@ plain-text approach the Rotherham example used.
 
 ## Hero image
 
-Si has a standard Canva template for the lead image at the top of every
-match post: split-colour background (each club's colour), both clubs'
-real crests, "<score>" in the middle, club names underneath in a bold
-collegiate-style font. Established with the Burnley 1-1 Derby post (19
-September 2026).
+Generate it with `tools/cover_image.js` (1920x1080 JPG), which recreates
+Si's Canva cover style: diagonal split in each club's spot colour (home
+left, away right), crests in white circles, score in the middle, club names
+underneath in white Graduate (collegiate) type with a black outline.
 
-- **Design link**: https://canva.link/zhp1gafamj0uzsa (design ID
-  `DAHRbhLALLw` once resolved — same underlying design as the earlier
-  "Instagram Post - ROTHERHAM 1-1 DERBY" file, repurposed as the
-  standing template rather than a new design each time).
-- **Give Si this link every time a new match post is drafted**, so he can
-  open it directly and swap in the new teams/crests/score himself, rather
-  than making him hunt for it. Don't skip this even if the hero image
-  itself is out of scope for a given request.
-- **Can't be autofilled or edited directly by Claude**: `get-design-dataset`
-  on this design returns an empty schema, i.e. no autofill fields are
-  defined, so there's no scripted way to swap in the new score/teams via
-  the Canva MCP tools available here — Si edits it by hand in Canva. If
-  he wants this automated later, the design would need proper autofill
-  fields added in Canva (turning it into a template with named text/image
-  placeholders) — worth a one-off ask if the manual edit becomes a chore.
-- Earlier attempts at generating a hero image from scratch with
-  `generate-design` only ever produced wordmark-only graphics with no
-  real crests (network access to fetch real club badges is blocked in
-  this environment, and Canva's own stock library doesn't carry them) —
-  Si's own template supersedes that approach entirely. Don't suggest
-  regenerating one via `generate-design` while this template exists.
+```
+node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>"
+```
+
+- Team names must match `tools/club_colours.json` / the crest slugs
+  (e.g. "Derby County", "Preston North End"). Derby uses the ram head
+  (`tools/crests/derby-county.svg`), everyone else their ESPN crest.
+- Override a colour with `--home-colour "#hex"` / `--away-colour "#hex"`
+  if a kit/crest colour reads better for that fixture.
+- Look at the output before using it: long names auto-shrink to stay on
+  their side of the diagonal, but check nothing crosses it.
+- Si's original Canva template is still at https://canva.link/zhp1gafamj0uzsa
+  if he wants to hand-tweak one.
 
 ## Tone rules
 
@@ -277,7 +268,7 @@ Before drafting, confirm:
       rendered with `tools/standings_image.py`
 - [ ] Find More SuperRams CTA block included (standard, every post — see
       "Post structure" #13)
-- [ ] Hero-image template link given to Si (see "Hero image" section)
+- [ ] Hero image generated with `tools/cover_image.js` and checked (see "Hero image" section)
 
 ## Reference material
 

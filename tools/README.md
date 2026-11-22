@@ -76,3 +76,11 @@ python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --now 
 
 There's no Facebook channel connected in Buffer, so Facebook copy still needs
 posting by hand.
+
+## Cover images
+
+`node tools/cover_image.js <out.jpg> "<Home>" "<Away>" "<score>"` renders the
+1920x1080 match cover: diagonal split in club spot colours
+(`club_colours.json`), crests in white circles (`crests/`), score and names in
+white Graduate type (`fonts/graduate.woff2`, OFL). Uses the pre-installed
+Playwright/Chromium. `--home-colour` / `--away-colour` override a colour.
