@@ -102,9 +102,15 @@ Ten points from sixteen. Wolves away on Tuesday doesn't get any easier, and with
 
 ## Standings
 
-Derby are now 23rd in the table with 10 points from 16 games and a goal difference of -18, above [24th] and below [22nd].
+Derby are now 23rd in the table with 10 points from 16 games and a goal difference of -18, above Preston North End and below Burnley.
 
-[Insert `assets/2026-11-21-southampton-2-0-derby/standings.png` here - crop of the table around Derby]
+- 20. Lincoln City — P16 · Pts15 · GD-12
+- 21. Watford — P16 · Pts15 · GD-14
+- 22. Burnley — P15 · Pts10 · GD-9
+- **23. Derby County — P16 · Pts10 · GD-18**
+- 24. Preston North End — P16 · Pts9 · GD-17
+
+Five points from safety, and Burnley have a game in hand.
 
 
 ## In Their Words
@@ -140,7 +146,7 @@ Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3
 - **Formation:** sources split between 4-2-3-1 and 3-5-2.
 - **Subs:** Sky Sports and the Southampton report agree on the 77' trio (Bilbija for Clark, Fraulo for Ozoh, Salvesen for Morris). Yahoo swaps them around. Meister's exit is given as 83' by Sky but 60'/61' by other sources, which would be impossible since he came on at 61'. Treat 83' as most likely.
 - **Zetterström going up for the corner:** one search summary only. Verify before publishing.
-- **Table:** 23rd, 10 pts, P16, GD -18 lines up with the pre-match Squawka figures (P15, GD -16) plus a 2-0 defeat, but the neighbours above and below aren't confirmed. Needs your screenshot.
+- **Table:** from eflchampionship.co.uk via search summary (computed from results, so no points deductions applied), after Saturday's games. Derby's line matches the pre-match Squawka figures plus the 2-0. Preston is the shaky one: Football Web Pages says 11 points, which would put them above us, but 9 fits their 8 from 15 plus Saturday's 1-1 at West Ham. **Burnley play Blackburn at home today (Sunday 22 Nov, 12:00)**, so 22nd may change before this goes out. Burnley's GD is -9, nine better than ours, so they stay above us whatever happens; only the gap and their games played change (and the "game in hand" line goes). Swap in a screenshot crop if you'd rather use the image format.
 - **Wolves kick-off:** ESPN lists 3:00 PM US Eastern, which would be 20:00 UK. Midweek Championship is usually 19:45 or 20:00, so check fixtur.es.
 - **Distance:** approximate, by road.
 - **Eustace quotes:** the dcfc.co.uk post-match is video-only/unreadable here. No quotes used.
