@@ -1,0 +1,162 @@
+# Draft: Southampton 2-0 Derby County
+
+- **Published:** not yet, drafted against the `patreon-match-post` skill format.
+- **Fixture:** EFL Championship, Matchday 16, St Mary's, Saturday 21 November 2026, KO 12:30 - Derby away.
+- **Status:** score, scorers, XI, subs, bookings and attendance come from search summaries of the Southampton FC report, Sky Sports live commentary, Derby's team news and dave.sport. No page could be fetched directly (network blocks), so nothing here is cross-checked against a full report. Square brackets mark the parts that need you. See "Still open" at the bottom.
+
+---
+
+## Title field
+
+```
+Southampton 2-0 Derby: 57 minutes of looking fine, then the usual
+```
+
+## Public preview (above the paywall)
+
+```
+For nearly an hour at St Mary's, Derby were doing a decent job of keeping the Championship's best home side quiet.
+
+Then Cyle Larin, back from a hamstring injury, scored on 57 minutes, because of course he did.
+
+We threw everything forward late on, and Divin Mubama ran the length of our half unopposed in the fifth minute of added time to finish it.
+
+Southampton are now 18 unbeaten at home. We're still 23rd.
+
+Full breakdown for patrons below 👇
+```
+
+## Patrons-only body (below the paywall)
+
+```
+## The Match
+
+EFL Championship, Matchday 16
+Southampton vs Derby County
+Saturday 21 November 2026, KO 12:30
+St Mary's Stadium, Southampton
+
+
+## Starting XI Rams
+
+⚪ #1 — Jacob Widell Zetterström
+⚪ #24 — Ryan Nyambe
+⚪ #28 — Dion Sanderson
+⚪ #TBC — Duffy
+⚪ #TBC — Robinson
+⚪ #4 — David Ozoh
+⚪ #20 — Alex Mowatt
+⚪ #16 — Mohammed Fuseini
+⚪ #8 — Bobby Clark
+⚪ #10 — Rhian Brewster
+⚪ #9 — Carlton Morris (c)
+
+([formation TBC: sources split between 4-2-3-1 and 3-5-2])
+
+
+## Subs
+
+**61'** Fuseini ↓ · ↑ Meister
+**77'** Clark ↓ · ↑ Bilbija
+**77'** Ozoh ↓ · ↑ Fraulo
+**77'** Morris ↓ · ↑ Salvesen
+**83'** Meister ↓ · ↑ Blackett-Taylor
+
+
+## The People, Not Just the Sheet
+
+### Alex Mowatt
+Back in the side in place of Lewis Travis, and part of a midfield that kept Southampton to one first-half shot on target. For a side that's been shipping goals all season, that's a half we'd have bitten your hand off for. [Add anything from watching on how he ran the middle.]
+
+### David Ozoh
+Booked on 49' for what the live text calls a "bad foul", then hooked on 77'. Second week running he's been the first name in the notebook. Somebody needs to tell him the referee isn't on our side, and neither is the disciplinary points table.
+
+### Henrik Meister
+On for Fuseini on 61', off again on 83' with an injury. Twenty-two minutes. After the Birmingham collapse and the Bramall Lane knock, it's now three scares in a handful of games, and at this point we'd quite like him wrapped in cotton wool before Wolves. [Add any update on the injury once Eustace or the club says something.]
+
+### Jacob Zetterström
+[Add one or two saves from the highlights.] Reports say Mubama's goal came on the break from a Derby corner, with the keeper up the other end. [Confirm whether JWZ actually went up; if so, this is the funniest/saddest bit of the day and deserves its own line.]
+
+### Carlton Morris
+Captain again, and off on 77' as we chased it. Larin got his eighth of the season for them in his first game back. [Add Morris's own season tally once the tracker's up to date; it's stale, so don't trust it for this.]
+
+
+## Stats Snapshot
+
+Goals: none for Derby (Southampton: 57' Larin, 90+5' Mubama)
+Bookings: (49') David Ozoh, yellow
+Attendance: 28,381. Away fans figure not published.
+Distance travelled: approximately 165 miles from Pride Park to St Mary's
+
+
+## The Read
+
+Losing at St Mary's isn't a scandal. They're unbeaten in 18 at home and we're not exactly the side to end that.
+
+What hurts is the pattern. We hang in, we look organised, then one moment and it's gone. That's the difference between 23rd and 20th, and we've not fixed it in 16 games.
+
+Ten points from sixteen. Wolves away on Tuesday doesn't get any easier, and with Meister's fitness a question mark again, Eustace is running short of answers up top.
+
+[Add an Eustace quote here once the dcfc.co.uk post-match interview is available. Dion Sanderson also did a post-match interview.]
+
+
+## Standings
+
+Derby are now 23rd in the table with 10 points from 16 games and a goal difference of -18, above [24th] and below [22nd].
+
+[Insert `assets/2026-11-21-southampton-2-0-derby/standings.png` here - crop of the table around Derby]
+
+
+## In Their Words
+
+[No fan quotes pulled: Bluesky and Facebook weren't reachable from this session. Either paste two or three in, or swap this section for the prompt below.]
+
+Were you at St Mary's? Did Zetterström really go up for that corner, and whose idea was it? Tell us in the comments 👇
+
+
+## Find More SuperRams
+
+More Rams chat, every day, not just matchday:
+🔵 Bluesky: https://bsky.app/profile/derbycounty.bsky.social
+📘 Facebook: https://www.facebook.com/derbycountyrams
+🐦 X: https://x.com/derbycounty
+
+
+## What's Next
+
+Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3 days) — per fixtur.es
+```
+
+---
+
+## Images
+
+- **Hero image:** edit the Canva template, https://canva.link/zhp1gafamj0uzsa (red/white for Saints vs Derby, "2 - 0"). Save to `assets/2026-11-21-southampton-2-0-derby/`.
+- **Standings image:** crop of the table around Derby, to `assets/2026-11-21-southampton-2-0-derby/standings.png`.
+
+## Still open
+
+- **Squad numbers:** Duffy and Robinson are `#TBC` (first names not confirmed either). Nyambe #24 comes from the Sheffield United post; the tracker still has him as TBC.
+- **Formation:** sources split between 4-2-3-1 and 3-5-2.
+- **Subs:** Sky Sports and the Southampton report agree on the 77' trio (Bilbija for Clark, Fraulo for Ozoh, Salvesen for Morris). Yahoo swaps them around. Meister's exit is given as 83' by Sky but 60'/61' by other sources, which would be impossible since he came on at 61'. Treat 83' as most likely.
+- **Zetterström going up for the corner:** one search summary only. Verify before publishing.
+- **Table:** 23rd, 10 pts, P16, GD -18 lines up with the pre-match Squawka figures (P15, GD -16) plus a 2-0 defeat, but the neighbours above and below aren't confirmed. Needs your screenshot.
+- **Wolves kick-off:** ESPN lists 3:00 PM US Eastern, which would be 20:00 UK. Midweek Championship is usually 19:45 or 20:00, so check fixtur.es.
+- **Distance:** approximate, by road.
+- **Eustace quotes:** the dcfc.co.uk post-match is video-only/unreadable here. No quotes used.
+- **Fan quotes:** none pulled.
+- **Player tracker:** last updated 10 October, so it's missing at least Sheffield United, Millwall and everything since. Not updated by this draft.
+
+## Sources
+
+- [Southampton FC match report](https://www.southamptonfc.com/en/news/article/report-larin-strikes-on-return-as-saints-defeat-derby)
+- [Sky Sports report](https://www.skysports.com/football/news/13611552/southampton-2-0-derby-cyle-larin-and-divin-mubama-strike-in-saints-win)
+- [Sky Sports live commentary](https://www.skysports.com/football/southampton-vs-derby/live/560685)
+- [Derby team news (dcfc.co.uk)](https://www.dcfc.co.uk/news/2026/11/team-news-southampton-a)
+- [dave.sport confirmed line-ups](https://dave.sport/news/southampton-vs-derby-confirmed-line-ups/)
+- [dave.sport result](https://dave.sport/news/southampton-vs-derby-result-november-2026/)
+- [Tufutbolero (bookings)](https://www.tufutbolero.com/en/news/southampton-2-0-derby-larin-and-mubama-score-at-st-mary-s-5d492e)
+- [Yahoo Sports](https://uk.sports.yahoo.com/news/larin-scores-injury-return-saints-142800684.html)
+- [Squawka preview (pre-match table)](https://squawka.com/en/news/previews/southampton-vs-derby-county-predictions-today-21-11-2026)
+- [ESPN Derby fixtures](https://www.espn.com/soccer/team/fixtures/_/id/374/derby-county)
+- [Post-match: Dion Sanderson (dcfc.co.uk)](https://www.dcfc.co.uk/news/2026/11/post-match-dion-sanderson-southampton-a)
