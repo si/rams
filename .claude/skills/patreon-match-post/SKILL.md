@@ -182,7 +182,7 @@ Si's Canva cover style: diagonal split in each club's spot colour (home
 left, away right), crests in white circles, score in the middle, club names
 underneath in white Alfa Slab One with a black outline, "EFL Championship <Day D Mon YYYY>"
 across the top (`--competition` to change it for cup games) and a subtle
-SuperRams.com watermark on the diagonal at the bottom.
+SUPERRAMS.COM watermark bottom centre.
 
 ```
 node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>" --date YYYY-MM-DD

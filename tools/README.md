@@ -82,5 +82,5 @@ posting by hand.
 `node tools/cover_image.js <out.jpg> "<Home>" "<Away>" "<score>" --date YYYY-MM-DD` renders the
 1920x1080 match cover: diagonal split in club spot colours
 (`club_colours.json`), crests in white circles (`crests/`), score and names in
-white Alfa Slab One type (`fonts/alfa-slab-one.woff2`, OFL), with "EFL Championship Sat 21 Nov 2026" style header (`--competition` overrides) and a subtle SuperRams.com watermark on the diagonal. Uses the pre-installed
+white Alfa Slab One type (`fonts/alfa-slab-one.woff2`, OFL), with "EFL Championship Sat 21 Nov 2026" style header (`--competition` overrides) and a subtle SUPERRAMS.COM watermark bottom centre. Uses the pre-installed
 Playwright/Chromium. `--home-colour` / `--away-colour` override a colour.

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Match cover art: diagonal split in each club's spot colour, crests in white
 // circles, score in the middle, club names underneath in Alfa Slab One,
-// competition and date along the top, SuperRams.com watermark on the diagonal.
+// competition and date along the top, SuperRams.com watermark bottom centre.
 //
 // Usage: node tools/cover_image.js <out.jpg|png> "<Home team>" "<Away team>" "<score>" --date YYYY-MM-DD
 //          [--competition "EFL Championship"]
@@ -73,9 +73,8 @@ body { width: 1920px; height: 1080px; position: relative; overflow: hidden;
         -webkit-text-stroke: 8px #000; paint-order: stroke fill; }
 .top { position: absolute; left: 0; right: 0; top: 70px; text-align: center;
        font-size: 48px; letter-spacing: 2px; -webkit-text-stroke: 6px #000; paint-order: stroke fill; }
-/* centred on the diagonal (x = 1110 - 320 * y / 1080) near the bottom edge */
-.mark { position: absolute; left: 808px; top: 1020px; transform: translate(-50%, -50%);
-        white-space: nowrap; font-size: 40px; letter-spacing: 3px; color: rgba(255,255,255,0.6); }
+.mark { position: absolute; left: 0; right: 0; bottom: 36px; text-align: center;
+        font-size: 40px; letter-spacing: 8px; text-transform: uppercase; color: rgba(255,255,255,0.6); }
 </style></head><body>
 <div class="home"></div>
 ${side(home, 533)}${side(away, 1385)}
