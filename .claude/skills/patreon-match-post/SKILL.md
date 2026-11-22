@@ -180,11 +180,12 @@ plain-text approach the Rotherham example used.
 Generate it with `tools/cover_image.js` (1920x1080 JPG), which recreates
 Si's Canva cover style: diagonal split in each club's spot colour (home
 left, away right), crests in white circles, score in the middle, club names
-underneath in white Alfa Slab One with a black outline, and a subtle
-SuperRams.com watermark bottom centre.
+underneath in white Alfa Slab One with a black outline, "EFL Championship <Day D Mon YYYY>"
+across the top (`--competition` to change it for cup games) and a subtle
+SuperRams.com watermark on the diagonal at the bottom.
 
 ```
-node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>"
+node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>" --date YYYY-MM-DD
 ```
 
 - Team names must match `tools/club_colours.json` / the crest slugs

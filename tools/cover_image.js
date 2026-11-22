@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 // Match cover art: diagonal split in each club's spot colour, crests in white
-// circles, score in the middle, club names underneath in a collegiate font.
+// circles, score in the middle, club names underneath in Alfa Slab One,
+// competition and date along the top, SuperRams.com watermark on the diagonal.
 //
-// Usage: node tools/cover_image.js <out.jpg|png> "<Home team>" "<Away team>" "<score>"
+// Usage: node tools/cover_image.js <out.jpg|png> "<Home team>" "<Away team>" "<score>" --date YYYY-MM-DD
+//          [--competition "EFL Championship"]
 //          [--home-colour "#hex"] [--away-colour "#hex"] [--font path/to/font.woff2]
-// e.g.   node tools/cover_image.js hero.jpg "Southampton" "Derby County" "2 - 0"
+// e.g.   node tools/cover_image.js hero.jpg "Southampton" "Derby County" "2 - 0" --date 2026-11-21
 //
 // Crests: tools/crests/<team-slug>.svg if present, else <team-slug>.png.
 // Colours: tools/club_colours.json, overridable with the flags above.
@@ -29,9 +31,17 @@ const crest = team => {
 const args = process.argv.slice(2);
 const flag = n => { const i = args.indexOf(n); return i < 0 ? null : args.splice(i, 2)[1]; };
 const homeColour = flag('--home-colour'), awayColour = flag('--away-colour');
+const competition = flag('--competition') || 'EFL Championship';
+const date = flag('--date');
 const fontFile = flag('--font') || path.join(DIR, 'fonts', 'alfa-slab-one.woff2');
 const [out, home, away, score] = args;
-if (!score) { console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0"'); process.exit(1); }
+if (!score || !/^\d{4}-\d{2}-\d{2}$/.test(date || '')) {
+  console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0" --date YYYY-MM-DD'); process.exit(1);
+}
+// "Sat 21 Nov 2026"
+const d = new Date(date + 'T12:00:00Z');
+const prettyDate = `${'Sun Mon Tue Wed Thu Fri Sat'.split(' ')[d.getUTCDay()]} ${d.getUTCDate()} ` +
+  `${'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split(' ')[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 
 const colours = JSON.parse(fs.readFileSync(path.join(DIR, 'club_colours.json')));
 const colour = (team, override) => {
@@ -61,11 +71,15 @@ body { width: 1920px; height: 1080px; position: relative; overflow: hidden;
 .name { position: absolute; width: 720px; top: 700px; transform: translateY(-50%);
         text-align: center; font-size: 128px; line-height: 132px; text-transform: uppercase;
         -webkit-text-stroke: 8px #000; paint-order: stroke fill; }
-.mark { position: absolute; left: 0; right: 0; bottom: 36px; text-align: center;
-        font-size: 30px; letter-spacing: 3px; color: rgba(255,255,255,0.55); }
+.top { position: absolute; left: 0; right: 0; top: 70px; text-align: center;
+       font-size: 48px; letter-spacing: 2px; -webkit-text-stroke: 6px #000; paint-order: stroke fill; }
+/* centred on the diagonal (x = 1110 - 320 * y / 1080) near the bottom edge */
+.mark { position: absolute; left: 808px; top: 1020px; transform: translate(-50%, -50%);
+        white-space: nowrap; font-size: 40px; letter-spacing: 3px; color: rgba(255,255,255,0.6); }
 </style></head><body>
 <div class="home"></div>
 ${side(home, 533)}${side(away, 1385)}
+<div class="top">${esc(competition)} ${prettyDate}</div>
 <div class="score">${esc(score)}</div>
 <div class="mark">SuperRams.com</div>
 </body></html>`;
