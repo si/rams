@@ -115,9 +115,20 @@ Five points from safety, and Burnley have a game in hand.
 
 ## In Their Words
 
-[No fan quotes pulled: Bluesky and Facebook weren't reachable from this session. Either paste two or three in, or swap this section for the prompt below.]
+![Bluesky post by mimij9.bsky.social, 14:21, 21 Nov 2026: "Our set pieces are just woeful. It really is one of the poorest parts of our game. This time someone is caught offside as the ball goes in? #dcfc #dcfcfans"](assets/2026-11-21-southampton-2-0-derby/bsky-mimij9.png)
 
-Were you at St Mary's? Did Zetterström really go up for that corner, and whose idea was it? Tell us in the comments 👇
+> "Our set pieces are just woeful. It really is one of the poorest parts of our game. This time someone is caught offside as the ball goes in?"
+> — [@mimij9.bsky.social](https://bsky.app/profile/mimij9.bsky.social/post/3n2tcduemt22p)
+
+![Bluesky post by Derby County Blog (@derbycountyblog.bsky.social), 14:26, 21 Nov 2026: "Routine away defeat for a relegation candidate at a promotion chaser, basically. #dcfc never laid a glove on Southampton and deserved nothing from the game. Not much else to say about it, really."](assets/2026-11-21-southampton-2-0-derby/bsky-derbycountyblog.png)
+
+> "Routine away defeat for a relegation candidate at a promotion chaser, basically. #dcfc never laid a glove on Southampton and deserved nothing from the game. Not much else to say about it, really."
+> — [@derbycountyblog.bsky.social](https://bsky.app/profile/derbycountyblog.bsky.social/post/3n2tcndwnhc2c)
+
+![Bluesky post by Alvaro Pancisi (@apancisi.bsky.social), 15:23, 21 Nov 2026: "It was an honest, hard working performance from Derby, which has not always been the case this year. However, Derby barely threatened and never looked like scoring. If you don't score you don't win and usually don't even draw. #dcfcfans #dcfc"](assets/2026-11-21-southampton-2-0-derby/bsky-apancisi.png)
+
+> "It was an honest, hard working performance from Derby, which has not always been the case this year. However, Derby barely threatened and never looked like scoring. If you don't score you don't win and usually don't even draw."
+> — [@apancisi.bsky.social](https://bsky.app/profile/apancisi.bsky.social/post/3n2tft4i2ms2r)
 
 
 ## Find More SuperRams
@@ -150,7 +161,8 @@ Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3
 - **Wolves kick-off:** ESPN lists 3:00 PM US Eastern, which would be 20:00 UK. Midweek Championship is usually 19:45 or 20:00, so check fixtur.es.
 - **Distance:** approximate, by road.
 - **Eustace quotes:** the dcfc.co.uk post-match is video-only/unreadable here. No quotes used.
-- **Fan quotes:** none pulled.
+- **Fan quotes:** three Bluesky posts, each embedded as a cropped screenshot (avatar kept, alt text = full post text) followed by the quote as text with a linked handle. Patreon can't take a local image path, so upload each image in the editor and paste the alt text into its description field. Delete either the image or the text quote per post if both together feel heavy.
+- **Disallowed Derby goal?** mimij9's post suggests someone was offside "as the ball goes in" from a set piece. That isn't in any report I found. If Derby had one chalked off, it belongs in The Read and the Stats Snapshot.
 - **Player tracker:** last updated 10 October, so it's missing at least Sheffield United, Millwall and everything since. Not updated by this draft.
 
 ## Sources
