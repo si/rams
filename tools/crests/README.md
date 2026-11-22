@@ -8,3 +8,8 @@ standings rows (lowercase, non-alphanumerics to hyphens):
 
 Transparent background preferred. `standings_image.py` draws each one as a
 small round avatar next to the team name and skips any that are missing.
+
+Current set: all 24 2026-27 Championship clubs, pulled from ESPN's team list
+(`site.api.espn.com/apis/site/v2/sports/soccer/eng.2/teams`, logos on
+`a.espncdn.com`) and resized to 128px. Re-run that for new seasons to pick up
+promoted/relegated clubs.
