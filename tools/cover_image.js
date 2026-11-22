@@ -3,7 +3,7 @@
 // circles, score in the middle, club names underneath in a collegiate font.
 //
 // Usage: node tools/cover_image.js <out.jpg|png> "<Home team>" "<Away team>" "<score>"
-//          [--home-colour "#hex"] [--away-colour "#hex"]
+//          [--home-colour "#hex"] [--away-colour "#hex"] [--font path/to/font.woff2]
 // e.g.   node tools/cover_image.js hero.jpg "Southampton" "Derby County" "2 - 0"
 //
 // Crests: tools/crests/<team-slug>.svg if present, else <team-slug>.png.
@@ -29,6 +29,7 @@ const crest = team => {
 const args = process.argv.slice(2);
 const flag = n => { const i = args.indexOf(n); return i < 0 ? null : args.splice(i, 2)[1]; };
 const homeColour = flag('--home-colour'), awayColour = flag('--away-colour');
+const fontFile = flag('--font') || path.join(DIR, 'fonts', 'graduate.woff2');
 const [out, home, away, score] = args;
 if (!score) { console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0"'); process.exit(1); }
 
@@ -45,7 +46,7 @@ const side = (team, x) => `
   <div class="name" style="left:${x - 360}px">${esc(team)}</div>`;
 
 const html = `<!doctype html><html><head><style>
-@font-face { font-family: Graduate; src: url(${dataUri(path.join(DIR, 'fonts', 'graduate.woff2'))}); }
+@font-face { font-family: Graduate; src: url(${dataUri(fontFile)}); }
 * { margin: 0; box-sizing: border-box; }
 body { width: 1920px; height: 1080px; position: relative; overflow: hidden;
        background: ${colour(away, awayColour)}; font-family: Graduate; color: #fff; }
