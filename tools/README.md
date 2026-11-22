@@ -13,6 +13,7 @@ python3 tools/standings_image.py posts/assets/<post-slug>/standings.png \
 
 - `--highlight "<team>"`: row to highlight (default `Derby County`)
 - `--relegation-after <pos>`: dotted line under this position (default 21, `0` to disable)
+- `--crests <dir>`: folder of `<team-slug>.png` crests, drawn as round avatars by the team name (default `tools/crests/`, missing ones skipped)
 
 Needs Pillow and the Inter font (both present in the cloud container).
 
