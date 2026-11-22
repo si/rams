@@ -1,5 +1,21 @@
 # tools
 
+## standings_image.py
+
+Renders the Patreon post's Standings table as a PNG: white background,
+horizontal rules only, columns Pos / Team / P / Pts / GD, the highlighted
+team in luminous yellow with a thick border, and a dotted relegation line.
+
+```
+python3 tools/standings_image.py posts/assets/<post-slug>/standings.png \
+  "22|Burnley|15|10|-9" "23|Derby County|16|10|-18" ...
+```
+
+- `--highlight "<team>"`: row to highlight (default `Derby County`)
+- `--relegation-after <pos>`: dotted line under this position (default 21, `0` to disable)
+
+Needs Pillow and the Inter font (both present in the cloud container).
+
 ## buffer.py
 
 Posts to Buffer via its GraphQL API using a per-brand personal access key, kept

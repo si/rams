@@ -88,31 +88,57 @@ plain-text approach the Rotherham example used.
     position plus their nearest neighbours, above and below, in the
     Championship table as it stands after this match.
 
-    **When Si supplies a table screenshot** (the standard case): crop it
-    down to just the five rows around Derby (see "Images" workflow) and
-    use the image rather than typing out the full neighbours list. Precede
-    the image with one natural sentence giving Derby's own numbers plus
-    who's immediately above and below, so the headline fact reads even
-    before the image loads/for anyone skimming — not the terse
+    **Generate the table image with `tools/standings_image.py`** (the
+    standard case, established with the Southampton 2-0 Derby post, 21
+    November 2026). It replaces cropping Si's screenshots. Precede the
+    image with one natural sentence giving Derby's own numbers plus who's
+    immediately above and below, so the headline fact reads even before
+    the image loads/for anyone skimming — not the terse
     `pos. Team — P· Pts· GD` shorthand, an actual sentence:
     "Derby are now `<pos>`(th/st/nd/rd) in the table with `<points>`
     points from `<played>` games and a goal difference of `<GD>`, above
     `<team below>` and below `<team above>`."
     e.g. "Derby are now 22nd in the table with 5 points from 8 games and
     a goal difference of -7, above Preston North End and below Bolton
-    Wanderers." Then the cropped image directly below it.
+    Wanderers." Then the image directly below it.
 
-    **When no screenshot is available**, fall back to a full bullet list
-    (no markdown table — see "Known constraints"), one line per team:
-    `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`
-    Bold Derby's own row. Two teams above and two below is the default
-    (five rows total); trim to what's actually available at the very top or
-    bottom of the table (e.g. only one team below Derby if Derby's 23rd of
-    24). Source from fixtur.es where reachable, otherwise the best
-    corroborated WebSearch summary — **flag explicitly if the table is
-    pulled pre-match rather than confirmed post-match** (final-day results
-    across the whole division lag in search indexes), rather than silently
-    presenting stale positions as current.
+    Run, one `pos|team|played|points|gd` argument per row, top to bottom:
+    ```
+    python3 tools/standings_image.py \
+      posts/assets/<post-slug>/standings.png \
+      "20|Lincoln City|16|15|-12" "21|Watford|16|15|-14" \
+      "22|Burnley|15|10|-9" "23|Derby County|16|10|-18" \
+      "24|Preston North End|16|9|-17"
+    ```
+    Output: white background, black horizontal rules only (no vertical
+    lines), columns Pos / Team / P / Pts / GD, Derby's row in luminous
+    yellow with a thick border, and a dotted line under 21st marking the
+    relegation line. Flags: `--highlight "<team>"` (default Derby County),
+    `--relegation-after <pos>` (default 21; `0` turns it off, e.g. if the
+    five rows don't straddle the line it simply won't appear).
+
+    Embed it in the draft with alt text listing every row, so the data
+    survives for screen readers and if the image fails:
+    `![Championship table, 20th to 24th: 20 Lincoln City, P16, 15 pts, GD -12. ... 23 Derby County (highlighted), ...](assets/<post-slug>/standings.png)`
+    Send the PNG to Si as well, since Patreon needs it uploaded by hand.
+
+    Rows: two teams above and two below Derby is the default (five rows
+    total); trim to what's actually available at the very top or bottom
+    of the table (e.g. only one team below Derby if Derby's 23rd of 24).
+    Source from fixtur.es where reachable, otherwise the best corroborated
+    WebSearch summary (eflchampionship.co.uk summaries have been the most
+    complete) — **flag explicitly if the table is pulled pre-match rather
+    than confirmed post-match** (results across the whole division lag in
+    search indexes), and flag any neighbour with a game still to play
+    before the post goes out, rather than silently presenting stale
+    positions as current. Sanity-check Derby's line against the pre-match
+    table plus this result.
+
+    **If Si supplies a table screenshot instead**, crop it to the same
+    five rows and use that. **If the script can't run**, fall back to a
+    bullet list (no markdown table — see "Known constraints"), one line
+    per team, `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`,
+    with Derby's row bolded.
 11. **## In Their Words** — 2-3 pulled fan quotes from Bluesky/Facebook,
     formatted as **Markdown pull quotes**: `> "<quote>"` on its own block,
     with the attribution on the line directly after (still inside or
@@ -247,7 +273,8 @@ Before drafting, confirm:
 - [ ] Attendance — official figure or best available reported detail
 - [ ] Distance from Pride Park (away games only)
 - [ ] Next fixture, per fixtur.es
-- [ ] Current league table position for Derby and their nearest neighbours
+- [ ] Current league table position for Derby and their nearest neighbours,
+      rendered with `tools/standings_image.py`
 - [ ] Find More SuperRams CTA block included (standard, every post — see
       "Post structure" #13)
 - [ ] Hero-image template link given to Si (see "Hero image" section)
