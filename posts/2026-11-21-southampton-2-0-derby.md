@@ -104,11 +104,7 @@ Ten points from sixteen. Wolves away on Tuesday doesn't get any easier, and with
 
 Derby are now 23rd in the table with 10 points from 16 games and a goal difference of -18, above Preston North End and below Burnley.
 
-- 20. Lincoln City — P16 · Pts15 · GD-12
-- 21. Watford — P16 · Pts15 · GD-14
-- 22. Burnley — P15 · Pts10 · GD-9
-- **23. Derby County — P16 · Pts10 · GD-18**
-- 24. Preston North End — P16 · Pts9 · GD-17
+![Championship table, 20th to 24th: 20 Lincoln City, P16, 15 pts, GD -12. 21 Watford, P16, 15 pts, GD -14. 22 Burnley, P15, 10 pts, GD -9. 23 Derby County (highlighted), P16, 10 pts, GD -18. 24 Preston North End, P16, 9 pts, GD -17.](assets/2026-11-21-southampton-2-0-derby/standings.png)
 
 Five points from safety, and Burnley have a game in hand.
 
