@@ -15,6 +15,8 @@ def main():
     ap.add_argument("out")
     ap.add_argument("rows", nargs="+", help="pos|team|played|points|gd")
     ap.add_argument("--highlight", default="Derby County")
+    ap.add_argument("--relegation-after", type=int, default=21,
+                    help="draw a dotted line under this position (0 to disable)")
     a = ap.parse_args()
 
     rows = [r.split("|") for r in a.rows]
@@ -49,7 +51,12 @@ def main():
                 t = "−" + t[1:]  # proper minus sign
             d.text((x, y + row_h / 2), t, font=bold if hi else reg, fill="black", anchor=anc)
         y += row_h
-        d.line([(left, y), (right, y)], fill="black", width=S)
+        if r[0] == str(a.relegation_after):
+            dot, gap = 6 * S, 6 * S
+            for x in range(left, right, dot + gap):
+                d.line([(x, y), (min(x + dot, right), y)], fill="black", width=3 * S)
+        else:
+            d.line([(left, y), (right, y)], fill="black", width=S)
 
     # thicker border round the highlighted row, drawn last so it sits on top
     for i, r in enumerate(rows):
