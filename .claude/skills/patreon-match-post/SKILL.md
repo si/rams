@@ -198,6 +198,21 @@ node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" 
 - Si's original Canva template is still at https://canva.link/zhp1gafamj0uzsa
   if he wants to hand-tweak one.
 
+## Final step before merging: Patreon handoff
+
+Before a match-post PR is merged, give Si everything he pastes into Patreon:
+
+1. Make sure the draft has no `[bracketed]` placeholders left in the Title,
+   Public preview or Patrons-only body (check facts against ESPN/BBC first).
+2. Generate the handoff page:
+   `python3 tools/patreon_handoff.py posts/<post>.md <scratchpad>/<slug>-patreon.html`
+3. Publish it as an Artifact with `capabilities: {"downloads": true}` (so the
+   image save buttons work) and give Si the link.
+4. In chat, list the "Before you publish" checks it shows and remind him that
+   Facebook copy still goes out by hand.
+
+Only then is the PR ready to merge.
+
 ## Tone rules
 
 - UK-fan voice: sass, snark, self-deprecating humour about the club's own
@@ -279,3 +294,4 @@ Before drafting, confirm:
   one file per post)
 - Wider content strategy: `superrams-fan-voices-launch-plan.md` (Google Drive)
 - Season-long stats: `SuperRams — Player Tracker 2026-27` (Google Sheet)
+- [ ] Patreon handoff page generated, published and linked (see "Final step before merging")

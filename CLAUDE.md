@@ -37,3 +37,18 @@ Whenever you draft social posts (matchday socials or any other X/Bluesky copy):
 
 Only X and Bluesky are connected. Facebook copy (and Patreon posts) still need
 posting manually, so say so rather than silently skipping them.
+
+## Final step before merging: Patreon handoff
+
+Before a match-post PR is merged, give Si everything he pastes into Patreon:
+
+1. Make sure the draft has no `[bracketed]` placeholders left in the Title,
+   Public preview or Patrons-only body (check facts against ESPN/BBC first).
+2. Generate the handoff page:
+   `python3 tools/patreon_handoff.py posts/<post>.md <scratchpad>/<slug>-patreon.html`
+3. Publish it as an Artifact with `capabilities: {"downloads": true}` (so the
+   image save buttons work) and give Si the link.
+4. In chat, list the "Before you publish" checks it shows and remind him that
+   Facebook copy still goes out by hand.
+
+Only then is the PR ready to merge.

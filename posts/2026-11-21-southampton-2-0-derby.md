@@ -2,7 +2,7 @@
 
 - **Published:** not yet, drafted against the `patreon-match-post` skill format.
 - **Fixture:** EFL Championship, Matchday 16, St Mary's, Saturday 21 November 2026, KO 12:30 - Derby away.
-- **Status:** score, scorers, XI, subs, bookings and attendance come from search summaries of the Southampton FC report, Sky Sports live commentary, Derby's team news and dave.sport. No page could be fetched directly (network blocks), so nothing here is cross-checked against a full report. Square brackets mark the parts that need you. See "Still open" at the bottom.
+- **Status:** ready to publish. XI with squad numbers, formation, subs, bookings, attendance, key moments, the table and the Wolves kick-off are checked against ESPN's match data (fetched 22 Nov). See "Still open" at the bottom for the two things that could still change.
 
 ---
 
@@ -19,7 +19,7 @@ For nearly an hour at St Mary's, Derby were doing a decent job of keeping the Ch
 
 Then Cyle Larin, back from a hamstring injury, scored on 57 minutes, because of course he did.
 
-We threw everything forward late on, and Divin Mubama ran the length of our half unopposed in the fifth minute of added time to finish it.
+We threw everything forward late on, won a corner in stoppage time, and Divin Mubama finished us off on the break a minute later.
 
 Southampton are now 18 unbeaten at home. We're still 23rd.
 
@@ -42,8 +42,8 @@ St Mary's Stadium, Southampton
 ⚪ #1 — Jacob Widell Zetterström
 ⚪ #24 — Ryan Nyambe
 ⚪ #28 — Dion Sanderson
-⚪ #TBC — Duffy
-⚪ #TBC — Robinson
+⚪ #25 — Shane Duffy
+⚪ #14 — Jack Robinson
 ⚪ #4 — David Ozoh
 ⚪ #20 — Alex Mowatt
 ⚪ #16 — Mohammed Fuseini
@@ -51,7 +51,7 @@ St Mary's Stadium, Southampton
 ⚪ #10 — Rhian Brewster
 ⚪ #9 — Carlton Morris (c)
 
-([formation TBC: sources split between 4-2-3-1 and 3-5-2])
+(4-2-3-1)
 
 
 ## Subs
@@ -60,25 +60,25 @@ St Mary's Stadium, Southampton
 **77'** Clark ↓ · ↑ Bilbija
 **77'** Ozoh ↓ · ↑ Fraulo
 **77'** Morris ↓ · ↑ Salvesen
-**83'** Meister ↓ · ↑ Blackett-Taylor
+**83'** Meister ↓ (injured) · ↑ Blackett-Taylor
 
 
 ## The People, Not Just the Sheet
 
 ### Alex Mowatt
-Back in the side in place of Lewis Travis, and part of a midfield that kept Southampton to one first-half shot on target. For a side that's been shipping goals all season, that's a half we'd have bitten your hand off for. [Add anything from watching on how he ran the middle.]
+Back in the side in place of Lewis Travis, and part of a midfield that kept Southampton to one first-half shot on target. For a side that's been shipping goals all season, that's a half we'd have bitten your hand off for. He also teed up Fuseini for our best effort of the second half, saved by Peretz on 53'.
 
 ### David Ozoh
 Booked on 49' for what the live text calls a "bad foul", then hooked on 77'. Our only booking of the afternoon, and four minutes into the second half isn't the time to be giving the referee ideas.
 
 ### Henrik Meister
-On for Fuseini on 61', off again on 83' with an injury. Twenty-two minutes. After the Birmingham collapse and the Bramall Lane knock, it's now three scares in a handful of games, and at this point we'd quite like him wrapped in cotton wool before Wolves. [Add any update on the injury once Eustace or the club says something.]
+On for Fuseini on 61', off again on 83' with an injury. Twenty-two minutes. After the Birmingham collapse and the Bramall Lane knock, it's now three scares in a handful of games, and at this point we'd quite like him wrapped in cotton wool before Wolves.
 
 ### Jacob Zetterström
-[Add one or two saves from the highlights.] Reports say Mubama's goal came on the break from a Derby corner, with the keeper up the other end. [Confirm whether JWZ actually went up; if so, this is the funniest/saddest bit of the day and deserves its own line.]
+Kept Finn Azaz out three times, on 17', 57' and 65'. The 57' one is the painful one: Larin scored from close range in the same minute. Nothing he could do about Mubama's, which came on the break seconds after we'd had a corner of our own.
 
 ### Carlton Morris
-Captain again, and off on 77' as we chased it. Larin got his eighth of the season for them in his first game back. [Add Morris's own season tally once the tracker's up to date; it's stale, so don't trust it for this.]
+Captain again, and had our best chance of the first half, a 44' shot from Bobby Clark's pass that Peretz saved. Off on 77' as we chased it, while Larin marked his first game back with his eighth of the season for them.
 
 
 ## Stats Snapshot
@@ -96,8 +96,6 @@ Losing at St Mary's isn't a scandal. They're unbeaten in 18 at home and we're no
 What hurts is the pattern. We hang in, we look organised, then one moment and it's gone. That's the difference between 23rd and 20th, and we've not fixed it in 16 games.
 
 Ten points from sixteen. Wolves away on Tuesday doesn't get any easier, and with Meister's fitness a question mark again, Eustace is running short of answers up top.
-
-[Add an Eustace quote here once the dcfc.co.uk post-match interview is available. Dion Sanderson also did a post-match interview.]
 
 
 ## Standings
@@ -137,7 +135,7 @@ More Rams chat, every day, not just matchday:
 
 ## What's Next
 
-Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3 days) — per fixtur.es
+Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO 20:00 (3 days), Molineux
 ```
 
 ---
@@ -149,17 +147,11 @@ Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3
 
 ## Still open
 
-- **Squad numbers:** Duffy and Robinson are `#TBC` (first names not confirmed either). Nyambe #24 comes from the Sheffield United post; the tracker still has him as TBC.
-- **Formation:** sources split between 4-2-3-1 and 3-5-2.
-- **Subs:** Sky Sports and the Southampton report agree on the 77' trio (Bilbija for Clark, Fraulo for Ozoh, Salvesen for Morris). Yahoo swaps them around. Meister's exit is given as 83' by Sky but 60'/61' by other sources, which would be impossible since he came on at 61'. Treat 83' as most likely.
-- **Zetterström going up for the corner:** one search summary only. Verify before publishing.
-- **Table:** from eflchampionship.co.uk via search summary (computed from results, so no points deductions applied), after Saturday's games. Derby's line matches the pre-match Squawka figures plus the 2-0. Preston is the shaky one: Football Web Pages says 11 points, which would put them above us, but 9 fits their 8 from 15 plus Saturday's 1-1 at West Ham. **Burnley play Blackburn at home today (Sunday 22 Nov, 12:00)**, so 22nd may change before this goes out. Burnley's GD is -9, nine better than ours, so they stay above us whatever happens; only the gap and their games played change (and the "game in hand" line goes). Swap in a screenshot crop if you'd rather use the image format.
-- **Wolves kick-off:** ESPN lists 3:00 PM US Eastern, which would be 20:00 UK. Midweek Championship is usually 19:45 or 20:00, so check fixtur.es.
-- **Distance:** approximate, by road.
-- **Eustace quotes:** the dcfc.co.uk post-match is video-only/unreadable here. No quotes used.
-- **Fan quotes:** three Bluesky posts, each embedded as a cropped screenshot (avatar kept, alt text = full post text) followed by the quote as text with a linked handle. Patreon can't take a local image path, so upload each image in the editor and paste the alt text into its description field. Delete either the image or the text quote per post if both together feel heavy.
-- **Disallowed Derby goal?** mimij9's post suggests someone was offside "as the ball goes in" from a set piece. That isn't in any report I found. If Derby had one chalked off, it belongs in The Read and the Stats Snapshot.
-- **Player tracker:** last updated 10 October, so it's missing at least Sheffield United, Millwall and everything since. Not updated by this draft.
+- **Burnley v Blackburn kicks off at 12:00 today (Sun 22 Nov).** Burnley stay 22nd whatever happens (GD -9 vs our -18), but if they've played by the time this goes out, regenerate `standings.png` and drop "and Burnley have a game in hand".
+- **Mowatt and Meister notes** are from ESPN's live text, not from watching. Add anything you saw yourself.
+- **Eustace / Sanderson quotes:** dcfc.co.uk post-match pieces are video only, so no quotes used.
+- **Duffy offside on 90+1'** is logged by ESPN; no disallowed goal is recorded, so mimij9's "caught offside as the ball goes in" stays as her take only.
+- **Player tracker:** last updated 10 October. Not updated by this draft.
 
 ## Sources
 
@@ -173,4 +165,5 @@ Wolverhampton Wanderers — Away — Tuesday 24 November 2026, KO [20:00 TBC] (3
 - [Yahoo Sports](https://uk.sports.yahoo.com/news/larin-scores-injury-return-saints-142800684.html)
 - [Squawka preview (pre-match table)](https://squawka.com/en/news/previews/southampton-vs-derby-county-predictions-today-21-11-2026)
 - [ESPN Derby fixtures](https://www.espn.com/soccer/team/fixtures/_/id/374/derby-county)
+- [ESPN match data: Southampton 2-0 Derby](https://www.espn.com/soccer/match/_/gameId/401880153)
 - [Post-match: Dion Sanderson (dcfc.co.uk)](https://www.dcfc.co.uk/news/2026/11/post-match-dion-sanderson-southampton-a)

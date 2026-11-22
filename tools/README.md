@@ -84,3 +84,11 @@ posting by hand.
 (`club_colours.json`), crests in white circles (`crests/`), score and names in
 white Alfa Slab One type (`fonts/alfa-slab-one.woff2`, OFL), with "EFL Championship Sat 21 Nov 2026" style header (`--competition` overrides) and a subtle SUPERRAMS.COM watermark bottom centre. Uses the pre-installed
 Playwright/Chromium. `--home-colour` / `--away-colour` override a colour.
+
+## Patreon handoff
+
+`python3 tools/patreon_handoff.py posts/<post>.md <out.html>` builds a page
+with every Patreon field in paste order (cover, title, preview, body split at
+its images, image descriptions) plus copy buttons, and the post's "Still open"
+items as pre-publish checks. Publish it as an Artifact with
+`{"downloads": true}`. This is the last step before merging a match post.
