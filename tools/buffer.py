@@ -11,12 +11,13 @@ never touches the personal Buffer OAuth connector:
 Usage:
     buffer.py superrams account
     buffer.py superrams channels --org ORG_ID
-    buffer.py superrams post --channel CHANNEL_ID --text "..." [--due-at ISO8601 | --now] [--dry-run]
+    buffer.py superrams post --channel CHANNEL_ID --text "..." [--image URL --alt "..."] [--due-at ISO8601 | --now] [--dry-run]
     buffer.py superrams query 'query { account { id } }'
     buffer.py superrams schema
 
 Default post mode is addToQueue; --due-at schedules for a specific time and
---now publishes straight away (shareNow).
+--now publishes straight away (shareNow). --image attaches a publicly
+downloadable image URL (e.g. a raw.githubusercontent.com link pinned to a commit).
 Override the endpoint with BUFFER_API_URL if Buffer moves it.
 """
 import argparse
@@ -84,6 +85,8 @@ def main():
     po.add_argument("--text", required=True)
     po.add_argument("--due-at", help="ISO 8601 with UTC offset, e.g. 2026-10-31T09:00:00+00:00")
     po.add_argument("--now", action="store_true", help="publish straight away instead of queueing")
+    po.add_argument("--image", help="public image URL to attach")
+    po.add_argument("--alt", default="", help="alt text for --image")
     po.add_argument("--dry-run", action="store_true")
     a = p.parse_args()
     if a.cmd == "post" and a.now and a.due_at:
@@ -102,6 +105,8 @@ def main():
                "mode": "shareNow" if a.now else "customScheduled" if a.due_at else "addToQueue"}
         if a.due_at:
             inp["dueAt"] = a.due_at
+        if a.image:
+            inp["assets"] = [{"image": {"url": a.image, "metadata": {"altText": a.alt}}}]
         if a.dry_run:
             out = {"dry_run": True, "input": inp}
         else:

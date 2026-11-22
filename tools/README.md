@@ -62,7 +62,14 @@ python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --dry-
 python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR"                      # add to queue
 python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --due-at 2026-10-31T09:00:00+00:00
 python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --now               # straight away
+python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --image URL --alt "..." --now  # with an image
 ```
+
+`--image` takes a public image URL. The repo is public, so use the raw GitHub
+link pinned to a commit, e.g.
+`https://raw.githubusercontent.com/si/rams/<sha>/posts/assets/<slug>/hero-<slug>.jpg`
+(push the image first). The Buffer MCP connector is signed in to a different
+account and gets 403 on these channels, so always post through this script.
 
 `--due-at` needs the UK offset: `+00:00` in winter (GMT), `+01:00` in summer (BST).
 

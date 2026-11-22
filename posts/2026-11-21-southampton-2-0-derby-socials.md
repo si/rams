@@ -1,10 +1,13 @@
 # Socials: Southampton 2-0 Derby County (post-match)
 
-- **Status:** draft, not posted. Waiting on the Patreon link and Si's call on timing.
+- **Status:** posted 22 Nov 2026, 11:42 UK, with the cover image, via Buffer.
+  X: https://twitter.com/derbycounty/status/2124468486965432791 (Buffer `6b02d513d5eabfb8cca3bdc0`)
+  Bluesky: https://bsky.app/profile/did:plc:qfzc3oupo7rjrauobzkkntb5/post/3n2vjvznnkd24 (Buffer `6b02d51602479690924624df`)
+  Facebook: by hand.
 - **Context:** day-after posts pointing to the Patreon report. Facts from the
   Patreon draft (ESPN-checked): Larin 57', Mubama 90+5' on the break after a
   Derby corner, 10 points from 16, 23rd, Wolves away Tuesday.
-- **PATREON_LINK** gets swapped for the real post URL once it's published.
+- Patreon: https://www.patreon.com/derbycounty/posts/176046310
 
 ## X (`derbycounty`)
 
@@ -16,7 +19,7 @@ Southampton 2-0 Derby.
 Ten points from 16. Still 23rd.
 
 Player-by-player on Patreon 👇
-PATREON_LINK
+https://www.patreon.com/derbycounty/posts/176046310
 
 #dcfc
 ```
@@ -30,7 +33,7 @@ Held the Championship's best home side for 57 minutes, then Larin, then Mubama o
 
 Ten points from 16. Still 23rd. Wolves on Tuesday.
 
-On Patreon: PATREON_LINK
+On Patreon: https://www.patreon.com/derbycounty/posts/176046310
 
 #dcfc #dcfcfans
 ```
