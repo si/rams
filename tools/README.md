@@ -59,3 +59,20 @@ python3 tools/buffer.py superrams post --channel CHANNEL_ID --text "COYR" --now 
 
 There's no Facebook channel connected in Buffer, so Facebook copy still needs
 posting by hand.
+
+## bluesky_digest.py
+
+Client for the fan-feed Worker in `worker/` (setup in `worker/README.md`).
+It manages the fixtures the Worker polls around and pulls the matchday
+digest of posts from the Bluesky "Rams fans" list.
+
+Needs `FAN_FEED_URL`. The token comes from a proxy secret on the Worker's
+host in cloud sessions, or `FAN_FEED_TOKEN` otherwise.
+
+```
+python3 tools/bluesky_digest.py add --kickoff 2026-11-28T15:00:00+00:00 --opponent "Hull City" [--away] [--competition "EFL Championship"]
+python3 tools/bluesky_digest.py fixtures
+python3 tools/bluesky_digest.py match 2026-11-28            # Markdown digest
+python3 tools/bluesky_digest.py match 2026-11-28 --json
+python3 tools/bluesky_digest.py remove 2026-11-28
+```

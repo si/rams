@@ -21,3 +21,10 @@ Whenever you draft social posts (matchday socials or any other X/Bluesky copy):
 
 Only X and Bluesky are connected. Facebook copy (and Patreon posts) still need
 posting manually, so say so rather than silently skipping them.
+
+## Matchday fan feed (Bluesky)
+
+`worker/` is a Cloudflare Worker that captures posts from a Bluesky list of
+Derby fans around each fixture. `tools/bluesky_digest.py` adds fixtures and
+pulls the digest (see `worker/README.md`). When drafting matchday socials,
+offer to add the fixture if it isn't already in `bluesky_digest.py fixtures`.

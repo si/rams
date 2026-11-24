@@ -1,0 +1,26 @@
+name = "superrams-fan-feed"
+main = "src/index.ts"
+compatibility_date = "2026-11-01"
+
+[triggers]
+# Every 5 minutes. The Worker exits straight away unless a fixture window is open.
+crons = ["*/5 * * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "superrams-fan-feed"
+# Replace with the id printed by `npx wrangler d1 create superrams-fan-feed`
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[vars]
+# The Derby fans list. Either the bsky.app URL or an at:// list URI.
+BSKY_LIST = "https://bsky.app/profile/REPLACE_HANDLE/lists/REPLACE_RKEY"
+WINDOW_BEFORE_MIN = "120"
+WINDOW_AFTER_MIN = "180"
+REFRESH_AFTER_MIN = "60"
+
+[observability]
+enabled = true
+
+# READ_TOKEN is a secret: `npx wrangler secret put READ_TOKEN`
