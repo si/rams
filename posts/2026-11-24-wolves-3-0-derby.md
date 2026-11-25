@@ -2,7 +2,7 @@
 
 - **Published:** not yet, drafted against the `patreon-match-post` skill format.
 - **Fixture:** EFL Championship, Matchday 17, Molineux, Tuesday 24 November 2026, KO 20:00 - Derby away.
-- **Status:** XI with squad numbers, formation, subs, bookings, goals, attendance, match stats, the table and the Watford kick-off are checked against ESPN's match data (fetched 25 Nov). Eustace quotes and two player details are from search summaries only. No fan quotes (Bluesky unreachable from this environment). See "Still open".
+- **Status:** XI with squad numbers, formation, subs, bookings, goals, attendance, match stats, the table and the Watford kick-off are checked against ESPN's match data (fetched 25 Nov). Eustace quotes and two player details are from search summaries only. Fan quotes from Bluesky (fetched 25 Nov). See "Still open".
 
 ---
 
@@ -81,7 +81,7 @@ Six tackles from right wing-back, the most of anyone in a Derby shirt. When your
 Both back in from the start, which is the closest thing to good news in this report. Duffy made way for Johnston on 80', just after the second and third went in two minutes apart. Eustace is banking on these two, plus Jack Robinson, getting fit and staying fit to fix this. One clean sheet would be a start.
 
 ### Mohammed Fuseini
-Had a couple of the clearer early openings and didn't make either count. Off on 81' for Blackett-Taylor. If we're going to stay up, early chances have to become early goals, because we're not getting late ones.
+Hit the woodwork around the 25-minute mark with Derby on top, and four minutes later Armstrong scored at the other end. That's the whole season in one sequence. Off on 81' for Blackett-Taylor. If we're going to stay up, early chances have to become early goals, because we're not getting late ones.
 
 
 ## Stats Snapshot
@@ -102,6 +102,8 @@ The scary number is goal difference. We're on -21, five worse than anyone else i
 
 The good news, if you squint, is that the bottom is tight. Preston were bottom on Saturday and are now two points clear after one win. One win flips it back. Which makes Saturday the whole thing: Watford at home, sitting 20th and five points ahead of us, and no "tough fixture" excuse this time.
 
+The fanbase has made its mind up. By full time Bluesky was a wall of "Eustace out". If Watford goes the same way, it's hard to see how Clowes keeps him.
+
 
 ## Standings
 
@@ -112,7 +114,22 @@ Derby are now 24th in the table with 10 points from 17 games and a goal differen
 
 ## In Their Words
 
-Patrons, over to you. Watford at home on Saturday: after one shot on target at Molineux, who comes in, and who has to sit down? Tell us below 👇
+![Bluesky post by Derby County Blog (@derbycountyblog.bsky.social), 21:40, 24 Nov 2026: "I just did the virtual equivalent of leaving on 70 mins. #dcfc humiliated, Wolves could have had eight or nine. Whatever it is Eustace wants to do, the players can't do it. Which is why we need a new head coach. Surely he goes if we can't beat Watford? But who knows where Clowes' head is at"](assets/2026-11-24-wolves-3-0-derby/bsky-derbycountyblog.png)
+
+> "Whatever it is Eustace wants to do, the players can't do it. Which is why we need a new head coach. Surely he goes if we can't beat Watford? But who knows where Clowes' head is at"
+> — [@derbycountyblog.bsky.social](https://bsky.app/profile/derbycountyblog.bsky.social/post/3n33mciaj5c25)
+
+![Bluesky post by Kev Woods (@kev-woods.bsky.social), 21:42, 24 Nov 2026: "58 mins between #dcfc shots on goal... So poor after the bright start. #dcfcfans"](assets/2026-11-24-wolves-3-0-derby/bsky-kev-woods.png)
+
+> "58 mins between #dcfc shots on goal... So poor after the bright start."
+> — [@kev-woods.bsky.social](https://bsky.app/profile/kev-woods.bsky.social/post/3n33megfpgs2k)
+
+![Bluesky post by Daniel Warwick (@derbydaniel.bsky.social), 21:58, 24 Nov 2026: "One shot on target all night and that was in the 1st half. One shot full stop in the 2nd half. The stats don't really matter though because the bigger picture hasn't changed. It's been the same for weeks. Any other manager at any other club wouldn't have survived this. #dcfcfans"](assets/2026-11-24-wolves-3-0-derby/bsky-derbydaniel.png)
+
+> "The stats don't really matter though because the bigger picture hasn't changed. It's been the same for weeks. Any other manager at any other club wouldn't have survived this."
+> — [@derbydaniel.bsky.social](https://bsky.app/profile/derbydaniel.bsky.social/post/3n33ncbazx22t)
+
+Patrons, over to you: does Eustace get Watford, or should he already be gone? Tell us below 👇
 
 
 ## Eustace Said
@@ -146,7 +163,8 @@ Watford — Home — Saturday 28 November 2026, KO 15:00 (4 days) — per fixtur
 
 ## Still open
 
-- **No fan quotes.** Bluesky (and the fan-feed Worker, no `FAN_FEED_URL`) isn't reachable from this environment, so In Their Words is a comment prompt. Swap in 2-3 quotes if you've got some.
+- **Fan quotes** were pulled from the author feeds of fans quoted in earlier posts (Bluesky search needs a login, and the fan-feed Worker has no list or `FAN_FEED_URL` set yet). Cards are rendered from the post data, not real screenshots.
+- **Fuseini hitting the woodwork (~25')** comes from fans' live posts (mimij9, Kev Woods at 20:25), not ESPN's data.
 - **Eustace quotes** come from search summaries of the post-match coverage (AOL/BBC syndication), not a fetched page.
 - **Morris's early chance blocked by Djiga, Bilbija denied from six yards, Nyambe's six tackles** are from search summaries (Sky Sports, Yahoo ratings, PlayerStats), not ESPN's data.
 - **Burnley and Watford have a game in hand.** If either plays before this goes out, regenerate `standings.png`.

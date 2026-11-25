@@ -116,3 +116,11 @@ python3 tools/bluesky_digest.py match 2026-11-28            # Markdown digest
 python3 tools/bluesky_digest.py match 2026-11-28 --json
 python3 tools/bluesky_digest.py remove 2026-11-28
 ```
+
+## Bluesky quote cards
+
+`node tools/bluesky_card.js <post-thread.json> <out.png>` renders a Bluesky
+post (from `app.bsky.feed.getPostThread` on `public.api.bsky.app`) as a dark
+card with avatar, name, handle, text and UK time, matching the style of the
+In Their Words images. Bluesky's search endpoint needs a login, so find posts
+via `app.bsky.feed.getAuthorFeed` on known fan accounts or the fan-feed digest.
