@@ -88,31 +88,57 @@ plain-text approach the Rotherham example used.
     position plus their nearest neighbours, above and below, in the
     Championship table as it stands after this match.
 
-    **When Si supplies a table screenshot** (the standard case): crop it
-    down to just the five rows around Derby (see "Images" workflow) and
-    use the image rather than typing out the full neighbours list. Precede
-    the image with one natural sentence giving Derby's own numbers plus
-    who's immediately above and below, so the headline fact reads even
-    before the image loads/for anyone skimming — not the terse
+    **Generate the table image with `tools/standings_image.py`** (the
+    standard case, established with the Southampton 2-0 Derby post, 21
+    November 2026). It replaces cropping Si's screenshots. Precede the
+    image with one natural sentence giving Derby's own numbers plus who's
+    immediately above and below, so the headline fact reads even before
+    the image loads/for anyone skimming — not the terse
     `pos. Team — P· Pts· GD` shorthand, an actual sentence:
     "Derby are now `<pos>`(th/st/nd/rd) in the table with `<points>`
     points from `<played>` games and a goal difference of `<GD>`, above
     `<team below>` and below `<team above>`."
     e.g. "Derby are now 22nd in the table with 5 points from 8 games and
     a goal difference of -7, above Preston North End and below Bolton
-    Wanderers." Then the cropped image directly below it.
+    Wanderers." Then the image directly below it.
 
-    **When no screenshot is available**, fall back to a full bullet list
-    (no markdown table — see "Known constraints"), one line per team:
-    `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`
-    Bold Derby's own row. Two teams above and two below is the default
-    (five rows total); trim to what's actually available at the very top or
-    bottom of the table (e.g. only one team below Derby if Derby's 23rd of
-    24). Source from fixtur.es where reachable, otherwise the best
-    corroborated WebSearch summary — **flag explicitly if the table is
-    pulled pre-match rather than confirmed post-match** (final-day results
-    across the whole division lag in search indexes), rather than silently
-    presenting stale positions as current.
+    Run, one `pos|team|played|points|gd` argument per row, top to bottom:
+    ```
+    python3 tools/standings_image.py \
+      posts/assets/<post-slug>/standings.png \
+      "20|Lincoln City|16|15|-12" "21|Watford|16|15|-14" \
+      "22|Burnley|15|10|-9" "23|Derby County|16|10|-18" \
+      "24|Preston North End|16|9|-17"
+    ```
+    Output: white background, black horizontal rules only (no vertical
+    lines), columns Pos / Team / P / Pts / GD, Derby's row in luminous
+    yellow with a thick border, and a dotted line under 21st marking the
+    relegation line. Flags: `--highlight "<team>"` (default Derby County),
+    `--relegation-after <pos>` (default 21; `0` turns it off, e.g. if the
+    five rows don't straddle the line it simply won't appear).
+
+    Embed it in the draft with alt text listing every row, so the data
+    survives for screen readers and if the image fails:
+    `![Championship table, 20th to 24th: 20 Lincoln City, P16, 15 pts, GD -12. ... 23 Derby County (highlighted), ...](assets/<post-slug>/standings.png)`
+    Send the PNG to Si as well, since Patreon needs it uploaded by hand.
+
+    Rows: two teams above and two below Derby is the default (five rows
+    total); trim to what's actually available at the very top or bottom
+    of the table (e.g. only one team below Derby if Derby's 23rd of 24).
+    Source from fixtur.es where reachable, otherwise the best corroborated
+    WebSearch summary (eflchampionship.co.uk summaries have been the most
+    complete) — **flag explicitly if the table is pulled pre-match rather
+    than confirmed post-match** (results across the whole division lag in
+    search indexes), and flag any neighbour with a game still to play
+    before the post goes out, rather than silently presenting stale
+    positions as current. Sanity-check Derby's line against the pre-match
+    table plus this result.
+
+    **If Si supplies a table screenshot instead**, crop it to the same
+    five rows and use that. **If the script can't run**, fall back to a
+    bullet list (no markdown table — see "Known constraints"), one line
+    per team, `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`,
+    with Derby's row bolded.
 11. **## In Their Words** — 2-3 pulled fan quotes from Bluesky/Facebook,
     formatted as **Markdown pull quotes**: `> "<quote>"` on its own block,
     with the attribution on the line directly after (still inside or
@@ -151,33 +177,41 @@ plain-text approach the Rotherham example used.
 
 ## Hero image
 
-Si has a standard Canva template for the lead image at the top of every
-match post: split-colour background (each club's colour), both clubs'
-real crests, "<score>" in the middle, club names underneath in a bold
-collegiate-style font. Established with the Burnley 1-1 Derby post (19
-September 2026).
+Generate it with `tools/cover_image.js` (1920x1080 JPG), which recreates
+Si's Canva cover style: diagonal split in each club's spot colour (home
+left, away right), crests in white circles, score in the middle, club names
+underneath in white Alfa Slab One with a black outline, "EFL Championship <Day D Mon YYYY>"
+across the top (`--competition` to change it for cup games) and a subtle
+SUPERRAMS.COM watermark bottom centre.
 
-- **Design link**: https://canva.link/zhp1gafamj0uzsa (design ID
-  `DAHRbhLALLw` once resolved — same underlying design as the earlier
-  "Instagram Post - ROTHERHAM 1-1 DERBY" file, repurposed as the
-  standing template rather than a new design each time).
-- **Give Si this link every time a new match post is drafted**, so he can
-  open it directly and swap in the new teams/crests/score himself, rather
-  than making him hunt for it. Don't skip this even if the hero image
-  itself is out of scope for a given request.
-- **Can't be autofilled or edited directly by Claude**: `get-design-dataset`
-  on this design returns an empty schema, i.e. no autofill fields are
-  defined, so there's no scripted way to swap in the new score/teams via
-  the Canva MCP tools available here — Si edits it by hand in Canva. If
-  he wants this automated later, the design would need proper autofill
-  fields added in Canva (turning it into a template with named text/image
-  placeholders) — worth a one-off ask if the manual edit becomes a chore.
-- Earlier attempts at generating a hero image from scratch with
-  `generate-design` only ever produced wordmark-only graphics with no
-  real crests (network access to fetch real club badges is blocked in
-  this environment, and Canva's own stock library doesn't carry them) —
-  Si's own template supersedes that approach entirely. Don't suggest
-  regenerating one via `generate-design` while this template exists.
+```
+node tools/cover_image.js posts/assets/<slug>/hero-<slug>.jpg "<Home>" "<Away>" "<h> - <a>" --date YYYY-MM-DD
+```
+
+- Team names must match `tools/club_colours.json` / the crest slugs
+  (e.g. "Derby County", "Preston North End"). Derby uses the ram head
+  (`tools/crests/derby-county.svg`), everyone else their ESPN crest.
+- Override a colour with `--home-colour "#hex"` / `--away-colour "#hex"`
+  if a kit/crest colour reads better for that fixture.
+- Look at the output before using it: long names auto-shrink to stay on
+  their side of the diagonal, but check nothing crosses it.
+- Si's original Canva template is still at https://canva.link/zhp1gafamj0uzsa
+  if he wants to hand-tweak one.
+
+## Final step before merging: Patreon handoff
+
+Before a match-post PR is merged, give Si everything he pastes into Patreon:
+
+1. Make sure the draft has no `[bracketed]` placeholders left in the Title,
+   Public preview or Patrons-only body (check facts against ESPN/BBC first).
+2. Generate the handoff page:
+   `python3 tools/patreon_handoff.py posts/<post>.md <scratchpad>/<slug>-patreon.html`
+3. Publish it as an Artifact with `capabilities: {"downloads": true}` (so the
+   image save buttons work) and give Si the link.
+4. In chat, list the "Before you publish" checks it shows and remind him that
+   Facebook copy still goes out by hand.
+
+Only then is the PR ready to merge.
 
 ## Tone rules
 
@@ -223,18 +257,18 @@ re-discovering it each week.
   its own heading styles on paste, but **verify after pasting** the same
   way as the ⚪ icon above — if a heading pastes as plain text instead,
   reapply Patreon's heading style by hand rather than leaving it flat.
-- Canva MCP image generation has been unreliable in this environment
-  (permission/approval errors on save). If it fails, generate the design
-  anyway, then manually download it from the Canva web link and upload it to
-  Patreon directly — don't block the post on the automation working.
-- **WebFetch is blocked for essentially every sports domain tried in this
-  environment** — dcfc.co.uk, Sky Sports, Shropshire Star, fixtur.es,
-  footballwebpages.co.uk, worldfootball.net, even en.wikipedia.org have all
-  returned `EGRESS_BLOCKED`. In practice this means fixture dates and the
-  league table snapshot come from WebSearch's summarized snippets, not a
-  page read directly — cite fixtur.es as the reference per #10/#11 above
-  regardless, but flag when the underlying numbers are search-summary-only
-  rather than fetched and cross-checked.
+- Don't use Canva MCP image generation for the hero image; it was
+  unreliable here. `tools/cover_image.js` replaces it (see "Hero image").
+- For a club not in `tools/crests/` or `tools/club_colours.json` (cup
+  opponents, promoted clubs), pull its crest from ESPN's team list (see
+  `tools/crests/README.md`) and add a spot colour before running the script.
+- **Network access is limited to an allow list.** Reachable: `*.bbc.co.uk`,
+  `*.dcfc.co.uk`, `site.api.espn.com` and `a.espncdn.com` (plus package
+  registries). Prefer BBC Sport's match page and ESPN's API for score,
+  lineups and the table. Most other sports sites (Sky Sports, fixtur.es,
+  worldfootball.net, Wikipedia) are blocked, so anything from them comes via
+  WebSearch snippets: flag those as search-summary-only rather than fetched
+  and cross-checked.
 
 ## Data-gathering checklist
 
@@ -247,10 +281,12 @@ Before drafting, confirm:
 - [ ] Attendance — official figure or best available reported detail
 - [ ] Distance from Pride Park (away games only)
 - [ ] Next fixture, per fixtur.es
-- [ ] Current league table position for Derby and their nearest neighbours
+- [ ] Current league table position for Derby and their nearest neighbours,
+      rendered with `tools/standings_image.py`
 - [ ] Find More SuperRams CTA block included (standard, every post — see
       "Post structure" #13)
-- [ ] Hero-image template link given to Si (see "Hero image" section)
+- [ ] Hero image generated with `tools/cover_image.js` and checked (see "Hero image" section)
+- [ ] Patreon handoff page generated, published and linked (see "Final step before merging")
 
 ## Reference material
 
