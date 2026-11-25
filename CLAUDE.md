@@ -52,3 +52,10 @@ Before a match-post PR is merged, give Si everything he pastes into Patreon:
    Facebook copy still goes out by hand.
 
 Only then is the PR ready to merge.
+
+## Matchday fan feed (Bluesky)
+
+`worker/` is a Cloudflare Worker that captures posts from a Bluesky list of
+Derby fans around each fixture. `tools/bluesky_digest.py` adds fixtures and
+pulls the digest (see `worker/README.md`). When drafting matchday socials,
+offer to add the fixture if it isn't already in `bluesky_digest.py fixtures`.

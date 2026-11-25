@@ -140,6 +140,12 @@ plain-text approach the Rotherham example used.
     per team, `<pos>. <Team> — P<played> · Pts<points> · GD<goal difference>`,
     with Derby's row bolded.
 11. **## In Their Words** — 2-3 pulled fan quotes from Bluesky/Facebook,
+    **Start from the fan-feed digest** where available:
+    `python3 tools/bluesky_digest.py match <YYYY-MM-DD>` returns the
+    matchday posts from the Bluesky "Rams fans" list, with top posts by
+    engagement and links. Also mine it for the general mood and talking
+    points elsewhere in the post. If it errors (no `FAN_FEED_URL`, fixture
+    not added, Worker unreachable), say so and fall back to searching.
     formatted as **Markdown pull quotes**: `> "<quote>"` on its own block,
     with the attribution on the line directly after (still inside or
     immediately below the blockquote), e.g.:
