@@ -99,3 +99,20 @@ with every Patreon field in paste order (cover, title, preview, body split at
 its images, image descriptions) plus copy buttons, and the post's "Still open"
 items as pre-publish checks. Publish it as an Artifact with
 `{"downloads": true}`. This is the last step before merging a match post.
+
+## bluesky_digest.py
+
+Client for the fan-feed Worker in `worker/` (setup in `worker/README.md`).
+It manages the fixtures the Worker polls around and pulls the matchday
+digest of posts from the Bluesky "Rams fans" list.
+
+Needs `FAN_FEED_URL`. The token comes from a proxy secret on the Worker's
+host in cloud sessions, or `FAN_FEED_TOKEN` otherwise.
+
+```
+python3 tools/bluesky_digest.py add --kickoff 2026-11-28T15:00:00+00:00 --opponent "Hull City" [--away] [--competition "EFL Championship"]
+python3 tools/bluesky_digest.py fixtures
+python3 tools/bluesky_digest.py match 2026-11-28            # Markdown digest
+python3 tools/bluesky_digest.py match 2026-11-28 --json
+python3 tools/bluesky_digest.py remove 2026-11-28
+```

@@ -1,0 +1,18 @@
+{
+  "name": "superrams-fan-feed",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --test-scheduled",
+    "deploy": "wrangler deploy",
+    "db:migrate:local": "wrangler d1 migrations apply superrams-fan-feed --local",
+    "db:migrate": "wrangler d1 migrations apply superrams-fan-feed --remote",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261101.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^4.150.0"
+  }
+}
