@@ -1,15 +1,15 @@
 # Draft: Wolves 3-0 Derby County
 
 - **Published:** not yet, drafted against the `patreon-match-post` skill format.
-- **Fixture:** EFL Championship, Matchday 16, Molineux, Tuesday 24 November 2026, KO 20:00 - Derby away.
-- **Status:** all facts from WebSearch summaries only (every match page was blocked from direct fetch). Score, scorers, XI, subs and attendance agree across sources; squad numbers marked TBC and goal difference are unconfirmed. See "Still open" at the bottom.
+- **Fixture:** EFL Championship, Matchday 17, Molineux, Tuesday 24 November 2026, KO 20:00 - Derby away.
+- **Status:** XI with squad numbers, formation, subs, bookings, goals, attendance, match stats, the table and the Watford kick-off are checked against ESPN's match data (fetched 25 Nov). Eustace quotes and two player details are from search summaries only. No fan quotes (Bluesky unreachable from this environment). See "Still open".
 
 ---
 
 ## Title field
 
 ```
-Wolves 3-0 Derby: one shot on goal at Molineux, and now we're bottom
+Wolves 3-0 Derby: one shot on target, 39 against, and now we're bottom
 ```
 
 ## Public preview (above the paywall)
@@ -17,11 +17,11 @@ Wolves 3-0 Derby: one shot on goal at Molineux, and now we're bottom
 ```
 Carlton Morris had a clear chance inside two minutes at Molineux and Nasser Djiga took it off his toes.
 
-That was more or less Derby's evening in attack.
+That was more or less Derby's evening in attack: six shots, one on target.
 
-Adam Armstrong scored twice and Mateus Mané once, Wolves went second, and with Preston winning 4-0 at Cardiff, Derby are now bottom of the Championship.
+Wolves had 39 shots, Adam Armstrong scored twice and Mateus Mané once, and Wolves went second.
 
-Eustace says we "tired in the second half". We'd noticed.
+Preston won 4-0 at Cardiff on the same night, so Derby are now bottom of the Championship.
 
 Full breakdown for patrons below 👇
 ```
@@ -31,7 +31,7 @@ Full breakdown for patrons below 👇
 ```
 ## The Match
 
-EFL Championship, Matchday 16
+EFL Championship, Matchday 17
 Wolverhampton Wanderers vs Derby County
 Tuesday 24 November 2026, KO 20:00
 Molineux, Wolverhampton
@@ -41,82 +41,78 @@ Molineux, Wolverhampton
 
 ⚪ #1 — Jacob Widell Zetterström
 ⚪ #28 — Dion Sanderson
-⚪ #TBC — Matt Clarke
-⚪ #TBC — Shane Duffy
+⚪ #25 — Shane Duffy
+⚪ #5 — Matt Clarke
 ⚪ #24 — Ryan Nyambe
-⚪ #TBC — Alex Mowatt
+⚪ #13 — Filip Bilbija
 ⚪ #4 — David Ozoh
+⚪ #20 — Alex Mowatt
 ⚪ #10 — Rhian Brewster
-⚪ #TBC — Filip Bilbija
-⚪ #TBC — Mohammed Fuseini
+⚪ #16 — Mohammed Fuseini
 ⚪ #9 — Carlton Morris (c)
 
-(4-2-3-1)
+(3-5-2)
 
 
 ## Subs
 
+**58'** Bilbija ↓ · ↑ Clark
 **58'** Morris ↓ · ↑ Salvesen
-**59'** Bilbija ↓ · ↑ Clark
-**80'** Mowatt ↓ · ↑ Fraulo
-**80'** Fuseini ↓ · ↑ Blackett-Taylor
+**80'** Duffy ↓ · ↑ Johnston
+**81'** Mowatt ↓ · ↑ Fraulo
+**81'** Fuseini ↓ · ↑ Blackett-Taylor
 
 
 ## The People, Not Just the Sheet
 
 ### Jacob Zetterström
-Three past him, and not one of them is on him. Armstrong's second went into the top corner from distance, which is the kind of finish you applaud quietly and then go and sit in the car. When your keeper is the busiest man in the team every single week, the problem is in front of him.
+Six saves, three conceded, and not one of them is on him. Wolves had 39 shots and nine on target, which means he was basically doing a shooting drill with 28,970 people watching. Armstrong's second was a volley into the top corner, the kind you applaud quietly and then go and sit in the car. When your keeper is the busiest man in the team every single week, the problem is in front of him.
 
 ### Carlton Morris
-Had the best chance Derby created all night, inside two minutes, and Djiga got a tackle in. He still finished as Derby's top shooter with three of our six attempts, which tells you everything about the other ten. Hooked on 58' for Salvesen. The captain can't do it on his own, and on nights like this it looks like he's been asked to.
+Had Derby's best chance of the night inside two minutes and Djiga got a tackle in. Still finished with three of our six shots, which tells you everything about the other ten. Hooked on 58' for Salvesen. The captain can't do it on his own, and on nights like this it looks like he's been asked to.
 
 ### Filip Bilbija
-First full start after eight sub appearances, and he got denied from six yards. Off on 59' for Clark. Not the night he'd have wanted to finally get the shirt, but on this evidence he's owed a few more go's before anyone writes him off.
-
-### Mohammed Fuseini
-Had a couple of the clearer early openings, per the reports, and didn't make either count. Off on 80' for Blackett-Taylor. If we're going to stay up, early chances have to become early goals, because we're not getting many late ones.
-
-### Alex Mowatt
-The ratings piece headline went with "eight-touch midfielder", and while we don't know who exactly they were pointing at, a central midfielder getting barely involved in a 4-2-3-1 is not a great look. Off on 80' for Fraulo. [Confirm from the ratings piece whether "eight touches" is Mowatt or Ozoh before publishing.]
+First league start after a run of sub appearances, and got denied from six yards. Off on 58' with Clark coming on. Not the night he'd have wanted to finally get the shirt, but one start in a side that managed one shot on target isn't enough to judge him on.
 
 ### Ryan Nyambe
-Six tackles, the most of anyone in a Derby shirt. When your right back is the busiest man on the pitch bar the keeper, you know which way the game was going.
+Six tackles from right wing-back, the most of anyone in a Derby shirt. When your wing-back is the busiest outfield player on the pitch, you know which way the game was going. We had 35% of the ball and won one corner to their eleven.
 
-### Matt Clarke
-Back in the starting XI after injury, which is the closest thing to good news in this report. Eustace is banking on him, Duffy and Robinson getting fit to fix this. One clean sheet would be a start.
+### Matt Clarke and Shane Duffy
+Both back in from the start, which is the closest thing to good news in this report. Duffy made way for Johnston on 80', just after the second and third went in two minutes apart. Eustace is banking on these two, plus Jack Robinson, getting fit and staying fit to fix this. One clean sheet would be a start.
+
+### Mohammed Fuseini
+Had a couple of the clearer early openings and didn't make either count. Off on 81' for Blackett-Taylor. If we're going to stay up, early chances have to become early goals, because we're not getting late ones.
 
 
 ## Stats Snapshot
 
-Goals: none for Derby (Wolves: 29' Armstrong, 75' Mané, 76' Armstrong)
-Bookings: none reported for Derby
+Goals: none for Derby (Wolves: 29' Armstrong, 74' Mané, 76' Armstrong)
+Bookings: none for Derby
 Attendance: 28,970. Away fans figure not published.
 Distance travelled: approximately 45 miles from Pride Park to Molineux
 
 
 ## The Read
 
-Six shots, one early chance, and a second half Eustace himself described as "we didn't come out at all really". One win in 13 league games. That's not a blip, that's the season.
+Six shots, one on target, and a second half Eustace himself summed up as "we didn't come out at all really". One win in 13 league games. That's not a blip, that's the season.
 
-Wolves are a top-three side and losing there isn't the scandal. Losing there like that is. Eustace said we missed "two or three chances" and you "can't afford to let them off" against a top team, which is true, but we didn't exactly have many to miss.
+Wolves are second and losing there isn't the scandal. Losing there like that is. Eustace said we missed "two or three chances" and you "can't afford to let them off" against a top team, which is true, but we didn't exactly have many to miss.
 
-The good news, if you squint, is that the bottom of this league is tight. Preston were bottom on Saturday and are now above us after one win. One win flips it back.
+The scary number is goal difference. We're on -21, five worse than anyone else in the bottom five. Level on points won't be enough.
 
-Which makes Saturday the whole thing. Watford at home, a side sitting just above the drop zone, and there's no "tough fixture" excuse this time.
+The good news, if you squint, is that the bottom is tight. Preston were bottom on Saturday and are now two points clear after one win. One win flips it back. Which makes Saturday the whole thing: Watford at home, sitting 20th and five points ahead of us, and no "tough fixture" excuse this time.
 
 
 ## Standings
 
-Derby are now 24th in the table with 10 points from 16 games and a goal difference of [TBC], below Preston North End and with nobody beneath them.
+Derby are now 24th in the table with 10 points from 17 games and a goal difference of -21, below Burnley and with nobody beneath us. Burnley and Watford both have a game in hand.
 
-[Insert cropped table image here - Derby plus the four teams above, with Derby highlighted.]
+![Championship table, 20th to 24th: 20 Watford, P16, 15 pts, GD -14. 21 Lincoln City, P17, 15 pts, GD -16. 22 Preston North End, P17, 12 pts, GD -13. 23 Burnley, P16, 11 pts, GD -9. 24 Derby County (highlighted), P17, 10 pts, GD -21.](assets/2026-11-24-wolves-3-0-derby/standings.png)
 
 
 ## In Their Words
 
-[No fan quotes found yet. Pull 2-3 from Bluesky/Facebook, or swap for the comment prompt below.]
-
-Patrons, over to you: Watford at home on Saturday. Who comes in, and who has to sit down after last night? Tell us below 👇
+Patrons, over to you. Watford at home on Saturday: after one shot on target at Molineux, who comes in, and who has to sit down? Tell us below 👇
 
 
 ## Eustace Said
@@ -145,31 +141,24 @@ Watford — Home — Saturday 28 November 2026, KO 15:00 (4 days) — per fixtur
 
 ## Images
 
-- **Hero image:** edit the Canva template, https://canva.link/zhp1gafamj0uzsa (Wolves gold/black vs Derby white, "3 - 0").
-- **Standings image:** needs a screenshot from Si. Derby are 24th, so crop the bottom five rows (Derby and the four above).
+- **Hero image:** generated with `tools/cover_image.js`, saved as `assets/2026-11-24-wolves-3-0-derby/hero-wolves-3-0-derby.jpg`. Wolves overridden to black (`--home-colour "#231F20"`) because their gold clashes with Derby's.
+- **Standings image:** generated with `tools/standings_image.py`, saved as `assets/2026-11-24-wolves-3-0-derby/standings.png`.
 
 ## Still open
 
-- **Squad numbers TBC:** Clarke, Duffy, Mowatt, Bilbija, Fuseini.
-- **Goal difference:** not found in search results. Derby's GD was -11 after Sheffield United (game 12); needs the current figure.
-- **Table:** Derby bottom is reported by the Yahoo ratings piece and implied by Preston's 4-0 win at Cardiff (9 to 12 points). Burnley's Tuesday result not found, so their position above Derby is unconfirmed.
-- **Mané's goal minute:** Wolves report says 75', ESPN/FotMob say 74'. Draft uses the club's 75'.
-- **Sub minutes:** composite of FotMob and match reports (58'/59', 80'/81').
-- **"Eight-touch midfielder":** headline of the Yahoo ratings piece; player not confirmed from snippets.
-- **Fan quotes:** none found.
-- **Player tracker:** lives in Google Drive, needs updating separately.
-- **Watford KO:** club listing says 15:00; fixtur.es not checked.
+- **No fan quotes.** Bluesky (and the fan-feed Worker, no `FAN_FEED_URL`) isn't reachable from this environment, so In Their Words is a comment prompt. Swap in 2-3 quotes if you've got some.
+- **Eustace quotes** come from search summaries of the post-match coverage (AOL/BBC syndication), not a fetched page.
+- **Morris's early chance blocked by Djiga, Bilbija denied from six yards, Nyambe's six tackles** are from search summaries (Sky Sports, Yahoo ratings, PlayerStats), not ESPN's data.
+- **Burnley and Watford have a game in hand.** If either plays before this goes out, regenerate `standings.png`.
+- **Player tracker:** lives in Google Drive, not updated by this draft.
 
 ## Sources
 
-- [Wolves 3-0 Derby report (wolves.co.uk)](https://www.wolves.co.uk/news/mens-first-team/20261124-report-wolves-3-0-derby/)
-- [Wolves 3-0 Derby (ESPN)](https://www.espn.co.uk/football/match/_/gameId/401880141)
+- [ESPN match summary API (event 401880141)](https://site.api.espn.com/apis/site/v2/sports/soccer/eng.2/summary?event=401880141): lineups, numbers, formation, subs, goals, bookings, attendance, stats
+- [ESPN Championship standings API](https://site.api.espn.com/apis/v2/sports/soccer/eng.2/standings)
+- [ESPN Derby schedule API](https://site.api.espn.com/apis/site/v2/sports/soccer/eng.2/teams/374/schedule?fixture=true)
 - [Wolverhampton Wanderers 3-0 Derby County (Sky Sports)](https://www.skysports.com/football/news/13610525/wolverhampton-wanderers-3-0-derby-county-adam-armstrong-nets-twice-in-wolves-win)
-- [Wolves vs Derby (FotMob)](https://www.fotmob.com/matches/wolverhampton-wanderers-vs-derby-county/2wwu18)
 - [Derby County player ratings vs Wolves (Yahoo Sports)](https://uk.sports.yahoo.com/news/derby-county-player-ratings-vs-220100047.html)
-- [Team news: Wolves vs Derby (dcfc.co.uk)](https://www.dcfc.co.uk/news/2026/11/team-news-wolverhampton-wanderers-vs-derby-county)
-- [Wolves 3-0 Derby stats and timeline (bet365 News)](https://news.bet365.com/en-gb/article/wolves-3-0-derby-county-match-stats-and-timeline-armstrong-nets-brace-against-hapless-rams/2026112421381754181)
 - [Wolves 3-0 Derby (PlayerStats)](https://playerstats.football/fixture/wolverhampton-wanderers/derby-county/2026-11-24)
 - [Eustace confident Derby can escape relegation peril (AOL)](https://www.aol.com/articles/eustace-confident-derby-escape-relegation-233435000.html)
 - [Cardiff 0-4 Preston (ESPN)](https://africa.espn.com/soccer/match/_/gameId/401880147/preston-north-end-cardiff-city)
-- [Derby County fixtures (dcfc.co.uk)](https://www.dcfc.co.uk/fixtures)
