@@ -35,8 +35,8 @@ const competition = flag('--competition') || 'EFL Championship';
 const date = flag('--date');
 const fontFile = flag('--font') || path.join(DIR, 'fonts', 'alfa-slab-one.woff2');
 const [out, home, away, score] = args;
-if (!score || !/^\d{4}-\d{2}-\d{2}$/.test(date || '')) {
-  console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0" --date YYYY-MM-DD'); process.exit(1);
+if (score === undefined || !/^\d{4}-\d{2}-\d{2}$/.test(date || '')) {
+  console.error('Usage: node tools/cover_image.js out.jpg "Home" "Away" "2 - 0" --date YYYY-MM-DD (use "" for no score)'); process.exit(1);
 }
 // "Sat 21 Nov 2026"
 const d = new Date(date + 'T12:00:00Z');
